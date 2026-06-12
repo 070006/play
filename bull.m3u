@@ -1,5 +1,5 @@
 #EXTM3U deinterlace=1 m3uautoload=1 url-tvg="https://iptvx.one/EPG"
-#EXTINF:-1  group-title="Информация 📌" tvg-logo="https://dl.dropbox.com/scl/fi/ov1ojkcly2djf8nzi225x/bull1.png?rlkey=do43cim9aaa23lenkd86pgz9s&st=p8tiyvxj", Обновлено: 🔷08.06.2026🔷
+#EXTINF:-1  group-title="Информация 📌" tvg-logo="https://dl.dropbox.com/scl/fi/ov1ojkcly2djf8nzi225x/bull1.png?rlkey=do43cim9aaa23lenkd86pgz9s&st=p8tiyvxj", Обновлено: 🔷04.06.2026🔷
 http://serv30.vintera.tv:8081/sochi/sochi_stream/chunks.m3u8
 #EXTINF:-1  group-title="Pro 🇷🇺" tvg-name="Первый HD" url-tvg="iptvx.one" tvg-id="pervy" tvg-logo="https://dl.dropbox.com/s/2qri8tu8q1wiu0h/Pervyihd.png", Первый HD
 https://edge3.1internet.tv/dash-live2/streams/1tv/1tvdash.mpd
@@ -87,8 +87,8 @@ http://127.0.0.1:6878/hls/manifest.m3u8?infohash=8a8f6a325daa9b61370ea7800359b11
 http://127.0.0.1:6878/hls/manifest.m3u8?infohash=42e959bffd0dd0f138dd03abf387b4284ece7e30&.m3u8
 #EXTINF:-1  group-title="Pro 🇷🇺" tvg-name="EUROSPORT 2 HD" url-tvg="iptvx.one" tvg-id="eurosport2" tvg-logo="https://www.dropbox.com/s/nqzye77glimcbsf/Eurosport2_%20.png?dl=1", Eurosport 2 HD 🇷🇺
 http://127.0.0.1:6878/hls/manifest.m3u8?infohash=3fee4ce1dbc079ff3f302535070d9547988a407c&.m3u8
-
-
+#EXTINF:-1  group-title="Pro 🇷🇺" tvg-name="OKKO Прайм Спорт HD" url-tvg="iptvx.one" tvg-id="okko-sport-2" tvg-logo="https://www.dropbox.com/scl/fi/6q4j205twgs8r6vdqkl8a/okko-sport-2.png?rlkey=fs9tfjafr9nj5yxgivpzi7vf8&st=7ns4o498&dl=1", Окко Прайм Спорт
+http://tv.woobl.ru/okko_praym_sport_hd/video.m3u8?token=woobliptvz
 
 
 
