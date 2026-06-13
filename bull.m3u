@@ -1,5 +1,5 @@
 #EXTM3U deinterlace=1 m3uautoload=1 url-tvg="https://iptvx.one/EPG"
-#EXTINF:-1  group-title="Информация 📌" tvg-logo="https://dl.dropbox.com/scl/fi/ov1ojkcly2djf8nzi225x/bull1.png?rlkey=do43cim9aaa23lenkd86pgz9s&st=p8tiyvxj", Обновлено: 🔷04.06.2026🔷
+#EXTINF:-1  group-title="Информация 📌" tvg-logo="https://dl.dropbox.com/scl/fi/ov1ojkcly2djf8nzi225x/bull1.png?rlkey=do43cim9aaa23lenkd86pgz9s&st=p8tiyvxj", Обновлено: 🔷13.06.2026🔷
 http://serv30.vintera.tv:8081/sochi/sochi_stream/chunks.m3u8
 #EXTINF:-1  group-title="Pro 🇷🇺" tvg-name="Первый HD" url-tvg="iptvx.one" tvg-id="pervy" tvg-logo="https://dl.dropbox.com/s/2qri8tu8q1wiu0h/Pervyihd.png", Первый HD
 https://edge3.1internet.tv/dash-live2/streams/1tv/1tvdash.mpd
@@ -87,8 +87,8 @@ http://127.0.0.1:6878/hls/manifest.m3u8?infohash=8a8f6a325daa9b61370ea7800359b11
 http://127.0.0.1:6878/hls/manifest.m3u8?infohash=42e959bffd0dd0f138dd03abf387b4284ece7e30&.m3u8
 #EXTINF:-1  group-title="Pro 🇷🇺" tvg-name="EUROSPORT 2 HD" url-tvg="iptvx.one" tvg-id="eurosport2" tvg-logo="https://www.dropbox.com/s/nqzye77glimcbsf/Eurosport2_%20.png?dl=1", Eurosport 2 HD 🇷🇺
 http://127.0.0.1:6878/hls/manifest.m3u8?infohash=3fee4ce1dbc079ff3f302535070d9547988a407c&.m3u8
-#EXTINF:-1  group-title="Pro 🇷🇺" tvg-name="OKKO Прайм Спорт HD" url-tvg="iptvx.one" tvg-id="okko-sport-2" tvg-logo="https://www.dropbox.com/scl/fi/6q4j205twgs8r6vdqkl8a/okko-sport-2.png?rlkey=fs9tfjafr9nj5yxgivpzi7vf8&st=7ns4o498&dl=1", Окко Прайм Спорт
-http://tv.woobl.ru/okko_praym_sport_hd/video.m3u8?token=woobliptvz
+
+
 
 
 
@@ -131,6 +131,8 @@ http://127.0.0.1:6878/ace/getstream?infohash=2a685561a8c29c02e99a31e27ecf1382ace
 http://127.0.0.1:6878/hls/manifest.m3u8?infohash=42832fbf9a1d3bdcca043e09951d6769fbbe04e7&.m3u8
 #EXTINF:-1  group-title="Pro 🇷🇺" tvg-name="Sky Sports Main Event HD" url-tvg="iptvx.one" tvg-id="sky-sports-maine" tvg-logo="https://www.dropbox.com/scl/fi/a12s7dbco1xogeixy806v/sky-sports-maine.png?rlkey=i7brqocp92vzjwctq45kr9n9z&st=xw417nma&dl=1", Sky Sports Main Event HD
 http://127.0.0.1:6878/hls/manifest.m3u8?infohash=78266c15035d0ad8cbc58f821733931e1de434ab&.m3u8
+#EXTINF:-1  group-title="Pro 🇷🇺" tvg-name="Tennis Channel HD", Tennis Channel HD
+http://127.0.0.1:6878/ace/getstream?infohash=e4b5f07bbfce16ad3f57a4cdf3210a9fa8785ff4&.m3u8
 #EXTINF:-1  group-title="Pro 🇷🇺" tvg-name="SuperTennis HD" url-tvg="iptvx.one" tvg-id="supertennis" tvg-logo="http://i122.fastpic.org/big/2023/0708/4a/4cff3350a011053dfff491a7b162bd4a.png", SuperTennis HD
 http://127.0.0.1:6878/ace/getstream?infohash=7a57543cb6061648dc44c5d4321bd100bc8a47ca&.m3u8
 #EXTINF:-1  group-title="Pro 🇷🇺" tvg-name="ORF SPORT+ HD" tvg-logo="https://filmax-tv.ru/storage/images/channels/4517d7f61d91661e93538398ae3f6671.png?d=1747992616", ORF SPORT+ HD
@@ -548,6 +550,8 @@ http://127.0.0.1:6878/hls/manifest.m3u8?infohash=9510f65da1d8a4a2b7c972fdc2f1b19
 http://127.0.0.1:6878/hls/manifest.m3u8?infohash=d74bdd567469ed170b670db8b8947061e964fb84&.m3u8
 #EXTINF:-1  group-title="↕️ Спортивные ⚽" tvg-name="Eurosport 2 HD [PL]" tvg-id="eurosport2-pl" tvg-logo="https://www.dropbox.com/s/nqzye77glimcbsf/Eurosport2_%20.png?dl=1", Eurosport 2 HD 🇵🇱
 http://127.0.0.1:6878/hls/manifest.m3u8?infohash=a9fc65ae6e7b537f106c07471b7a66b2cbc87069&.m3u8
+#EXTINF:-1  group-title="↕️ Спортивные ⚽" tvg-name="Eurosport [ES]" tvg-id="eurosport1-es" tvg-logo="https://www.dropbox.com/s/not10qehlikt3oi/Eurosport1_%20.png?dl=1", Eurosport 1 HD 🇪🇸
+http://127.0.0.1:6878/hls/manifest.m3u8?infohash=dd5af5b37e31838e0b6015f40fdc906576d7218e&.m3u8
 #EXTINF:-1  group-title="↕️ Спортивные ⚽" tvg-id="match-igra" tvg-logo="https://www.dropbox.com/s/ptuwzkgaaq1be22/match%21igra__.png?dl=1", Матч! Игра HD
 http://127.0.0.1:6878/hls/manifest.m3u8?infohash=20be180e057ac43660627ca9fe66eaa6bd6c1aee&.m3u8
 #EXTINF:-1  group-title="↕️ Спортивные ⚽" tvg-id="match-arena" tvg-logo="https://www.dropbox.com/s/sa04kwhshhs098v/match%21arena__.png?dl=1", Матч! Арена HD
@@ -615,7 +619,7 @@ http://127.0.0.1:6878/hls/manifest.m3u8?infohash=0de043f3043f5a18603013304159cc2
 #EXTINF:-1  group-title="↕️ Спортивные ⚽" tvg-id="russky-ekstrim", Russian Extreme HD
 http://127.0.0.1:6878/hls/manifest.m3u8?id=ed63659df12baa6febbe70f4125b6527aa1ae413&.m3u8
 #EXTINF:-1  group-title="↕️ Спортивные ⚽" tvg-name="Tennis Channel HD", Tennis Channel HD
-http://127.0.0.1:6878/ace/getstream?infohash=8941762ddb41ff774d02431b7973f759d7c74157&.m3u8
+http://127.0.0.1:6878/ace/getstream?infohash=e4b5f07bbfce16ad3f57a4cdf3210a9fa8785ff4&.m3u8
 #EXTINF:-1  group-title="↕️ Спортивные ⚽" tvg-name="Tennis Channel HD", Tennis Channel HD
 http://127.0.0.1:6878/ace/getstream?infohash=1b348443efc7f0cf4cdf349ac35bbe5d41be6220&.m3u8
 
@@ -796,6 +800,10 @@ http://127.0.0.1:6878/hls/manifest.m3u8?infohash=769777a873e3649a22ac4482b19685c
 http://127.0.0.1:6878/hls/manifest.m3u8?infohash=00c505e3e33687ecac47ef2a555497e66ebdc5af&.m3u8
 #EXTINF:-1  group-title="↕️ Спортивные ⚽" tvg-name="Sky Sport 2 HD [DE]", Sky Sport 2 HD 🇩🇪
 http://127.0.0.1:6878/hls/manifest.m3u8?infohash=2707b05c94cf5d582e8ff71d3b35f8d1219ad0ac&.m3u8
+#EXTINF:-1  group-title="↕️ Спортивные ⚽" tvg-name="Vamos", Vamos 🇪🇸
+http://127.0.0.1:6878/hls/manifest.m3u8?infohash=9dcfaae97cd36be63dd1e10705f1b33ec586e5a5&.m3u8
+#EXTINF:-1  group-title="↕️ Спортивные ⚽" tvg-name="DAZN LaLiga Shickat", DAZN LaLiga Shickat 🇪🇸
+http://127.0.0.1:6878/hls/manifest.m3u8?infohash=b119416386155a6b85e7d0c7cab3ab92c7bfb87c&.m3u8
 #EXTINF:-1  group-title="↕️ Спортивные ⚽" tvg-name="beIN Sports Xtra [US]" tvg-id="bein-sports-xtra-us", beIN SPORTS XTRA 🇪🇸
 http://127.0.0.1:6878/hls/manifest.m3u8?infohash=ac033bf7bf6eb4efa5ca3f8070742093eab47685&.m3u8
 #EXTINF:-1  group-title="↕️ Спортивные ⚽" tvg-name="DAZN LaLiga", DAZN_LaLiga_FHD 🇪🇸
