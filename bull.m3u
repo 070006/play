@@ -1,5 +1,5 @@
 #EXTM3U deinterlace=1 m3uautoload=1 url-tvg="https://iptvx.one/EPG"
-#EXTINF:-1  group-title="Информация 📌" tvg-logo="https://dl.dropbox.com/scl/fi/ov1ojkcly2djf8nzi225x/bull1.png?rlkey=do43cim9aaa23lenkd86pgz9s&st=p8tiyvxj", Обновлено: 🔷13.06.2026🔷
+#EXTINF:-1  group-title="Информация 📌" tvg-logo="https://dl.dropbox.com/scl/fi/ov1ojkcly2djf8nzi225x/bull1.png?rlkey=do43cim9aaa23lenkd86pgz9s&st=p8tiyvxj", Обновлено: 🔷20.06.2026🔷
 http://serv30.vintera.tv:8081/sochi/sochi_stream/chunks.m3u8
 #EXTINF:-1  group-title="Pro 🇷🇺" tvg-name="Первый HD" url-tvg="iptvx.one" tvg-id="pervy" tvg-logo="https://dl.dropbox.com/s/2qri8tu8q1wiu0h/Pervyihd.png", Первый HD
 https://edge3.1internet.tv/dash-live2/streams/1tv/1tvdash.mpd
@@ -227,54 +227,54 @@ http://127.0.0.1:6878/hls/manifest.m3u8?id=99da47072cf6d0d9323479791026c48961889
 
 
 
-#EXTINF:-1  group-title="Трансляции 🏆" tvg-logo="http://i120.fastpic.org/big/2022/0807/b9/1ce78e7983455eba9ab9216630cab7b9.png", Наш Спорт 1
-https://livetv.mylifeisgood.net.ru/channels/nashhokkey1.m3u8
-#EXTINF:-1  group-title="Трансляции 🏆" tvg-logo="http://i120.fastpic.org/big/2022/0807/be/0e0db507dc74603ec2ef9e7b37c738be.png", Наш Спорт 2
-https://livetv.mylifeisgood.net.ru/channels/nashhokkey2.m3u8
-#EXTINF:-1  group-title="Трансляции 🏆" tvg-logo="http://i120.fastpic.org/big/2022/0807/b9/26a75b2ad9c36604d3f5b7fd9529efb9.png", Наш Спорт 3
-https://livetv.mylifeisgood.net.ru/channels/nashhokkey3.m3u8
-#EXTINF:-1  group-title="Трансляции 🏆" tvg-logo="http://i120.fastpic.org/big/2022/0807/27/5647ed80a0f0d86f16c19b106c5c8e27.png", Наш Спорт 4
-https://livetv.mylifeisgood.net.ru/channels/nashhokkey4.m3u8
-#EXTINF:-1  group-title="Трансляции 🏆" tvg-logo="http://i120.fastpic.org/big/2022/0807/29/d9b5036a1bb53df3544a0599ca695329.png", Наш Спорт 5
-https://livetv.mylifeisgood.net.ru/channels/nashhokkey5.m3u8
-#EXTINF:-1  group-title="Трансляции 🏆" tvg-logo="http://i120.fastpic.org/big/2022/0807/84/e4f03de29d9dc31f5cb013bc83b17d84.png", Наш Спорт 6
-https://livetv.mylifeisgood.net.ru/channels/nashhokkey6.m3u8
-#EXTINF:-1  group-title="Трансляции 🏆" tvg-logo="http://i120.fastpic.org/big/2022/0807/39/bbce1cd5d3a6db6d2f7c216577540739.png", Наш Спорт 7
-https://livetv.mylifeisgood.net.ru/channels/nashhokkey7.m3u8
-#EXTINF:-1  group-title="Трансляции 🏆" tvg-logo="http://i120.fastpic.org/big/2022/0807/0a/8029b20f6dcb27dae18f33768c16d70a.png", Наш Спорт 8
-https://livetv.mylifeisgood.net.ru/channels/nashhokkey8.m3u8
-#EXTINF:-1  group-title="Трансляции 🏆" tvg-logo="http://i120.fastpic.org/big/2022/0807/f4/6e397ae575d0744d702cb463e77633f4.png", Наш Спорт 9
-https://livetv.mylifeisgood.net.ru/channels/nashhokkey9.m3u8
-#EXTINF:-1  group-title="Трансляции 🏆" tvg-logo="http://i120.fastpic.org/big/2022/0807/a8/668ee4f0415f4f88588bf95b5d4f57a8.png", Наш Спорт 10
-https://livetv.mylifeisgood.net.ru/channels/nashsport10.m3u8
-#EXTINF:-1  group-title="Трансляции 🏆" tvg-logo="http://i120.fastpic.org/big/2022/0807/f1/0969b8886e3a89cf076fbd5516c277f1.png", Наш Спорт 11
-https://livetv.mylifeisgood.net.ru/channels/nashsport11.m3u8
-#EXTINF:-1  group-title="Трансляции 🏆" tvg-logo="http://i120.fastpic.org/big/2022/0807/dc/97f7bc90c8b9aad2d22f03200e9d27dc.png", Наш Спорт 12
-https://livetv.mylifeisgood.net.ru/channels/nashsport12.m3u8
-#EXTINF:-1  group-title="Трансляции 🏆" tvg-logo="http://i120.fastpic.org/big/2022/0807/7e/46c45ccf3ddfc7e8bfe726a38a834b7e.png", Наш Спорт 13
-https://livetv.mylifeisgood.net.ru/channels/nashsport13.m3u8
-#EXTINF:-1  group-title="Трансляции 🏆" tvg-logo="http://i120.fastpic.org/big/2022/0807/35/66f557dbeffccb4afd6663ede7902f35.png", Наш Спорт 14
-https://livetv.mylifeisgood.net.ru/channels/nashsport14.m3u8
-#EXTINF:-1  group-title="Трансляции 🏆" tvg-logo="http://i120.fastpic.org/big/2022/0807/e0/3737396d264c1ce648711e50f66edce0.png", Наш Спорт 15
-https://livetv.mylifeisgood.net.ru/channels/nashsport15.m3u8
-#EXTINF:-1  group-title="Трансляции 🏆" tvg-logo="http://i120.fastpic.org/big/2022/0807/a8/583e38a8650c6e06ed4f1ec9dd9836a8.png", Наш Спорт 16
-https://livetv.mylifeisgood.net.ru/channels/nashsport16.m3u9
-#EXTINF:-1  group-title="Трансляции 🏆" tvg-logo="http://i120.fastpic.org/big/2022/0807/6c/5ddf0b0eb0c0c894c4d92004e9b8b66c.png", Наш Спорт 17
-https://livetv.mylifeisgood.net.ru/channels/nashsport17.m3u8
-#EXTINF:-1  group-title="Трансляции 🏆" tvg-logo="http://i120.fastpic.org/big/2022/0807/43/0d931299e909cc99714f0a513af99043.png", Наш Спорт 18
-https://livetv.mylifeisgood.net.ru/channels/nashsport18.m3u8
-#EXTINF:-1  group-title="Трансляции 🏆" tvg-logo="http://i120.fastpic.org/big/2022/0807/00/0f29951169d43de54958b427a0c3cc00.pnghttp://i120.fastpic.org/big/2022/0807/00/0f29951169d43de54958b427a0c3cc00.png", Наш Спорт 19
-https://livetv.mylifeisgood.net.ru/channels/nashsport19.m3u8
-#EXTINF:-1  group-title="Трансляции 🏆" tvg-logo="http://i120.fastpic.org/big/2022/0807/69/f6b0be44534c239e63d459f2073cb569.png", Наш Спорт 20
-https://livetv.mylifeisgood.net.ru/channels/nashsport20.m3u8
-#EXTINF:-1  group-title="Трансляции 🏆" tvg-logo="http://i120.fastpic.org/big/2022/0807/46/3e0c97aca650b5d9b2dbdd3155e91446.png", Наш Спорт 21
-https://livetv.mylifeisgood.net.ru/channels/nashsport21.m3u8
-#EXTINF:-1  group-title="Трансляции 🏆" tvg-logo="http://i120.fastpic.org/big/2022/0807/b5/6d2d58fe977a6da38bfcd0d7ee71b0b5.png", Наш Спорт 22
-https://livetv.mylifeisgood.net.ru/channels/nashsport22.m3u8
-#EXTINF:-1  group-title="Трансляции 🏆" tvg-logo="http://i120.fastpic.org/big/2022/0807/5d/79c4200df808e1d7b8cfdaef83c3245d.png", Наш Спорт 23
-https://livetv.mylifeisgood.net.ru/channels/nashsport23.m3u8
-#EXTINF:-1  group-title="Трансляции 🏆" tvg-logo="http://i120.fastpic.org/big/2022/0807/2d/9da40e23165adfc6857a1b67b8bd212d.png", Наш Спорт 24
-https://livetv.mylifeisgood.net.ru/channels/nashsport24.m3u8
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 #EXTINF:-1  group-title="↕️ Спортивные ⚽" tvg-id="match-tv" tvg-logo="https://dl.dropbox.com/s/cjm4aeod7v7pefq/match3.png", Матч! ТВ HD
 http://127.0.0.1:6878/hls/manifest.m3u8?infohash=f69b2859510dce33b992dd1940f95254c6e6f51c&.m3u8
