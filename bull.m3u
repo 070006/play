@@ -1988,6 +1988,8 @@ http://rt-ural-nbk-htlive.cdn.ngenix.net/hls/CH_R04_OTT_YAMREG_URAL_YNF/variant.
 https://edge50.dc.beltelecom.by/ngtrk/smil:belarus1.smil/chunklist_b5160000_sleng.m3u8
 #EXTINF:-1  group-title="Беларусь 🇧🇾" tvg-id="belarus2" tvg-logo="https://filmax-tv.ru/storage/images/channels/9b90b2db8d5feeab455fcc325254445e.png?d=1742732115", Беларусь 2 HD
 https://edge50.dc.beltelecom.by/ngtrk/smil:belarus2.smil/chunklist_b5160000_sleng.m3u8
+#EXTINF:-1  group-title="Беларусь 🇧🇾" tvg-id="belarus3" tvg-logo="https://filmax-tv.ru/storage/images/channels/ca83d1111b0a7a234ebf0d6b1215f4c3.png?d=1742732115", Беларусь 3 HD
+https://edge50.dc.beltelecom.by/ngtrk/_definst_/smil:belarus3.smil/chunklist_w1684528521_b5160000_sleng.m3u8
 #EXTINF:-1  group-title="Беларусь 🇧🇾" tvg-id="belarus5" tvg-logo="https://dl.dropbox.com/s/p1668hraih7rreo/belarus%275.png", Беларусь 5 HD
 https://edge50.dc.beltelecom.by/ngtrk/smil:belarus5.smil/chunklist_b2660000_sleng.m3u8
 
@@ -2086,7 +2088,7 @@ http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/playlist.m3u8
 https://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist_hdhigh.m3u8
 #EXTINF:-1  group-title="С сайтов" tvg-id="izvestia" tvg-logo="https://filmax-tv.ru/storage/images/channels/46cf1b0e422a8e9cdca3e5e70b62dc23.png?d=1726934418", Известия HD
 http://hls-igi.cdnvideo.ru/igi/igi_hq/playlist.m3u8
-#EXTINF:-1  group-title="С сайтов" tvg-name="Конгресс ТВ" tvg-id="kongresstv" tvg-logo="https://dl.dropbox.com/scl/fi/4552au05bi8ygto72rens/kongresstv.png?rlkey=mny42mb03xzqwx41rgf1cbqea&st=1qmhl7g9", Конгресс ТВ
+#EXTINF:-1  group-title="С сайтов" tvg-name="Конгресс ТВ" tvg-id="kongresstv", Конгресс ТВ
 https://live-4.otcnet.ru/504/135/1080p/index.m3u8
 #EXTINF:-1  group-title="С сайтов", Неизвестная Россия
 https://cdn.ntv.ru/unknown_russia/tracks-v1a1/playlist.m3u8
@@ -2094,20 +2096,6 @@ https://cdn.ntv.ru/unknown_russia/tracks-v1a1/playlist.m3u8
 http://stitch.teletarget.ru/api/v1/hls/vintera/neplaneta/index.m3u8
 #EXTINF:-1  group-title="С сайтов" url-tvg="iptvx.one" tvg-id="360-news", 360° Новости HD
 https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-03-srt.smil/playlist.m3u8
-#EXTINF:-1  group-title="С сайтов", Крым 24
-http://live24.1tvcrimea.ru/switcher.m3u8
-#EXTINF:-1  group-title="С сайтов", Первый Крымский
-http://live1.trkcrimea.ru/1tvcrimea.m3u8
-#EXTINF:-1  group-title="С сайтов", Краснодар
-https://live-tvkrasnodar.cdnvideo.ru/tvkrasnodar/tvkrasnodar.sdp/playlist.m3u8
-#EXTINF:-1  group-title="С сайтов", Нижний Новгород 24
-https://vgtrkregion-reg.cdnvideo.ru/vgtrk/nigniynovgorod/nigniynovgorod24-hd/index.m3u8
-
-
-#EXTINF:-1  group-title="С сайтов", Вместе РФ
-https://qcpdqumitwf.a.trbcdn.net/livemastersrt/pr4mw_lvie-vmesterf-srt.smil/playlist.m3u8
-#EXTINF:-1  group-title="С сайтов", Конгресс ТВ
-http://live-3.otcnet.ru/congresstv/index.m3u8
 #EXTINF:-1  group-title="С сайтов", RT News
 https://rt-glb.rttv.com/live/rtnews/playlist.m3u8
 #EXTINF:-1  group-title="С сайтов" tvg-id="rtd-ru" tvg-logo="https://www.dropbox.com/s/sxf9ufcsg8j4zuw/rtd.png?dl=1", RTД HD
@@ -2120,6 +2108,12 @@ http://online.video.rbc.ru/online/rbctv_1080p/index.m3u8
 https://tass-hls.servicecdn.ru/httpstreamer/tass-loop-main.stream/playlist.m3u8
 #EXTINF:-1  group-title="С сайтов" tvg-logo="http://i116.fastpic.org/big/2022/0121/91/ce68f7dad784229e6afb3fa422292191.png", ОСН
 http://osnmedia.servicecdn.ru/streams/17603_88089/playlist.m3u8
+
+
+#EXTINF:-1  group-title="С сайтов", Вместе РФ
+https://qcpdqumitwf.a.trbcdn.net/livemastersrt/pr4mw_lvie-vmesterf-srt.smil/playlist.m3u8
+
+
 #EXTINF:-1  group-title="С сайтов" tvg-id="deutsche-welle-ru", DW Russia
 https://dwamdstream110.akamaized.net/hls/live/2017971/dwstream110/index.m3u8
 
@@ -2142,6 +2136,18 @@ https://cdn.ntv.ru/th_pravo/tracks-v1a1/playlist.m3u8
 https://cdn.ntv.ru/th_style/tracks-v1a1/playlist.m3u8
 #EXTINF:-1  group-title="С сайтов", Смотрим Кино и сериалы
 https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-01.smil/tracks-v5a1/mono.m3u8
+#EXTINF:-1  group-title="С сайтов", Смотрим 100% Любовь
+https://stream.smotrim.ru/hls/fasttv01/playlist_2.m3u8
+#EXTINF:-1  group-title="С сайтов", Смотрим 100% Мужское
+https://stream.smotrim.ru/hls/fasttv02/playlist_3.m3u8
+#EXTINF:-1  group-title="С сайтов", Смотрим 100% Классика
+https://stream.smotrim.ru/hls/fasttv03/playlist_3.m3u8
+#EXTINF:-1  group-title="С сайтов", Смотрим 100% Праздник
+https://stream.smotrim.ru/hls/fasttv04/playlist_3.m3u8
+#EXTINF:-1  group-title="С сайтов", Смотрим 100% Детское
+https://stream.smotrim.ru/hls/fasttv05/playlist_3.m3u8
+#EXTINF:-1  group-title="С сайтов", Смотрим 100% Факты
+https://stream.smotrim.ru/hls/fasttv06/playlist_3.m3u8
 #EXTINF:-1  group-title="С сайтов", Просвещение
 https://cdn-01.bonus-tv.ru/prosveschenie_edge/index.m3u8
 #EXTINF:-1  group-title="С сайтов" tvg-logo="https://filmax-tv.ru/storage/images/channels/cghfhjhkyjttjj555.png?d=1725100795", Продвижение
@@ -2152,8 +2158,24 @@ http://s55766.cdn.ngenix.net/s55766-media-origin/rline_high/index.m3u8
 http://hls.tva.cdnvideo.ru/tva/tvahd.sdp/playlist.m3u8
 
 
+#EXTINF:-1  group-title="С сайтов", Москва 24
+https://stream.smotrim.ru/hls/moscow_24/playlist_3.m3u8
+#EXTINF:-1  group-title="С сайтов", Лен ТВ 24
+https://stream.smotrim.ru/hls/lentv24/playlist_5.m3u8
+#EXTINF:-1  group-title="С сайтов", Крым 24
+http://live24.1tvcrimea.ru/switcher.m3u8
+#EXTINF:-1  group-title="С сайтов", Первый Крымский
+http://live1.trkcrimea.ru/1tvcrimea.m3u8
+#EXTINF:-1  group-title="С сайтов", ТСВ
+https://tsv.md/stream/hls/tsv-online/index.m3u8
+#EXTINF:-1  group-title="С сайтов", Краснодар
+https://live-tvkrasnodar.cdnvideo.ru/tvkrasnodar/tvkrasnodar.sdp/playlist.m3u8
+#EXTINF:-1  group-title="С сайтов", Нижний Новгород 24
+https://vgtrkregion-reg.cdnvideo.ru/vgtrk/nigniynovgorod/nigniynovgorod24-hd/index.m3u8
 #EXTINF:-1  group-title="С сайтов", Ника ТВ
 https://live-nikatv.cdnvideo.ru/nikatv/nikatv.sdp/playlist.m3u8
+#EXTINF:-1  group-title="С сайтов", Своё ТВ Ставрополь
+https://svoetv.mediacdn.ru/cdn/svoetv/tracks-v1a1/mono.m3u8
 #EXTINF:-1  group-title="С сайтов", Радость моя
 http://radm.mediacdn.ru/cdn/radost/playlist_sdhigh.m3u8
 #EXTINF:-1  group-title="С сайтов", Univer TV
