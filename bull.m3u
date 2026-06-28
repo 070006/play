@@ -11,7 +11,7 @@ http://vgtrkregion-reg.cdnvideo.ru/vgtrk/tula/russia1-hd/index.m3u8
 https://rt-ct-tula-htlive.cdn.ngenix.net/hls/CH_R04_OTT_CT_TULA_ROSSIA1/variant.m3u8
 #EXTINF:-1  group-title="Pro 🇷🇺" tvg-name="НТВ HD" url-tvg="iptvx.one" tvg-id="ntv" tvg-logo="http://i122.fastpic.org/big/2023/0704/83/14cab18a1482547103de177bd2471583.png", НТВ HD
 https://cdn.ntv.ru/ntv-msk_hd/tracks-v1a1/playlist.m3u8
-#EXTINF:-1  group-title="Pro 🇷🇺" tvg-name="НТВ HD" url-tvg="iptvx.one" tvg-id="ntv" tvg-logo="https://assets-iptv2022.cdnvideo.ru/static/channel/10100/logo_256_1655385292.png" catchup-days="3" catchup="append" catchup-source="?offset=-${offset}&utcstart=${timestamp}", НТВ (Тула)
+#EXTINF:-1  group-title="Pro 🇷🇺" tvg-name="НТВ HD" url-tvg="iptvx.one" tvg-id="ntv" tvg-logo="https://krasnovosti.ru/online_tv/img/logo_channels/ntv.jpg" catchup-days="3" catchup="append" catchup-source="?offset=-${offset}&utcstart=${timestamp}", НТВ (Тула)
 https://rt-ct-tula-htlive.cdn.ngenix.net/hls/CH_R03_OTT_CT_TULA_NTV/variant.m3u8
 #EXTINF:-1  group-title="Pro 🇷🇺" tvg-name="ТВЦ" url-tvg="iptvx.one" tvg-id="tvcentr" tvg-logo="https://dl.dropbox.com/s/ynrajzxolyvpsnd/tvtsentr.png" catchup-days="3" catchup="append" catchup-source="?offset=-${offset}&utcstart=${timestamp}", ТВЦ (Тула)
 http://rt-ct-tula-htlive.cdn.ngenix.net/hls/CH_R04_TVC/variant.m3u8
@@ -21,15 +21,15 @@ http://rt-ct-tula-htlive.cdn.ngenix.net/hls/CH_R01_PERV_TUL/variant.m3u8
 http://127.0.0.1:6878/hls/manifest.m3u8?infohash=a6169d01fb2b8a62b45857666946732773c651d1&.m3u8
 #EXTINF:-1  group-title="Pro 🇷🇺" tvg-name="ТНТ HD" url-tvg="iptvx.one" tvg-id="tnt" tvg-logo="https://dl.dropbox.com/s/hcx359u5pny4v4r/tnt.png" catchup-days="3" catchup="append" catchup-source="?offset=-${offset}&utcstart=${timestamp}", ТНТ (Тула)
 http://rt-ct-tula-htlive.cdn.ngenix.net/hls/CH_R01_TNT/variant.m3u8
-#EXTINF:-1  group-title="Pro 🇷🇺" tvg-name="Россия 24" url-tvg="iptvx.one" tvg-id="rossia-24" tvg-logo="https://www.dropbox.com/s/df8e521qutg48ce/russia-24.png?dl=1", Россия 24 HD
+#EXTINF:-1  group-title="Pro 🇷🇺" tvg-name="Россия 24" url-tvg="iptvx.one" tvg-id="rossia-24" tvg-logo="https://assets-iptv2022.cdnvideo.ru/static/channel/148/logo_256_1655391326.png", Россия 24 HD
 http://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/russia24-hd/1080p.m3u8
 #EXTINF:-1  group-title="Pro 🇷🇺" tvg-name="СТС" url-tvg="iptvx.one" tvg-id="sts" tvg-logo="https://dl.dropbox.com/s/dxerabkzs5s0wv9/sts_zheltyy.png", СТС HD
 http://127.0.0.1:6878/hls/manifest.m3u8?infohash=00ed244a3f5e36067b57b6a62b18cfa5d9dd0e22&.m3u8
-#EXTINF:-1  group-title="Pro 🇷🇺" tvg-name="СТС" url-tvg="iptvx.one" tvg-id="sts" tvg-logo="https://assets-iptv2022.cdnvideo.ru/static/channel/126/logo_256_1655445109.png" catchup-days="3" catchup="append" catchup-source="?offset=-${offset}&utcstart=${timestamp}", СТС (Тула)
+#EXTINF:-1  group-title="Pro 🇷🇺" tvg-name="СТС" url-tvg="iptvx.one" tvg-id="sts" tvg-logo="https://dl.dropbox.com/s/dxerabkzs5s0wv9/sts_zheltyy.png" catchup-days="3" catchup="append" catchup-source="?offset=-${offset}&utcstart=${timestamp}", СТС (Тула)
 http://rt-ct-tula-htlive.cdn.ngenix.net/hls/CH_R02_STS/variant.m3u8
 #EXTINF:-1  group-title="Pro 🇷🇺" tvg-name="РЕН ТВ HD" url-tvg="iptvx.one" tvg-id="rentv" tvg-logo="http://i120.fastpic.org/big/2022/0731/40/55cf12fef74a98d2776487fbb4c1d340.png" catchup-days="3" catchup="append" catchup-source="?offset=-${offset}&utcstart=${timestamp}", РЕН ТВ (Тула)
 http://rt-ct-tula-htlive.cdn.ngenix.net/hls/CH_R02_RENTV/variant.m3u8
-#EXTINF:-1  group-title="Pro 🇷🇺" tvg-name="Звезда" url-tvg="iptvx.one" tvg-id="zvezda" tvg-logo="https://assets-iptv2022.cdnvideo.ru/static/channel/72/logo_256_1655448761.png", Звезда HD
+#EXTINF:-1  group-title="Pro 🇷🇺" tvg-name="Звезда" url-tvg="iptvx.one" tvg-id="zvezda" tvg-logo="https://dl.dropbox.com/s/c1oqrefokj8h56i/zvezda.png", Звезда HD
 https://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist_hdhigh.m3u8
 #EXTINF:-1  group-title="Pro 🇷🇺" tvg-name="Россия К" url-tvg="iptvx.one" tvg-id="kultura" tvg-logo="https://assets-iptv2022.cdnvideo.ru/static/channel/83/logo_256_1655391215.png" catchup-days="3" catchup="append" catchup-source="?offset=-${offset}&utcstart=${timestamp}", Россия К (Тула)
 https://rt-ct-tula-htlive.cdn.ngenix.net/hls/CH_R02_OTT_CT_TULA_ROSSIAK/variant.m3u8
@@ -145,7 +145,7 @@ http://127.0.0.1:6878/hls/manifest.m3u8?infohash=0de043f3043f5a18603013304159cc2
 http://127.0.0.1:6878/hls/manifest.m3u8?infohash=e926e95fd0c8b79d003d9426e2a99f118f5e0796&.m3u8
 #EXTINF:-1  group-title="Pro 🇷🇺" tvg-name="ОТР" url-tvg="iptvx.one" tvg-id="otr" tvg-logo="https://dl.dropbox.com/scl/fi/a3b0a6uxidtmf5xl8lctj/.png?rlkey=8g5r4fxh04sec6c2eslckiaqz&st=k4v7t2n8" catchup-days="3" catchup="append" catchup-source="?offset=-${offset}&utcstart=${timestamp}", ОТР (Тула)
 http://rt-ct-tula-htlive.cdn.ngenix.net/hls/CH_R01_OTR/variant.m3u8
-#EXTINF:-1  group-title="Pro 🇷🇺" url-tvg="iptvx.one" tvg-id="zvezda-plus" tvg-logo="https://assets-iptv2022.cdnvideo.ru/static/channel/10704/logo_256_1655387226.png", Звезда Плюс HD
+#EXTINF:-1  group-title="Pro 🇷🇺" url-tvg="iptvx.one" tvg-id="zvezda-plus" tvg-logo="https://dl.dropbox.com/s/to5g2uymykciisn/zvezda-plus.png", Звезда Плюс HD
 http://tvzvezda.bonus-tv.ru/cdn/zvezdaplus/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1  group-title="Pro 🇷🇺" url-tvg="iptvx.one" tvg-id="360-podmoskovie" tvg-logo="https://www.dropbox.com/s/0y1m8f1fx9u0sg2/360-podmoskovie.png?dl=1", 360° HD
 https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-04-srt.smil/playlist.m3u8
@@ -179,7 +179,7 @@ http://127.0.0.1:6878/ace/manifest.m3u8?infohash=c0280edf1a8bab3e8ea8fd33e12d100
 http://127.0.0.1:6878/ace/getstream?infohash=568159b1059c7bbe3eaf40f123541fef86ef83cb&.m3u8
 #EXTINF:-1  group-title="Pro 🇷🇺" url-tvg="iptvx.one" tvg-id="super" tvg-logo="https://www.dropbox.com/s/o2oshn7ef6wjrzw/subbota.png?dl=1", Суббота! HD
 http://127.0.0.1:6878/hls/manifest.m3u8?infohash=ebeec408c96acce8cfea1dcb0a53397fbee77acf&.m3u8
-#EXTINF:-1  group-title="Pro 🇷🇺" url-tvg="iptvx.one" tvg-id="super" tvg-logo="https://assets-iptv2022.cdnvideo.ru/static/channel/10184/logo_256_1655452177.png" catchup-days="3" catchup="append" catchup-source="?offset=-${offset}&utcstart=${timestamp}", Суббота!
+#EXTINF:-1  group-title="Pro 🇷🇺" url-tvg="iptvx.one" tvg-id="super" tvg-logo="https://dl.dropbox.com/s/o2oshn7ef6wjrzw/subbota.png" catchup-days="3" catchup="append" catchup-source="?offset=-${offset}&utcstart=${timestamp}", Суббота!
 http://zabava-htlive.cdn.ngenix.net/hls/CH_SUPER/variant.m3u8
 #EXTINF:-1  group-title="Pro 🇷🇺" url-tvg="iptvx.one" tvg-id="solnce" tvg-logo="https://www.dropbox.com/scl/fi/ua2xzw3r8p19rtwip1bey/.png?rlkey=wqp7qx6e5x08u8illvm4j1a7l&dl=1" catchup-days="3" catchup="append" catchup-source="?offset=-${offset}&utcstart=${timestamp}", Солнце
 https://zabava-htlive.cdn.ngenix.net/hls/CH_DISNEY/variant.m3u8
