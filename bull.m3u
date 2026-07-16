@@ -1,5 +1,5 @@
 #EXTM3U deinterlace=1 m3uautoload=1 url-tvg="https://iptvx.one/EPG"
-#EXTINF:-1  group-title="Информация 📌" tvg-logo="https://dl.dropbox.com/scl/fi/ov1ojkcly2djf8nzi225x/bull1.png?rlkey=do43cim9aaa23lenkd86pgz9s&st=p8tiyvxj", Обновлено: ⚽ 28.06.2026 🏀
+#EXTINF:-1  group-title="Информация 📌" tvg-logo="https://dl.dropbox.com/scl/fi/ov1ojkcly2djf8nzi225x/bull1.png?rlkey=do43cim9aaa23lenkd86pgz9s&st=p8tiyvxj", Обновлено: ⚽ 16.07.2026 🏀
 http://serv30.vintera.tv:8081/sochi/sochi_stream/chunks.m3u8
 #EXTINF:-1  group-title="Pro 🇷🇺" tvg-name="Первый HD" url-tvg="iptvx.one" tvg-id="pervy" tvg-logo="https://dl.dropbox.com/s/2qri8tu8q1wiu0h/Pervyihd.png", Первый HD
 https://edge3.1internet.tv/dash-live2/streams/1tv/1tvdash.mpd
@@ -213,6 +213,20 @@ http://127.0.0.1:6878/hls/manifest.m3u8?id=65d49691687add6a93692a757817bac4f204e
 http://127.0.0.1:6878/hls/manifest.m3u8?id=78637dab85e7948057165ad0c80b3db475dd9c3d&.m3u8
 #EXTINF:-1  group-title="Трансляции 🏆" tvg-name="NO EPG Sport (заглушка)" url-tvg="iptvx.one" tvg-id="no_epg_sport" tvg-logo="https://dl.dropbox.com/s/ky1zjxy22qte6f1/Acetop.jpg", Acetop3
 http://127.0.0.1:6878/hls/manifest.m3u8?id=99da47072cf6d0d9323479791026c48961889557&.m3u8
+#EXTINF:-1  group-title="Трансляции 🏆" tvg-name="BOX SportCast Live 1 HD" url-tvg="bcu" tvg-logo="https://filmax-tv.ru/storage/images/channels/6b39ebe96919d64047129774bce16a04.png?d=1726468218", BOX SportCast Live 1 HD
+https://tinyurl.com/28bcytuo
+#EXTINF:-1  group-title="Трансляции 🏆" tvg-name="BOX SportCast Live 2 HD" url-tvg="bcu" tvg-logo="https://filmax-tv.ru/storage/images/channels/cb4d2584c815902ab88ae88bbf9797ee.png?d=1726468218", BOX SportCast Live 2 HD
+https://tinyurl.com/27ulbmh7
+#EXTINF:-1  group-title="Трансляции 🏆" tvg-name="BOX SportCast Live 3 HD" url-tvg="bcu" tvg-logo="https://filmax-tv.ru/storage/images/channels/4022b49e8e04c3e42df8775a64db3b53.png?d=1726468218", BOX SportCast Live 3 HD
+https://tinyurl.com/25syrzfl
+#EXTINF:-1  group-title="Трансляции 🏆" tvg-name="BOX SportCast Live 4 HD" url-tvg="bcu" tvg-logo="https://filmax-tv.ru/storage/images/channels/2e5f977c8cd14d9079b2a0b45363ed6e.png?d=1726468218", BOX SportCast Live 4 HD
+https://tinyurl.com/2xketpde
+#EXTINF:-1  group-title="Трансляции 🏆" tvg-name="BOX SportCast Live 5 HD" url-tvg="bcu" tvg-logo="https://filmax-tv.ru/storage/images/channels/681fe63f7a8ec6761e476725e8c31239.png?d=1726468218", BOX SportCast Live 5 HD
+https://tinyurl.com/2cgz35xt
+#EXTINF:-1  group-title="Трансляции 🏆" tvg-name="BOX SportCast Live 6 HD" url-tvg="bcu" tvg-logo="https://filmax-tv.ru/storage/images/channels/b1595f2b0097aa10d7191ab6a1c57c60.png?d=1726468218", BOX SportCast Live 6 HD
+https://tinyurl.com/29jh5j59
+#EXTINF:-1  group-title="Трансляции 🏆" tvg-name="BOX SportCast HD" url-tvg="bcu" tvg-logo="https://filmax-tv.ru/storage/images/channels/3589ca723e16e494540b9e85eccf7095.png?d=1711967194", BOX SportCast HD
+https://tinyurl.com/22ha6p6h
 
 
 
