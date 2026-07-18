@@ -2142,8 +2142,8 @@ https://dwamdstream110.akamaized.net/hls/live/2017971/dwstream110/index.m3u8
 https://brics.bonus-tv.ru/cdn/brics/russian/tracks-v1a1/mono.m3u8
 #EXTINF:-1  group-title="С сайтов", Китай ТВ
 https://cdn.nexttvnet.ru/hlsl/provide/61394/ChinaTV2/china-tv_1920x1080/index.m3u8
-#EXTINF:-1  group-title="С сайтов", Плюс Минус 16
-http://media.16pm.ru/live/tracks-v1a1/mono.ts.m3u8
+
+
 #EXTINF:-1  group-title="С сайтов" tvg-id="krik-tv", Крик-ТВ
 http://hls-rictv.cdnvideo.ru/rictv/rictv-srt-stream/playlist.m3u8
 #EXTINF:-1  group-title="С сайтов", НТВ Хит
@@ -2186,10 +2186,10 @@ http://hls.tva.cdnvideo.ru/tva/tvahd.sdp/playlist.m3u8
 https://stream.smotrim.ru/hls/moscow_24/playlist_3.m3u8
 #EXTINF:-1  group-title="С сайтов", Лен ТВ 24
 https://stream.smotrim.ru/hls/lentv24/playlist_5.m3u8
-#EXTINF:-1  group-title="С сайтов", Крым 24
-http://iptv.crimea.net:8787
-#EXTINF:-1  group-title="С сайтов", Первый Крымский
-http://live1.trkcrimea.ru/1tvcrimea.m3u8
+
+
+
+
 #EXTINF:-1  group-title="С сайтов", ТСВ
 https://tsv.md/stream/hls/tsv-online/index.m3u8
 #EXTINF:-1  group-title="С сайтов", Краснодар
