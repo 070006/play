@@ -1,5 +1,5 @@
 #EXTM3U deinterlace=1 m3uautoload=1 url-tvg="https://iptvx.one/EPG"
-#EXTINF:-1  group-title="Информация 📌" tvg-logo="https://dl.dropbox.com/scl/fi/ov1ojkcly2djf8nzi225x/bull1.png?rlkey=do43cim9aaa23lenkd86pgz9s&st=p8tiyvxj", Обновлено: ⚽ 16.07.2026 🏀
+#EXTINF:-1  group-title="Информация 📌" tvg-logo="https://dl.dropbox.com/scl/fi/ov1ojkcly2djf8nzi225x/bull1.png?rlkey=do43cim9aaa23lenkd86pgz9s&st=p8tiyvxj", Обновлено: ⚽ 18.07.2026 🏀
 http://serv30.vintera.tv:8081/sochi/sochi_stream/chunks.m3u8
 #EXTINF:-1  group-title="Pro 🇷🇺" tvg-name="Первый HD" url-tvg="iptvx.one" tvg-id="pervy" tvg-logo="https://dl.dropbox.com/s/2qri8tu8q1wiu0h/Pervyihd.png", Первый HD
 https://edge3.1internet.tv/dash-live2/streams/1tv/1tvdash.mpd
@@ -37,8 +37,6 @@ https://rt-ct-tula-htlive.cdn.ngenix.net/hls/CH_R02_OTT_CT_TULA_ROSSIAK/variant.
 http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/playlist.m3u8
 #EXTINF:-1  group-title="Pro 🇷🇺" tvg-name="Доктор HD" url-tvg="iptvx.one" tvg-id="doktor" tvg-logo="https://dl.dropbox.com/s/qanen8psk1eelv2/doctor_.png", Доктор HD
 http://127.0.0.1:6878/hls/manifest.m3u8?infohash=0334a6a2478cb04840b658cd9eec2181fadd73d4&.m3u8
-#EXTINF:-1  group-title="Pro 🇷🇺" tvg-id="zdorovoe-tv" tvg-logo="http://i115.fastpic.org/big/2021/1002/92/3401fb1d752106515dd4a66bba3b8792.png", Здоровое ТВ
-http://127.0.0.1:6878/hls/manifest.m3u8?infohash=5421d7e05a8400792bedebc375569abe0652c9b9&.m3u8
 #EXTINF:-1  group-title="Pro 🇷🇺" tvg-name="Наука HD" url-tvg="iptvx.one" tvg-id="nauka-20" tvg-logo="https://filmax-tv.ru/storage/images/channels/fb7f0d9c3a8021ccb97dd8b6b4a6d9c2.png?d=1713953716", Наука
 http://127.0.0.1:6878/hls/manifest.m3u8?infohash=64d344a0acae84a96205b9b91924d5777f147a89&.m3u8
 #EXTINF:-1  group-title="Pro 🇷🇺" tvg-name="Неизвестная Россия" url-tvg="iptvx.one" tvg-id="neizvestnaya-rosia" tvg-logo="https://dl.dropbox.com/scl/fi/cxak38v77ecc20k1fnfqr/Neizvestn-Russia.png?rlkey=61odx22as1cj65speaq46qx9m&st=2l6islxe", Неизвестная Россия HD
@@ -75,17 +73,17 @@ https://stream.smotrim.ru/hls/solovievlive/playlist_6.m3u8
 https://rt-ct-tula-htlive.cdn.ngenix.net/hls/CH_R01_OTT_CT_TULA_TULA24/variant.m3u8
 #EXTINF:-1  group-title="Pro 🇷🇺" tvg-name="1HD" url-tvg="iptvx.one" tvg-id="1hd" tvg-logo="https://filmax-tv.ru/storage/images/channels/908fe186718583fd7fcbed97ef9e179c.png?d=1764852318", 1HD
 http://127.0.0.1:6878/hls/manifest.m3u8?infohash=5b12f2cf29ad1c793998cf82fbd07ca50c9f1b59&.m3u8
-#EXTINF:-1  group-title="Pro 🇷🇺" tvg-name="Матч!" url-tvg="iptvx.one" tvg-id="match-tv" tvg-logo="https://dl.dropbox.com/s/cjm4aeod7v7pefq/match3.png", Матч! HD
+#EXTINF:-1  group-title="Pro 🇷🇺" tvg-name="Матч!" tvg-id="match-tv" tvg-logo="https://dl.dropbox.com/s/cjm4aeod7v7pefq/match3.png", Матч! HD
 http://127.0.0.1:6878/hls/manifest.m3u8?infohash=f69b2859510dce33b992dd1940f95254c6e6f51c&.m3u8
-#EXTINF:-1  group-title="Pro 🇷🇺" tvg-name="Матч! Игра HD" url-tvg="iptvx.one" tvg-id="match-igra" tvg-logo="https://www.dropbox.com/s/ptuwzkgaaq1be22/match%21igra__.png?dl=1", Матч! Игра HD
+#EXTINF:-1  group-title="Pro 🇷🇺" tvg-name="Матч! Игра HD" tvg-id="match-igra" tvg-logo="https://www.dropbox.com/s/ptuwzkgaaq1be22/match%21igra__.png?dl=1", Матч! Игра HD
 http://127.0.0.1:6878/hls/manifest.m3u8?infohash=20be180e057ac43660627ca9fe66eaa6bd6c1aee&.m3u8
-#EXTINF:-1  group-title="Pro 🇷🇺" tvg-name="Матч! Арена HD" url-tvg="iptvx.one" tvg-id="match-arena" tvg-logo="https://www.dropbox.com/s/sa04kwhshhs098v/match%21arena__.png?dl=1", Матч! Арена HD
+#EXTINF:-1  group-title="Pro 🇷🇺" tvg-name="Матч! Арена HD" tvg-id="match-arena" tvg-logo="https://www.dropbox.com/s/sa04kwhshhs098v/match%21arena__.png?dl=1", Матч! Арена HD
 http://127.0.0.1:6878/hls/manifest.m3u8?infohash=3a6ebb9eb0012bbd563e710c0c7e7ce2a8e4239a&.m3u8
-#EXTINF:-1  group-title="Pro 🇷🇺" tvg-name="Матч! Страна HD" url-tvg="iptvx.one" tvg-id="match-nash-sport" tvg-logo="https://dl.dropbox.com/s/j996g3kzzbfd1s8/match%21strana.png", Матч! Страна HD
+#EXTINF:-1  group-title="Pro 🇷🇺" tvg-name="Матч! Страна HD" tvg-id="match-nash-sport" tvg-logo="https://dl.dropbox.com/s/j996g3kzzbfd1s8/match%21strana.png", Матч! Страна HD
 http://127.0.0.1:6878/hls/manifest.m3u8?infohash=8a8f6a325daa9b61370ea7800359b11392219f3c&.m3u8
-#EXTINF:-1  group-title="Pro 🇷🇺" tvg-name="EUROSPORT 1 HD" url-tvg="iptvx.one" tvg-id="eurosport1" tvg-logo="https://www.dropbox.com/s/not10qehlikt3oi/Eurosport1_%20.png?dl=1", Eurosport 1 HD 🇷🇺
+#EXTINF:-1  group-title="Pro 🇷🇺" tvg-name="EUROSPORT 1 HD" tvg-id="eurosport1" tvg-logo="https://www.dropbox.com/s/not10qehlikt3oi/Eurosport1_%20.png?dl=1", Eurosport 1 HD 🇷🇺
 http://127.0.0.1:6878/hls/manifest.m3u8?infohash=42e959bffd0dd0f138dd03abf387b4284ece7e30&.m3u8
-#EXTINF:-1  group-title="Pro 🇷🇺" tvg-name="EUROSPORT 2 HD" url-tvg="iptvx.one" tvg-id="eurosport2" tvg-logo="https://www.dropbox.com/s/nqzye77glimcbsf/Eurosport2_%20.png?dl=1", Eurosport 2 HD 🇷🇺
+#EXTINF:-1  group-title="Pro 🇷🇺" tvg-name="EUROSPORT 2 HD" tvg-id="eurosport2" tvg-logo="https://www.dropbox.com/s/nqzye77glimcbsf/Eurosport2_%20.png?dl=1", Eurosport 2 HD 🇷🇺
 http://127.0.0.1:6878/hls/manifest.m3u8?infohash=3fee4ce1dbc079ff3f302535070d9547988a407c&.m3u8
 
 
@@ -93,31 +91,31 @@ http://127.0.0.1:6878/hls/manifest.m3u8?infohash=3fee4ce1dbc079ff3f302535070d954
 
 
 
-#EXTINF:-1  group-title="Pro 🇷🇺" tvg-name="Матч! Футбол 1" url-tvg="iptvx.one" tvg-id="match-football1" tvg-logo="https://www.dropbox.com/s/i79jus63datpw8k/match%21futbol11__.png?dl=1", Матч! Футбол 1 HD 
+#EXTINF:-1  group-title="Pro 🇷🇺" tvg-name="Матч! Футбол 1" tvg-id="match-football1" tvg-logo="https://www.dropbox.com/s/i79jus63datpw8k/match%21futbol11__.png?dl=1", Матч! Футбол 1 HD 
 http://127.0.0.1:6878/hls/manifest.m3u8?infohash=0bb7252a2a8dd3704b3a6c0538478450b8987012&.m3u8
-#EXTINF:-1  group-title="Pro 🇷🇺" tvg-name="Матч! Футбол 2" url-tvg="iptvx.one" tvg-id="match-football2" tvg-logo="https://www.dropbox.com/s/m4u32cwackr3eda/match%21futbol21__.png?dl=1", Матч! Футбол 2 HD
+#EXTINF:-1  group-title="Pro 🇷🇺" tvg-name="Матч! Футбол 2" tvg-id="match-football2" tvg-logo="https://www.dropbox.com/s/m4u32cwackr3eda/match%21futbol21__.png?dl=1", Матч! Футбол 2 HD
 http://127.0.0.1:6878/hls/manifest.m3u8?infohash=fc5e35ba19a015dc14fa4060fb922f7cbc026f96&.m3u8
-#EXTINF:-1  group-title="Pro 🇷🇺" tvg-name="Матч! Футбол 3" url-tvg="iptvx.one" tvg-id="match-football3" tvg-logo="https://www.dropbox.com/s/96eri3pn6qv38lh/match%21futbol31__.png?dl=1", Матч! Футбол 3 HD
+#EXTINF:-1  group-title="Pro 🇷🇺" tvg-name="Матч! Футбол 3" tvg-id="match-football3" tvg-logo="https://www.dropbox.com/s/96eri3pn6qv38lh/match%21futbol31__.png?dl=1", Матч! Футбол 3 HD
 http://127.0.0.1:6878/hls/manifest.m3u8?infohash=7f6ceda82b964c416983ab233787cee4e2333435&.m3u8
-#EXTINF:-1  group-title="Pro 🇷🇺" tvg-name="Матч! Премьер" url-tvg="iptvx.one" tvg-id="match-premier" tvg-logo="https://www.dropbox.com/s/dnigobzvv91ttzl/matchpremier.png?dl=1", Матч! Премьер HD
+#EXTINF:-1  group-title="Pro 🇷🇺" tvg-name="Матч! Премьер" tvg-id="match-premier" tvg-logo="https://www.dropbox.com/s/dnigobzvv91ttzl/matchpremier.png?dl=1", Матч! Премьер HD
 http://127.0.0.1:6878/hls/manifest.m3u8?infohash=88c482d9e57b1a031c032344f9c00cf7b36da8d9&.m3u8
-#EXTINF:-1  group-title="Pro 🇷🇺" tvg-name="Беларусь 5 HD" url-tvg="iptvx.one" tvg-id="belarus5" tvg-logo="https://dl.dropbox.com/s/p1668hraih7rreo/belarus%275.png", Беларусь 5 HD
+#EXTINF:-1  group-title="Pro 🇷🇺" tvg-name="Беларусь 5 HD" tvg-id="belarus5" tvg-logo="https://dl.dropbox.com/s/p1668hraih7rreo/belarus%275.png", Беларусь 5 HD
 http://127.0.0.1:6878/hls/manifest.m3u8?infohash=f004490028139751fc32cd19426459e06b3903fa&.m3u8
 
 
-#EXTINF:-1  group-title="Pro 🇷🇺" tvg-name="СТАРТ HD" url-tvg="iptvx.one" tvg-id="start" tvg-logo="https://www.dropbox.com/s/6pcxhusdw1tymdw/start.png?dl=1", Старт HD
+#EXTINF:-1  group-title="Pro 🇷🇺" tvg-name="СТАРТ HD" tvg-id="start" tvg-logo="https://www.dropbox.com/s/6pcxhusdw1tymdw/start.png?dl=1", Старт HD
 http://127.0.0.1:6878/hls/manifest.m3u8?infohash=fc5c69847a489f2e0984926534205627989f1896&.m3u8
-#EXTINF:-1  group-title="Pro 🇷🇺" tvg-name="Старт Триумф HD" url-tvg="iptvx.one" tvg-id="start-triumf" tvg-logo="https://dl.dropbox.com/s/quml1qwwy19t5ns/start-triumf.png", Старт Триумф HD
+#EXTINF:-1  group-title="Pro 🇷🇺" tvg-name="Старт Триумф HD" tvg-id="start-triumf" tvg-logo="https://dl.dropbox.com/s/quml1qwwy19t5ns/start-triumf.png", Старт Триумф HD
 https://bl.webcaster.pro/media/start/free_fe8dc1b768a84b8b0333db826471f17e_hd/33_85479982/8666c3e935faf6ef47ffd601e8e48868/4821408969.m3u8
-#EXTINF:-1  group-title="Pro 🇷🇺" tvg-name="Матч! Боец HD" url-tvg="iptvx.one" tvg-id="match-boets" tvg-logo="https://dl.dropbox.com/s/ksdx7gsmqya4xit/match%21boets.png", Матч! Боец HD
+#EXTINF:-1  group-title="Pro 🇷🇺" tvg-name="Матч! Боец HD" tvg-id="match-boets" tvg-logo="https://dl.dropbox.com/s/ksdx7gsmqya4xit/match%21boets.png", Матч! Боец HD
 http://127.0.0.1:6878/hls/manifest.m3u8?infohash=e84c8f3896a843b7fb272a6e3a18bba6b198db04&.m3u8
-#EXTINF:-1  group-title="Pro 🇷🇺" tvg-name="KHL Prime HD" url-tvg="iptvx.one" tvg-id="kxl-hd" tvg-logo="https://www.dropbox.com/s/51z97540h428k2j/kxl-hd.png?dl=1", KHL Prime
+#EXTINF:-1  group-title="Pro 🇷🇺" tvg-name="KHL Prime HD" tvg-id="kxl-hd" tvg-logo="https://www.dropbox.com/s/51z97540h428k2j/kxl-hd.png?dl=1", KHL Prime
 http://127.0.0.1:6878/hls/manifest.m3u8?infohash=242553daf687872eca8e184c238dc11ab712e9ac&.m3u8
-#EXTINF:-1  group-title="Pro 🇷🇺" tvg-name="KHL HD" url-tvg="iptvx.one" tvg-id="kxl" tvg-logo="https://www.dropbox.com/s/m09ga93xhohsoe3/kxl.png?dl=1", KHL HD
+#EXTINF:-1  group-title="Pro 🇷🇺" tvg-name="KHL HD" tvg-id="kxl" tvg-logo="https://www.dropbox.com/s/m09ga93xhohsoe3/kxl.png?dl=1", KHL HD
 http://127.0.0.1:6878/hls/manifest.m3u8?infohash=38c98858c0fc5e670820d2e1d308c71efcaa2ddc&.m3u8
-#EXTINF:-1  group-title="Pro 🇷🇺" tvg-name="Viju+ Sport HD" url-tvg="iptvx.one" tvg-id="viasat-sport" tvg-logo="https://filmax-tv.ru/storage/images/channels/9d62767521ec59fbccb79b3c4959e9d9.png?d=1714127416", Viju+ Sport HD
+#EXTINF:-1  group-title="Pro 🇷🇺" tvg-name="Viju+ Sport HD" tvg-id="viasat-sport" tvg-logo="https://filmax-tv.ru/storage/images/channels/9d62767521ec59fbccb79b3c4959e9d9.png?d=1714127416", Viju+ Sport HD
 http://127.0.0.1:6878/hls/manifest.m3u8?infohash=f6b7553df66ac4bffd4b3ead443b647322d1a7e0&.m3u8
-#EXTINF:-1  group-title="Pro 🇷🇺" tvg-name="Футбол HD" url-tvg="iptvx.one" tvg-id="football-ru" tvg-logo="https://www.dropbox.com/s/z85hmx9t0o1t2eb/futbol.png?dl=1", Футбол HD
+#EXTINF:-1  group-title="Pro 🇷🇺" tvg-name="Футбол HD" tvg-id="football-ru" tvg-logo="https://www.dropbox.com/s/z85hmx9t0o1t2eb/futbol.png?dl=1", Футбол HD
 http://127.0.0.1:6878/hls/manifest.m3u8?infohash=9d4b38b7218803e1d877b01b3a6c6db1a494bb6a&.m3u8
 
 
@@ -125,15 +123,15 @@ http://127.0.0.1:6878/hls/manifest.m3u8?infohash=9d4b38b7218803e1d877b01b3a6c6db
 http://127.0.0.1:6878/hls/manifest.m3u8?infohash=626c5326f29984bbedceee04c9694a0447ba0a9a&.m3u8
 #EXTINF:-1  group-title="Pro 🇷🇺" tvg-name="Setanta Sports 2 HD" tvg-id="setanta-sports-plus" tvg-logo="https://www.dropbox.com/scl/fi/b9skjk3jusfb0qr15uk6z/Setanta2_.png?rlkey=iqgdktroipqoviwclb8u0ohb5&st=mpj7dfam&dl=1", Setanta Sports 2 HD
 http://127.0.0.1:6878/hls/manifest.m3u8?infohash=fded295edff9d57adb77cf02a08c5f2fcb9e608b&.m3u8
-#EXTINF:-1  group-title="Pro 🇷🇺" tvg-name="NO EPG Sport (заглушка)" url-tvg="iptvx.one" tvg-id="no_epg_sport" tvg-logo="https://www.dropbox.com/scl/fi/qu0o3siuvbn2vrp4qx36y/NHL1.png?rlkey=8gb96x0h3t957469i27vqa8ia&st=ntcorbgw&dl=1", NHL
+#EXTINF:-1  group-title="Pro 🇷🇺" tvg-name="NO EPG Sport (заглушка)" tvg-id="no_epg_sport" tvg-logo="https://www.dropbox.com/scl/fi/qu0o3siuvbn2vrp4qx36y/NHL1.png?rlkey=8gb96x0h3t957469i27vqa8ia&st=ntcorbgw&dl=1", NHL
 http://127.0.0.1:6878/ace/getstream?infohash=2a685561a8c29c02e99a31e27ecf1382ace342b7&.m3u8
-#EXTINF:-1  group-title="Pro 🇷🇺" tvg-name="NBA TV" url-tvg="iptvx.one" tvg-id="nba-tv" tvg-logo="https://dl.dropbox.com/s/wnhf60itdgi47d1/nbatv.png", NBA TV
+#EXTINF:-1  group-title="Pro 🇷🇺" tvg-name="NBA TV" tvg-id="nba-tv" tvg-logo="https://dl.dropbox.com/s/wnhf60itdgi47d1/nbatv.png", NBA TV
 http://127.0.0.1:6878/hls/manifest.m3u8?infohash=42832fbf9a1d3bdcca043e09951d6769fbbe04e7&.m3u8
-#EXTINF:-1  group-title="Pro 🇷🇺" tvg-name="Sky Sports Main Event HD" url-tvg="iptvx.one" tvg-id="sky-sports-maine" tvg-logo="https://www.dropbox.com/scl/fi/a12s7dbco1xogeixy806v/sky-sports-maine.png?rlkey=i7brqocp92vzjwctq45kr9n9z&st=xw417nma&dl=1", Sky Sports Main Event HD
+#EXTINF:-1  group-title="Pro 🇷🇺" tvg-name="Sky Sports Main Event HD" tvg-id="sky-sports-maine" tvg-logo="https://www.dropbox.com/scl/fi/a12s7dbco1xogeixy806v/sky-sports-maine.png?rlkey=i7brqocp92vzjwctq45kr9n9z&st=xw417nma&dl=1", Sky Sports Main Event HD
 http://127.0.0.1:6878/hls/manifest.m3u8?infohash=78266c15035d0ad8cbc58f821733931e1de434ab&.m3u8
 #EXTINF:-1  group-title="Pro 🇷🇺" tvg-name="Tennis Channel HD", Tennis Channel HD
 http://127.0.0.1:6878/ace/getstream?infohash=e4b5f07bbfce16ad3f57a4cdf3210a9fa8785ff4&.m3u8
-#EXTINF:-1  group-title="Pro 🇷🇺" tvg-name="SuperTennis HD" url-tvg="iptvx.one" tvg-id="supertennis" tvg-logo="http://i122.fastpic.org/big/2023/0708/4a/4cff3350a011053dfff491a7b162bd4a.png", SuperTennis HD
+#EXTINF:-1  group-title="Pro 🇷🇺" tvg-name="SuperTennis HD" tvg-id="supertennis" tvg-logo="http://i122.fastpic.org/big/2023/0708/4a/4cff3350a011053dfff491a7b162bd4a.png", SuperTennis HD
 http://127.0.0.1:6878/ace/getstream?infohash=7a57543cb6061648dc44c5d4321bd100bc8a47ca&.m3u8
 #EXTINF:-1  group-title="Pro 🇷🇺" tvg-name="ORF SPORT+ HD" tvg-logo="https://filmax-tv.ru/storage/images/channels/4517d7f61d91661e93538398ae3f6671.png?d=1747992616", ORF SPORT+ HD
 http://127.0.0.1:6878/hls/manifest.m3u8?infohash=e10a61b33dc7ac7804cb2b9379512659d673f3c0&.m3u8
@@ -227,6 +225,12 @@ https://tinyurl.com/2cgz35xt
 https://tinyurl.com/29jh5j59
 #EXTINF:-1  group-title="Трансляции 🏆" tvg-name="BOX SportCast HD" url-tvg="bcu" tvg-logo="https://filmax-tv.ru/storage/images/channels/3589ca723e16e494540b9e85eccf7095.png?d=1711967194", BOX SportCast HD
 https://tinyurl.com/22ha6p6h
+#EXTINF:-1  group-title="Трансляции 🏆" tvg-name="BOX Be On Edge Live 1 HD" url-tvg="bcu" tvg-logo="https://filmax-tv.ru/storage/images/channels/a067d02da035b7a41419fc658d4d28ea.png?d=1711967170", BOX Be On Edge Live 1 HD
+https://tinyurl.com/2dbl2o48
+#EXTINF:-1  group-title="Трансляции 🏆" tvg-name="BOX Be On Edge Live 2 HD" url-tvg="bcu" tvg-logo="https://filmax-tv.ru/storage/images/channels/b12a979b73ba9a1c558ac2624d115afe.png?d=1711967170", BOX Be On Edge Live 2 HD
+https://tinyurl.com/24qzbuj7
+#EXTINF:-1  group-title="Трансляции 🏆" tvg-name="BOX Be On Edge HD" url-tvg="bcu" tvg-logo="https://filmax-tv.ru/storage/images/channels/41cd00e23fa3930b84c4d977eb832ebb.png?d=1711967170", BOX Be On Edge HD
+https://tinyurl.com/2a4akofx
 
 
 
@@ -380,9 +384,9 @@ http://zabava-htlive.cdn.ngenix.net/hls/CH_VSETVHD/variant.m3u8
 https://rt-vlg-nn-htlive.cdn.ngenix.net/hls/CH_R05_KAMINTV/variant.m3u8
 #EXTINF:-1  group-title="Wink" tvg-name="Первый канал" tvg-id="pervy" catchup-days="3" catchup="append" catchup-source="?offset=-${offset}&utcstart=${timestamp}", Первый канал (Тула)
 https://rt-ct-tula-htlive.cdn.ngenix.net/hls/CH_R03_1TV/variant.m3u8
-#EXTINF:-1  group-title="Wink" tvg-name="Россия 1" tvg-id="rossia1" catchup-days="3" catchup="append" catchup-source="?offset=-${offset}&utcstart=${timestamp}", Россия 1 (Тула)
+#EXTINF:-1  group-title="Wink" tvg-name="Россия 1" tvg-id="rossia1" tvg-logo="https://assets-iptv2022.cdnvideo.ru/static/channel/115/logo_256_1655391177.png" catchup-days="3" catchup="append" catchup-source="?offset=-${offset}&utcstart=${timestamp}", Россия 1 (Тула)
 https://rt-ct-tula-htlive.cdn.ngenix.net/hls/CH_R04_OTT_CT_TULA_ROSSIA1/variant.m3u8
-#EXTINF:-1  group-title="Wink" tvg-name="НТВ" tvg-id="ntv" catchup-days="3" catchup="append" catchup-source="?offset=-${offset}&utcstart=${timestamp}", НТВ (Тула)
+#EXTINF:-1  group-title="Wink" tvg-name="НТВ" tvg-id="ntv" tvg-logo="https://krasnovosti.ru/online_tv/img/logo_channels/ntv.jpg" catchup-days="3" catchup="append" catchup-source="?offset=-${offset}&utcstart=${timestamp}", НТВ (Тула)
 https://rt-ct-tula-htlive.cdn.ngenix.net/hls/CH_R03_OTT_CT_TULA_NTV/variant.m3u8
 #EXTINF:-1  group-title="Wink" tvg-name="Матч!" tvg-id="match-tv" catchup-days="3" catchup="append" catchup-source="?offset=-${offset}&utcstart=${timestamp}", Матч! (Тула)
 https://rt-ct-tula-htlive.cdn.ngenix.net/hls/CH_R04_ROSSIA2/variant.m3u8
@@ -390,13 +394,13 @@ https://rt-ct-tula-htlive.cdn.ngenix.net/hls/CH_R04_ROSSIA2/variant.m3u8
 https://rt-ct-tula-htlive.cdn.ngenix.net/hls/CH_R04_TVC/variant.m3u8
 #EXTINF:-1  group-title="Wink" tvg-name="Первый Тульский" tvg-id="pervy-tulsky" tvg-logo="https://dl.dropbox.com/s/3mkzcy2ivznwa5m/Pervyytulskii_.png" catchup-days="3" catchup="append" catchup-source="?offset=-${offset}&utcstart=${timestamp}", Первый Тульский
 https://rt-ct-tula-htlive.cdn.ngenix.net/hls/CH_R01_OTT_CT_TULA_PERV_TUL/variant.m3u8
-#EXTINF:-1  group-title="Wink" tvg-name="ТСН24" catchup-days="3" catchup="append" catchup-source="?offset=-${offset}&utcstart=${timestamp}", ТСН24
+#EXTINF:-1  group-title="Wink" tvg-name="ТСН24" tvg-logo="https://dl.dropbox.com/scl/fi/4kmsuigiv0ly0ejf2w3z6/tsn24_.png?rlkey=deebpuum7o6p7kmnh884fe5ay" catchup-days="3" catchup="append" catchup-source="?offset=-${offset}&utcstart=${timestamp}", ТСН24
 https://rt-ct-tula-htlive.cdn.ngenix.net/hls/CH_R01_OTT_CT_TULA_TULA24/variant.m3u8
 #EXTINF:-1  group-title="Wink" tvg-name="ТНТ" tvg-id="tnt" catchup-days="3" catchup="append" catchup-source="?offset=-${offset}&utcstart=${timestamp}", ТНТ (Тула)
 https://rt-ct-tula-htlive.cdn.ngenix.net/hls/CH_R01_TNT/variant.m3u8
-#EXTINF:-1  group-title="Wink" tvg-name="Россия 24" tvg-id="rossia-24" catchup-days="3" catchup="append" catchup-source="?offset=-${offset}&utcstart=${timestamp}", Россия 24 (Тула)
+#EXTINF:-1  group-title="Wink" tvg-name="Россия 24" tvg-id="rossia-24" tvg-logo="https://assets-iptv2022.cdnvideo.ru/static/channel/148/logo_256_1655391326.png" catchup-days="3" catchup="append" catchup-source="?offset=-${offset}&utcstart=${timestamp}", Россия 24 (Тула)
 https://rt-ct-tula-htlive.cdn.ngenix.net/hls/CH_R01_OTT_CT_TULA_ROSSIA24/variant.m3u8
-#EXTINF:-1  group-title="Wink" tvg-name="Россия К" tvg-id="kultura" catchup-days="3" catchup="append" catchup-source="?offset=-${offset}&utcstart=${timestamp}", Россия К (Тула)
+#EXTINF:-1  group-title="Wink" tvg-name="Россия К" tvg-id="kultura" tvg-logo="https://assets-iptv2022.cdnvideo.ru/static/channel/83/logo_256_1655391215.png" catchup-days="3" catchup="append" catchup-source="?offset=-${offset}&utcstart=${timestamp}", Россия К (Тула)
 https://rt-ct-tula-htlive.cdn.ngenix.net/hls/CH_R02_OTT_CT_TULA_ROSSIAK/variant.m3u8
 #EXTINF:-1  group-title="Wink" tvg-name="ОТР" tvg-id="otr" catchup-days="3" catchup="append" catchup-source="?offset=-${offset}&utcstart=${timestamp}", ОТР (Тула)
 http://rt-ct-tula-htlive.cdn.ngenix.net/hls/CH_R01_OTR/variant.m3u8
@@ -2122,8 +2126,10 @@ http://online.video.rbc.ru/online/rbctv_1080p/index.m3u8
 https://tass-hls.servicecdn.ru/httpstreamer/tass-loop-main.stream/playlist.m3u8
 #EXTINF:-1  group-title="С сайтов" tvg-logo="http://i116.fastpic.org/big/2022/0121/91/ce68f7dad784229e6afb3fa422292191.png", ОСН
 http://osnmedia.servicecdn.ru/streams/17603_88089/playlist.m3u8
-
-
+#EXTINF:-1  group-title="С сайтов", Вести FM
+https://stream.smotrim.ru/hls2/vesti_fm/playlist_6.m3u8
+#EXTINF:-1  group-title="С сайтов", Радио России
+https://stream.smotrim.ru/hls2/radio_rus/playlist_4.m3u8
 #EXTINF:-1  group-title="С сайтов", Вместе РФ
 https://qcpdqumitwf.a.trbcdn.net/livemastersrt/pr4mw_lvie-vmesterf-srt.smil/playlist.m3u8
 
@@ -2162,6 +2168,10 @@ https://stream.smotrim.ru/hls/fasttv04/playlist_3.m3u8
 https://stream.smotrim.ru/hls/fasttv05/playlist_3.m3u8
 #EXTINF:-1  group-title="С сайтов", Смотрим 100% Факты
 https://stream.smotrim.ru/hls/fasttv06/playlist_3.m3u8
+#EXTINF:-1  group-title="С сайтов" tvg-name="Честный детектив", Смотрим Честный детектив 
+https://stream.smotrim.ru/hls/fasttv06/playlist_3.m3u8
+#EXTINF:-1  group-title="С сайтов", Большая Азия
+https://live-bigasia.cdnvideo.ru/bigasia/bigasia.smil/tracks-v1a1/mono.m3u8
 #EXTINF:-1  group-title="С сайтов", Просвещение
 https://cdn-01.bonus-tv.ru/prosveschenie_edge/index.m3u8
 #EXTINF:-1  group-title="С сайтов" tvg-logo="https://filmax-tv.ru/storage/images/channels/cghfhjhkyjttjj555.png?d=1725100795", Продвижение
@@ -2177,7 +2187,7 @@ https://stream.smotrim.ru/hls/moscow_24/playlist_3.m3u8
 #EXTINF:-1  group-title="С сайтов", Лен ТВ 24
 https://stream.smotrim.ru/hls/lentv24/playlist_5.m3u8
 #EXTINF:-1  group-title="С сайтов", Крым 24
-http://live24.1tvcrimea.ru/switcher.m3u8
+http://iptv.crimea.net:8787
 #EXTINF:-1  group-title="С сайтов", Первый Крымский
 http://live1.trkcrimea.ru/1tvcrimea.m3u8
 #EXTINF:-1  group-title="С сайтов", ТСВ
@@ -2196,16 +2206,24 @@ http://radm.mediacdn.ru/cdn/radost/playlist_sdhigh.m3u8
 http://cdn.universmotri.ru/live/univer.sdp_1080p/playlist.m3u8
 #EXTINF:-1  group-title="С сайтов" tvg-logo="https://www.cableman.ru/sites/default/files/sochi_live.png", Sochi Live HD
 http://serv30.vintera.tv:8081/sochi/sochi_stream/chunks.m3u8
+#EXTINF:-1  group-title="С сайтов", Аква ТВ HD
+http://stitch.teletarget.ru/vintera/aquatv/index.m3u8
+#EXTINF:-1  group-title="С сайтов", КВН ТВ
+http://radio.tvs.by:8080/KVN-TV/index.m3u8
+#EXTINF:-1  group-title="С сайтов", TVM Channel
+http://cdn-01.bonus-tv.ru/tvm_edge/tracks-v1a1/index.m3u8
+#EXTINF:-1  group-title="С сайтов", Калейдоскоп ТВ
+http://cdn-01.bonus-tv.ru/Kaleidoskop_edge/index.m3u8
+
+
+
+
+
+
+
+
 #EXTINF:-1  group-title="С сайтов" tvg-logo="http://www.zarya-kaspiya.ru/wp-content/uploads/2019/09/LOGO-ASTRAKHAN-RU-SPORT-ver.jpg", Астрахань Спорт
 http://streaming.astrakhan.ru/astrakhanrusporthd/playlist.m3u8
-
-
-
-
-
-
-
-
 #EXTINF:-1  group-title="↕️ Разное", Porn Classic
 http://127.0.0.1:6878/ace/getstream?infohash=4d5cdd73ca2e18d49dbb92fbe75611adde142d1b&.m3u8
 #EXTINF:-1  group-title="↕️ Разное" tvg-name="Extasy HD (18+)" tvg-logo="https://filmax-tv.ru/storage/images/channels/91e186bf0a3fc5ae9f9ce349b7f9850c.png?d=1752573615", Extasy HD
@@ -2222,22 +2240,26 @@ http://127.0.0.1:6878/hls/manifest.m3u8?infohash=26af17aba41cd451d04c4855605e4b4
 http://127.0.0.1:6878/hls/manifest.m3u8?infohash=7b35a9bea4e81679e63909373b67aa429e63a5ec&.m3u8
 #EXTINF:-1  group-title="↕️ Разное", Reality Kings TV
 http://127.0.0.1:6878/hls/manifest.m3u8?infohash=9a93c0f28472925bd7d12ff202d9f2f523522925&.m3u8
+#EXTINF:-1  group-title="↕️ Разное" tvg-name="NO EPG (заглушка)" url-tvg="iptvx.one" tvg-id="no_epg" tvg-logo="https://filmax-tv.ru/storage/images/channels/4ee80d587ae69736cfcc68de62f47713.png?d=1727964915", Мода 1
+http://127.0.0.1:6878/hls/manifest.m3u8?infohash=7b0b8a677121d707449075b537d584d6ad01ff2a&.m3u8
+#EXTINF:-1  group-title="↕️ Разное" tvg-name="NO EPG (заглушка)" url-tvg="iptvx.one" tvg-id="no_epg" tvg-logo="https://filmax-tv.ru/storage/images/channels/4ee80d587ae69736cfcc68de62f47713.png?d=1727964915", Мода 2
+http://127.0.0.1:6878/hls/manifest.m3u8?infohash=f1db805e74d4c7fcd606688717696fdd64c7b986&.m3u8
+#EXTINF:-1  group-title="↕️ Разное" tvg-name="NO EPG (заглушка)" url-tvg="iptvx.one" tvg-id="no_epg" tvg-logo="https://filmax-tv.ru/storage/images/channels/4ee80d587ae69736cfcc68de62f47713.png?d=1727964915", Мода 3
+http://127.0.0.1:6878/hls/manifest.m3u8?infohash=b85f5f1e086a00e8fad6eb4155d6d046413bf19d&.m3u8
+
+
+#EXTINF:-1  group-title="↕️ Разное" tvg-name="NO EPG (заглушка)" url-tvg="iptvx.one" tvg-id="no_epg" tvg-logo="https://filmax-tv.ru/storage/images/channels/4ee80d587ae69736cfcc68de62f47713.png?d=1727964915", Мода 5
+http://127.0.0.1:6878/hls/manifest.m3u8?infohash=eb034ecd71344756df7ec13da706eb459cda17e8&.m3u8
 
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
+#EXTINF:-1  group-title="↕️ Спортивные ⚽", Spoops HD
+http://127.0.0.1:6878/hls/manifest.m3u8?id=8ef1127693aa63af02b20dcecc2cea68f43d2a0f&.m3u8
+#EXTINF:-1  group-title="С сайтов", Spoops HD
+http://fl1001.bozztv.com/ushba46/tracks-v1a1/mono.m3u8
+#EXTINF:-1  group-title="С сайтов", Советское Кино
+http://stitch.teletarget.ru/vintera/sovietmovie/index.m3u8
 #EXTINF:-1  group-title="С сайтов" tvg-name="NO EPG (заглушка)" url-tvg="iptvx.one" tvg-id="no_epg" tvg-logo="https://i.postimg.cc/RCgvJhdQ/image.png", СоюзМультфильм
 http://194.26.229.213/souzmultfilm/index.m3u8
 #EXTINF:-1  group-title="С сайтов" tvg-name="NO EPG (заглушка)" url-tvg="iptvx.one" tvg-id="no_epg" tvg-logo="https://i.postimg.cc/BvqS8HVV/1.png", Чип и Дейл
@@ -2252,7 +2274,7 @@ https://rmtv.akamaized.net/hls/live/2043154/rmtv-en-web/master.m3u8
 
 #EXTINF:-1  group-title="↕️ Спортивные ⚽", Unbeaten
 http://127.0.0.1:6878/ace/getstream?infohash=6c9a0d19c0c10f8bc655fc75339e7e05c02d8ed1&.m3u8
-
-
+#EXTINF:-1  group-title="С сайтов" tvg-name="OKKO Прайм Спорт HD" url-tvg="iptvx.one" tvg-id="okko-sport-2" tvg-logo="http://194.26.229.4/live/pda.png", OnlineTV
+http://185.221.213.254:8080/Okko/tracks-v1a1/index.m3u8
 #EXTINF:-1  group-title="↕️ Спортивные ⚽", Red Bull TV
 http://127.0.0.1:6878/ace/getstream?infohash=2c4cc43211c6de21ac7bd5fc4dc8cdfc991246ee&.m3u8
