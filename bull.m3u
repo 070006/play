@@ -1,5 +1,5 @@
 #EXTM3U deinterlace=1 m3uautoload=1 url-tvg="https://iptvx.one/EPG"
-#EXTINF:-1  group-title="Информация 📌" tvg-logo="https://dl.dropbox.com/scl/fi/ov1ojkcly2djf8nzi225x/bull1.png?rlkey=do43cim9aaa23lenkd86pgz9s&st=p8tiyvxj", Обновлено: ⚽ 18.07.2026 🏀
+#EXTINF:-1  group-title="Информация 📌" tvg-logo="https://dl.dropbox.com/scl/fi/ov1ojkcly2djf8nzi225x/bull1.png?rlkey=do43cim9aaa23lenkd86pgz9s&st=p8tiyvxj", Обновлено: ⚽ 19.07.2026 🏀
 http://serv30.vintera.tv:8081/sochi/sochi_stream/chunks.m3u8
 #EXTINF:-1  group-title="Pro 🇷🇺" tvg-name="Первый HD" url-tvg="iptvx.one" tvg-id="pervy" tvg-logo="https://dl.dropbox.com/s/2qri8tu8q1wiu0h/Pervyihd.png", Первый HD
 https://edge3.1internet.tv/dash-live2/streams/1tv/1tvdash.mpd
@@ -25,7 +25,7 @@ http://rt-ct-tula-htlive.cdn.ngenix.net/hls/CH_R01_TNT/variant.m3u8
 http://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/russia24-hd/1080p.m3u8
 #EXTINF:-1  group-title="Pro 🇷🇺" tvg-name="СТС" url-tvg="iptvx.one" tvg-id="sts" tvg-logo="https://dl.dropbox.com/s/dxerabkzs5s0wv9/sts_zheltyy.png", СТС HD
 http://127.0.0.1:6878/hls/manifest.m3u8?infohash=00ed244a3f5e36067b57b6a62b18cfa5d9dd0e22&.m3u8
-#EXTINF:-1  group-title="Pro 🇷🇺" tvg-name="СТС" url-tvg="iptvx.one" tvg-id="sts" tvg-logo="https://dl.dropbox.com/s/dxerabkzs5s0wv9/sts_zheltyy.png" catchup-days="3" catchup="append" catchup-source="?offset=-${offset}&utcstart=${timestamp}", СТС (Тула)
+#EXTINF:-1  group-title="Pro 🇷🇺" tvg-name="СТС" url-tvg="iptvx.one" tvg-id="sts" tvg-logo="https://www.dropbox.com/scl/fi/9u0652trq2wqr69j2kvev/logo_256-11.webp?rlkey=g9w8c4k6g6jumw4egtpdwsngl&st=xt37h1o8&dl=1" catchup-days="3" catchup="append" catchup-source="?offset=-${offset}&utcstart=${timestamp}", СТС (Тула)
 http://rt-ct-tula-htlive.cdn.ngenix.net/hls/CH_R02_STS/variant.m3u8
 #EXTINF:-1  group-title="Pro 🇷🇺" tvg-name="РЕН ТВ HD" url-tvg="iptvx.one" tvg-id="rentv" tvg-logo="http://i120.fastpic.org/big/2022/0731/40/55cf12fef74a98d2776487fbb4c1d340.png" catchup-days="3" catchup="append" catchup-source="?offset=-${offset}&utcstart=${timestamp}", РЕН ТВ (Тула)
 http://rt-ct-tula-htlive.cdn.ngenix.net/hls/CH_R02_RENTV/variant.m3u8
@@ -43,12 +43,14 @@ http://127.0.0.1:6878/hls/manifest.m3u8?infohash=64d344a0acae84a96205b9b91924d57
 https://cdn.ntv.ru/unknown_russia/tracks-v1a1/playlist.m3u8
 #EXTINF:-1  group-title="Pro 🇷🇺" tvg-name="Пятница! HD" url-tvg="iptvx.one" tvg-id="piatnica" tvg-logo="https://dl.dropbox.com/s/kff86r7ac4r2roo/pyatnica.png", Пятница! HD
 http://127.0.0.1:6878/hls/manifest.m3u8?id=10d62d03d9fd2a9e84f639ed40a42e6a13940fce&.m3u8
-#EXTINF:-1  group-title="Pro 🇷🇺" tvg-name="Пятница! HD" url-tvg="iptvx.one" tvg-id="piatnica" tvg-logo="https://dl.dropbox.com/s/kff86r7ac4r2roo/pyatnica.png" catchup-days="3" catchup="append" catchup-source="?offset=-${offset}&utcstart=${timestamp}", Пятница! (Тула)
+#EXTINF:-1  group-title="Pro 🇷🇺" tvg-name="Пятница! HD" url-tvg="iptvx.one" tvg-id="piatnica" tvg-logo="https://www.dropbox.com/scl/fi/rap5bph6pt8a7ubdc9wi5/logo_256-14.webp?rlkey=brtcxuoydnn253vje7kvxlz7d&st=5esi8dw1&dl=1" catchup-days="3" catchup="append" catchup-source="?offset=-${offset}&utcstart=${timestamp}", Пятница! (Тула)
 http://rt-ct-tula-htlive.cdn.ngenix.net/hls/CH_R01_FRIDAY/variant.m3u8
 #EXTINF:-1  group-title="Pro 🇷🇺" tvg-name="Че!" url-tvg="iptvx.one" tvg-id="che" tvg-logo="https://dl.dropbox.com/s/s7n5omw6l1ds53h/Che2.png" catchup-days="3" catchup="append" catchup-source="?offset=-${offset}&utcstart=${timestamp}", Че (Тула)
 https://rt-ct-tula-htlive.cdn.ngenix.net/hls/CH_R02_PERETZ/variant.m3u8
 #EXTINF:-1  group-title="Pro 🇷🇺" tvg-name="ULTRA CINEMA 4K" url-tvg="iptvx.one" tvg-id="ultra-hd-cinema" tvg-logo="https://filmax-tv.ru/storage/images/channels/e5c96da473a22b117e03c7bdbbbc325.png?d=1726577118", Cinema UHD
 http://127.0.0.1:6878/hls/manifest.m3u8?infohash=4447d0a31556f25b0ebce1bac9c8f60c669bc68d&.m3u8
+#EXTINF:-1  group-title="Pro 🇷🇺", КИНО UHD
+http://127.0.0.1:6878/hls/manifest.m3u8?infohash=d092686779efec6d9ccea4409d567b9dfbe29252&.m3u8
 #EXTINF:-1  group-title="Pro 🇷🇺" tvg-name="BCU Premiere Ultra 4K" tvg-id="bcu-premiere-4k" tvg-logo="https://filmax-tv.ru/storage/images/channels/e2b44805754b3857753c243710173961.png?d=1730569514", BCU Premiere Ultra 4K
 http://127.0.0.1:6878/hls/manifest.m3u8?infohash=4b598726baad9f7a96f8fed7f4415f8379d6d5f9&.m3u8
 #EXTINF:-1  group-title="Pro 🇷🇺" tvg-name="Мосфильм. Золотая коллекция (+4)" url-tvg="iptvx.one" tvg-id="mosfilm-pl4" tvg-logo="https://dl.dropbox.com/s/ijxd1t6opg96xz5/mosfilm1.png", Мосфильм HD
@@ -61,7 +63,7 @@ http://127.0.0.1:6878/hls/manifest.m3u8?infohash=6f169084c32e98f87f49d9880406873
 http://zabava-htlive.cdn.ngenix.net/hls/CH_TNT4/variant.m3u8
 #EXTINF:-1  group-title="Pro 🇷🇺" tvg-name="ТВ 3 HD" url-tvg="iptvx.one" tvg-id="tv3-ru" tvg-logo="https://www.dropbox.com/scl/fi/vy6xkk4ox968lkzxe640l/tv3-ru.png?rlkey=1eyyzckuq21zkrtik8bwz7p2j&dl=1", ТВ 3 HD
 http://127.0.0.1:6878/hls/manifest.m3u8?infohash=3403267623697a7092a10478aad7f234f2ce4a64&.m3u8
-#EXTINF:-1  group-title="Pro 🇷🇺" tvg-name="ТВ 3 HD" url-tvg="iptvx.one" tvg-id="tv3-ru" tvg-logo="https://www.dropbox.com/scl/fi/vy6xkk4ox968lkzxe640l/tv3-ru.png?rlkey=1eyyzckuq21zkrtik8bwz7p2j&dl=1" catchup-days="3" catchup="append" catchup-source="?offset=-${offset}&utcstart=${timestamp}", ТВ 3 (Тула)
+#EXTINF:-1  group-title="Pro 🇷🇺" tvg-name="ТВ 3 HD" url-tvg="iptvx.one" tvg-id="tv3-ru" tvg-logo="https://www.dropbox.com/scl/fi/kebb0ric3zbcdol02ts9l/logo_256-13.webp?rlkey=1x11nhjqs00g8r7dkyh0dif4n&st=4rknndcb&dl=1" catchup-days="3" catchup="append" catchup-source="?offset=-${offset}&utcstart=${timestamp}", ТВ 3 (Тула)
 http://rt-ct-tula-htlive.cdn.ngenix.net/hls/CH_R01_TV3/variant.m3u8
 #EXTINF:-1  group-title="Pro 🇷🇺" tvg-name="Твоё ТВ HD" url-tvg="iptvx.one" tvg-id="tvoyo-tv-hd" tvg-logo="http://i116.fastpic.org/big/2022/0208/5d/4174df08ce4e2f750bd4b4dfda61d15d.png", Твоё ТВ
 http://127.0.0.1:6878/ace/getstream?infohash=7278cacf226493d4086ca8717a4b7314b08ff4fe&.m3u8
@@ -177,7 +179,7 @@ http://127.0.0.1:6878/ace/manifest.m3u8?infohash=c0280edf1a8bab3e8ea8fd33e12d100
 http://127.0.0.1:6878/ace/getstream?infohash=568159b1059c7bbe3eaf40f123541fef86ef83cb&.m3u8
 #EXTINF:-1  group-title="Pro 🇷🇺" url-tvg="iptvx.one" tvg-id="super" tvg-logo="https://www.dropbox.com/s/o2oshn7ef6wjrzw/subbota.png?dl=1", Суббота! HD
 http://127.0.0.1:6878/hls/manifest.m3u8?infohash=ebeec408c96acce8cfea1dcb0a53397fbee77acf&.m3u8
-#EXTINF:-1  group-title="Pro 🇷🇺" url-tvg="iptvx.one" tvg-id="super" tvg-logo="https://dl.dropbox.com/s/o2oshn7ef6wjrzw/subbota.png" catchup-days="3" catchup="append" catchup-source="?offset=-${offset}&utcstart=${timestamp}", Суббота!
+#EXTINF:-1  group-title="Pro 🇷🇺" url-tvg="iptvx.one" tvg-id="super" tvg-logo="https://www.dropbox.com/scl/fi/pmtf6u8iwka59uzwkhut9/logo_256-25.webp?rlkey=iy32lzwzi6wud67xtdtzktb7x&st=8sbzvxan&dl=1" catchup-days="3" catchup="append" catchup-source="?offset=-${offset}&utcstart=${timestamp}", Суббота!
 http://zabava-htlive.cdn.ngenix.net/hls/CH_SUPER/variant.m3u8
 #EXTINF:-1  group-title="Pro 🇷🇺" url-tvg="iptvx.one" tvg-id="solnce" tvg-logo="https://www.dropbox.com/scl/fi/ua2xzw3r8p19rtwip1bey/.png?rlkey=wqp7qx6e5x08u8illvm4j1a7l&dl=1" catchup-days="3" catchup="append" catchup-source="?offset=-${offset}&utcstart=${timestamp}", Солнце
 https://zabava-htlive.cdn.ngenix.net/hls/CH_DISNEY/variant.m3u8
@@ -185,7 +187,7 @@ https://zabava-htlive.cdn.ngenix.net/hls/CH_DISNEY/variant.m3u8
 http://online.video.rbc.ru/online/rbctv_1080p/index.m3u8
 #EXTINF:-1  group-title="Pro 🇷🇺" url-tvg="iptvx.one" tvg-id="belarus24" tvg-logo="https://www.dropbox.com/s/af5b995736razl9/belarus%2724.png?dl=1", Беларусь 24 HD
 https://edge50.dc.beltelecom.by/ngtrk/_definst_/smil:belarus24.smil/chunklist_w1008231497_b5160000_sleng.m3u8
-#EXTINF:-1  group-title="Pro 🇷🇺" url-tvg="iptvx.one" tvg-id="moskva-24" tvg-logo="https://www.dropbox.com/s/d0sd71v3mv2b91k/moskva24_.png?dl=1" catchup-days="3" catchup="append" catchup-source="?offset=-${offset}&utcstart=${timestamp}", Москва 24
+#EXTINF:-1  group-title="Pro 🇷🇺" url-tvg="iptvx.one" tvg-id="moskva-24" tvg-logo="https://www.dropbox.com/scl/fi/jdlurde0xqjj2anm14zj4/logo_256-19.webp?rlkey=te01gh5r1ov77kjtr75sf62xg&st=4tkzdk02&dl=1" catchup-days="3" catchup="append" catchup-source="?offset=-${offset}&utcstart=${timestamp}", Москва 24
 http://rt-mos-htlive.cdn.ngenix.net/hls/CH_R04_MOSKOV24/variant.m3u8
 #EXTINF:-1  group-title="Pro 🇷🇺" tvg-name="Санкт-Петербург" tvg-id="sankt-peterburg" catchup-days="3" catchup="append" catchup-source="?offset=-${offset}&utcstart=${timestamp}", Санкт-Петербург HD
 http://rt-nw-spb-htlive.cdn.ngenix.net/hls/CH_R02_SPBREGIONALHD/variant.m3u8
@@ -296,22 +298,8 @@ https://tinyurl.com/2a4akofx
 
 #EXTINF:-1  group-title="↕️ Спортивные ⚽" tvg-id="match-tv" tvg-logo="https://dl.dropbox.com/s/cjm4aeod7v7pefq/match3.png", Матч! ТВ HD
 http://127.0.0.1:6878/hls/manifest.m3u8?infohash=f69b2859510dce33b992dd1940f95254c6e6f51c&.m3u8
-#EXTINF:-1  group-title="4K" tvg-name="Eleven Sports 1 4k [PL]" tvg-id="eleven-sports-1" tvg-logo="https://www.dropbox.com/s/nazwnw8cjd3za9w/elevensports1_4k.png?dl=1", Eleven Sports 1 4k 🇵🇱
-http://127.0.0.1:6878/hls/manifest.m3u8?infohash=f25b57322b5337df43bfde801e03f70363737581&.m3u8
-#EXTINF:-1  group-title="4K" tvg-id="russian-extreme-uhd" tvg-logo="https://www.dropbox.com/s/m8xb4rrm4r8a1d1/Russianextremeuhd.png?dl=1", Ultra Rex
-http://127.0.0.1:6878/hls/manifest.m3u8?infohash=0de043f3043f5a18603013304159cc2089cb76c4&.m3u8
-#EXTINF:-1  group-title="4K" tvg-name="ULTRA CINEMA 4K" url-tvg="iptvx.one" tvg-id="ultra-hd-cinema" tvg-logo="https://filmax-tv.ru/storage/images/channels/e5c96da473a22b117e03c7bdbbbc325.png?d=1726577118", Cinema UHD
-http://127.0.0.1:6878/hls/manifest.m3u8?infohash=4447d0a31556f25b0ebce1bac9c8f60c669bc68d&.m3u8
-#EXTINF:-1  group-title="4K", КИНО UHD
-http://127.0.0.1:6878/hls/manifest.m3u8?infohash=d092686779efec6d9ccea4409d567b9dfbe29252&.m3u8
 #EXTINF:-1  group-title="4K" tvg-id="bcu-ultra4k", BCU Ultra 4K
 http://127.0.0.1:6878/hls/manifest.m3u8?infohash=c9714c4ce79127f4cf36a925f1e1ad5a7bd7cadd&.m3u8
-#EXTINF:-1  group-title="4K" tvg-id="bcu-premiere-4k", BCU Premiere Ultra 4K
-http://127.0.0.1:6878/hls/manifest.m3u8?infohash=4b598726baad9f7a96f8fed7f4415f8379d6d5f9&.m3u8
-#EXTINF:-1  group-title="4K" tvg-id="bcu-kids-4k", BCU Kids 4K
-http://127.0.0.1:6878/hls/manifest.m3u8?infohash=876afe0bccfedbd7be72caf2eea1dc21b0118ca3&.m3u8
-#EXTINF:-1  group-title="4K" tvg-id="nasha-sibir-4k", Наша сибирь 4K
-http://127.0.0.1:6878/hls/manifest.m3u8?infohash=e926e95fd0c8b79d003d9426e2a99f118f5e0796&.m3u8
 #EXTINF:-1  group-title="4K" tvg-name="Love Nature 4K" tvg-id="love-nature-4k", Love Nature 4K
 http://127.0.0.1:6878/ace/getstream?infohash=cd8c7fcc7fb8c597d64b41429e0596887e097e54&.m3u8
 #EXTINF:-1  group-title="4K" tvg-name="Insight UHD 4K", Insight UHD 4K
@@ -356,7 +344,7 @@ https://zabava-htlive.cdn.ngenix.net/hls/CH_PERETZ/variant.m3u8
 https://zabava-htlive.cdn.ngenix.net/hls/CH_TNT4/variant.m3u8
 #EXTINF:-1  group-title="Wink" tvg-name="Суббота!" catchup-days="3" catchup="append" catchup-source="?offset=-${offset}&utcstart=${timestamp}", Суббота!
 http://zabava-htlive.cdn.ngenix.net/hls/CH_SUPER/variant.m3u8
-#EXTINF:-1  group-title="Wink" tvg-name="Муз ТВ" catchup-days="3" catchup="append" catchup-source="?offset=-${offset}&utcstart=${timestamp}", Муз ТВ
+#EXTINF:-1  group-title="Wink" tvg-name="Муз ТВ" tvg-logo="https://www.dropbox.com/scl/fi/k9hyzaszl4ovhxvacz9lq/logo_256-18.webp?rlkey=p054cgfi5pgd90jvvckzu50gz&st=mp247al2&dl=1" catchup-days="3" catchup="append" catchup-source="?offset=-${offset}&utcstart=${timestamp}", Муз ТВ
 https://zabava-htlive.cdn.ngenix.net/hls/CH_MUZTV/variant.m3u8
 #EXTINF:-1  group-title="Wink" tvg-name="СТС Love" tvg-logo="https://filmax-tv.ru/storage/images/channels/0fdd9332fdd01d8ab1fd0ef09093427e.png?d=1727957712" catchup-days="3" catchup="append" catchup-source="?offset=-${offset}&utcstart=${timestamp}", СТС Love
 https://zabava-htlive.cdn.ngenix.net/hls/CH_STSLOVE/variant.m3u8
@@ -382,15 +370,15 @@ https://zabava-htlive.cdn.ngenix.net/hls/CH_SPAS/variant.m3u8
 http://zabava-htlive.cdn.ngenix.net/hls/CH_VSETVHD/variant.m3u8
 #EXTINF:-1  group-title="Wink" catchup-days="3" catchup="append" catchup-source="?offset=-${offset}&utcstart=${timestamp}", Камин ТВ
 https://rt-vlg-nn-htlive.cdn.ngenix.net/hls/CH_R05_KAMINTV/variant.m3u8
-#EXTINF:-1  group-title="Wink" tvg-name="Первый канал" tvg-id="pervy" catchup-days="3" catchup="append" catchup-source="?offset=-${offset}&utcstart=${timestamp}", Первый канал (Тула)
+#EXTINF:-1  group-title="Wink" tvg-name="Первый канал" tvg-id="pervy" tvg-logo="https://www.dropbox.com/scl/fi/xq2c925gagaknoqeblo98/logo_256.webp?rlkey=kju1e94bmcav2em6jejwdudck&st=b6qvj7y6&dl=1" catchup-days="3" catchup="append" catchup-source="?offset=-${offset}&utcstart=${timestamp}", Первый канал (Тула)
 https://rt-ct-tula-htlive.cdn.ngenix.net/hls/CH_R03_1TV/variant.m3u8
-#EXTINF:-1  group-title="Wink" tvg-name="Россия 1" tvg-id="rossia1" tvg-logo="https://assets-iptv2022.cdnvideo.ru/static/channel/115/logo_256_1655391177.png" catchup-days="3" catchup="append" catchup-source="?offset=-${offset}&utcstart=${timestamp}", Россия 1 (Тула)
+#EXTINF:-1  group-title="Wink" tvg-name="Россия 1" tvg-id="rossia1" tvg-logo="https://www.dropbox.com/scl/fi/1dmzemjsqmse243x8e4bc/logo_256-1.webp?rlkey=0dmxxihgjelo5fsckvc0pkp61&st=14hb8hgf&dl=1" catchup-days="3" catchup="append" catchup-source="?offset=-${offset}&utcstart=${timestamp}", Россия 1 (Тула)
 https://rt-ct-tula-htlive.cdn.ngenix.net/hls/CH_R04_OTT_CT_TULA_ROSSIA1/variant.m3u8
 #EXTINF:-1  group-title="Wink" tvg-name="НТВ" tvg-id="ntv" tvg-logo="https://krasnovosti.ru/online_tv/img/logo_channels/ntv.jpg" catchup-days="3" catchup="append" catchup-source="?offset=-${offset}&utcstart=${timestamp}", НТВ (Тула)
 https://rt-ct-tula-htlive.cdn.ngenix.net/hls/CH_R03_OTT_CT_TULA_NTV/variant.m3u8
-#EXTINF:-1  group-title="Wink" tvg-name="Матч!" tvg-id="match-tv" catchup-days="3" catchup="append" catchup-source="?offset=-${offset}&utcstart=${timestamp}", Матч! (Тула)
+#EXTINF:-1  group-title="Wink" tvg-name="Матч!" tvg-id="match-tv" tvg-logo="https://www.dropbox.com/scl/fi/8d8vemslmjrfoy38typnj/logo_256-2.webp?rlkey=5b1ghi413ot9pcbcjf3j5fvds&st=2qzc5pbc&dl=1" catchup-days="3" catchup="append" catchup-source="?offset=-${offset}&utcstart=${timestamp}", Матч! (Тула)
 https://rt-ct-tula-htlive.cdn.ngenix.net/hls/CH_R04_ROSSIA2/variant.m3u8
-#EXTINF:-1  group-title="Wink" tvg-name="ТВЦ" tvg-id="tvcentr" catchup-days="3" catchup="append" catchup-source="?offset=-${offset}&utcstart=${timestamp}", ТВЦ (Тула)
+#EXTINF:-1  group-title="Wink" tvg-name="ТВЦ" tvg-id="tvcentr" tvg-logo="https://www.dropbox.com/scl/fi/82iarbyq70s3k9uxa68sa/logo_256-9.webp?rlkey=t2ufzslqcrgeg7778z1qzkfgr&st=1zra62vj&dl=1" catchup-days="3" catchup="append" catchup-source="?offset=-${offset}&utcstart=${timestamp}", ТВЦ (Тула)
 https://rt-ct-tula-htlive.cdn.ngenix.net/hls/CH_R04_TVC/variant.m3u8
 #EXTINF:-1  group-title="Wink" tvg-name="Первый Тульский" tvg-id="pervy-tulsky" tvg-logo="https://dl.dropbox.com/s/3mkzcy2ivznwa5m/Pervyytulskii_.png" catchup-days="3" catchup="append" catchup-source="?offset=-${offset}&utcstart=${timestamp}", Первый Тульский
 https://rt-ct-tula-htlive.cdn.ngenix.net/hls/CH_R01_OTT_CT_TULA_PERV_TUL/variant.m3u8
@@ -398,29 +386,29 @@ https://rt-ct-tula-htlive.cdn.ngenix.net/hls/CH_R01_OTT_CT_TULA_PERV_TUL/variant
 https://rt-ct-tula-htlive.cdn.ngenix.net/hls/CH_R01_OTT_CT_TULA_TULA24/variant.m3u8
 #EXTINF:-1  group-title="Wink" tvg-name="ТНТ" tvg-id="tnt" catchup-days="3" catchup="append" catchup-source="?offset=-${offset}&utcstart=${timestamp}", ТНТ (Тула)
 https://rt-ct-tula-htlive.cdn.ngenix.net/hls/CH_R01_TNT/variant.m3u8
-#EXTINF:-1  group-title="Wink" tvg-name="Россия 24" tvg-id="rossia-24" tvg-logo="https://assets-iptv2022.cdnvideo.ru/static/channel/148/logo_256_1655391326.png" catchup-days="3" catchup="append" catchup-source="?offset=-${offset}&utcstart=${timestamp}", Россия 24 (Тула)
+#EXTINF:-1  group-title="Wink" tvg-name="Россия 24" tvg-id="rossia-24" tvg-logo="https://www.dropbox.com/scl/fi/ve24nsiksgiv8o1bgu4xm/logo_256-6.webp?rlkey=6udy532dfdsmi1lfrcyjqytxk&st=pb0725kw&dl=0" catchup-days="3" catchup="append" catchup-source="?offset=-${offset}&utcstart=${timestamp}", Россия 24 (Тула)
 https://rt-ct-tula-htlive.cdn.ngenix.net/hls/CH_R01_OTT_CT_TULA_ROSSIA24/variant.m3u8
 #EXTINF:-1  group-title="Wink" tvg-name="Россия К" tvg-id="kultura" tvg-logo="https://assets-iptv2022.cdnvideo.ru/static/channel/83/logo_256_1655391215.png" catchup-days="3" catchup="append" catchup-source="?offset=-${offset}&utcstart=${timestamp}", Россия К (Тула)
 https://rt-ct-tula-htlive.cdn.ngenix.net/hls/CH_R02_OTT_CT_TULA_ROSSIAK/variant.m3u8
 #EXTINF:-1  group-title="Wink" tvg-name="ОТР" tvg-id="otr" catchup-days="3" catchup="append" catchup-source="?offset=-${offset}&utcstart=${timestamp}", ОТР (Тула)
 http://rt-ct-tula-htlive.cdn.ngenix.net/hls/CH_R01_OTR/variant.m3u8
-#EXTINF:-1  group-title="Wink" tvg-name="СТС" tvg-id="sts" catchup-days="3" catchup="append" catchup-source="?offset=-${offset}&utcstart=${timestamp}", СТС (Тула)
+#EXTINF:-1  group-title="Wink" tvg-name="СТС" tvg-id="sts" tvg-logo="https://www.dropbox.com/scl/fi/9u0652trq2wqr69j2kvev/logo_256-11.webp?rlkey=g9w8c4k6g6jumw4egtpdwsngl&st=nipnljv5&dl=0" catchup-days="3" catchup="append" catchup-source="?offset=-${offset}&utcstart=${timestamp}", СТС (Тула)
 https://rt-ct-tula-htlive.cdn.ngenix.net/hls/CH_R02_STS/variant.m3u8
-#EXTINF:-1  group-title="Wink" tvg-name="РЕН ТВ" tvg-id="rentv" catchup-days="3" catchup="append" catchup-source="?offset=-${offset}&utcstart=${timestamp}", РЕН ТВ (Тула)
+#EXTINF:-1  group-title="Wink" tvg-name="РЕН ТВ" tvg-id="rentv" tvg-logo="https://www.dropbox.com/scl/fi/n2nutcfzboxf6w5a887cf/logo_256-10.webp?rlkey=6o7ozkpjkn658ojsax681qjpp&st=k2aomvkq&dl=1" catchup-days="3" catchup="append" catchup-source="?offset=-${offset}&utcstart=${timestamp}", РЕН ТВ (Тула)
 https://rt-ct-tula-htlive.cdn.ngenix.net/hls/CH_R02_RENTV/variant.m3u8
-#EXTINF:-1  group-title="Wink" tvg-name="Звезда" tvg-id="zvezda" catchup-days="3" catchup="append" catchup-source="?offset=-${offset}&utcstart=${timestamp}", Звезда (Тула)
+#EXTINF:-1  group-title="Wink" tvg-name="Звезда" tvg-id="zvezda" tvg-logo="https://www.dropbox.com/scl/fi/nu5tjme0xxx8oz8c2wagd/logo_256-15.webp?rlkey=dzbnvbcuo2wefb3ifm5k3i6dk&st=n81vkbqh&dl=1" catchup-days="3" catchup="append" catchup-source="?offset=-${offset}&utcstart=${timestamp}", Звезда (Тула)
 https://rt-ct-tula-htlive.cdn.ngenix.net/hls/CH_R03_ZVEZDA/variant.m3u8
 #EXTINF:-1  group-title="Wink" tvg-name="Домашний" tvg-id="domashny" catchup-days="3" catchup="append" catchup-source="?offset=-${offset}&utcstart=${timestamp}", Домашний (Тула)
 https://rt-ct-tula-htlive.cdn.ngenix.net/hls/CH_R04_DOMASHNY/variant.m3u8
-#EXTINF:-1  group-title="Wink" tvg-name="ТВ-3" tvg-id="tv3-ru" catchup-days="3" catchup="append" catchup-source="?offset=-${offset}&utcstart=${timestamp}", ТВ 3 (Тула)
+#EXTINF:-1  group-title="Wink" tvg-name="ТВ-3" tvg-id="tv3-ru" tvg-logo="https://www.dropbox.com/scl/fi/kebb0ric3zbcdol02ts9l/logo_256-13.webp?rlkey=1x11nhjqs00g8r7dkyh0dif4n&st=8yd41hni&dl=1" catchup-days="3" catchup="append" catchup-source="?offset=-${offset}&utcstart=${timestamp}", ТВ 3 (Тула)
 https://rt-ct-tula-htlive.cdn.ngenix.net/hls/CH_R01_TV3/variant.m3u8
-#EXTINF:-1  group-title="Wink" tvg-name="Пятница" tvg-id="piatnica" catchup-days="3" catchup="append" catchup-source="?offset=-${offset}&utcstart=${timestamp}", Пятница! (Тула)
+#EXTINF:-1  group-title="Wink" tvg-name="Пятница" tvg-id="piatnica" tvg-logo="https://www.dropbox.com/scl/fi/rap5bph6pt8a7ubdc9wi5/logo_256-14.webp?rlkey=brtcxuoydnn253vje7kvxlz7d&st=gnfulj7y&dl=1" catchup-days="3" catchup="append" catchup-source="?offset=-${offset}&utcstart=${timestamp}", Пятница! (Тула)
 https://rt-ct-tula-htlive.cdn.ngenix.net/hls/CH_R01_FRIDAY/variant.m3u8
 #EXTINF:-1  group-title="Wink" tvg-name="5 КАНАЛ РОССИЯ" tvg-id="5kanal-ru" catchup-days="3" catchup="append" catchup-source="?offset=-${offset}&utcstart=${timestamp}", Пятый канал (Тула)
 https://rt-ct-tula-htlive.cdn.ngenix.net/hls/CH_R02_5TV/variant.m3u8
 #EXTINF:-1  group-title="Wink" tvg-name="Карусель" tvg-id="karusel" catchup-days="3" catchup="append" catchup-source="?offset=-${offset}&utcstart=${timestamp}", Карусель (Тула)
 https://rt-ct-tula-htlive.cdn.ngenix.net/hls/CH_R01_KARUSEL/variant.m3u8
-#EXTINF:-1  group-title="Wink" tvg-name="Че" tvg-id="che" catchup-days="3" catchup="append" catchup-source="?offset=-${offset}&utcstart=${timestamp}", Че (Тула)
+#EXTINF:-1  group-title="Wink" tvg-name="Че" tvg-id="che" tvg-logo="https://www.dropbox.com/scl/fi/hbmhgh66gcd9mos40nmf7/logo_256-21.webp?rlkey=vrqqap8jay3nkjo33rgkzvva2&st=62c4w7vn&dl=1" catchup-days="3" catchup="append" catchup-source="?offset=-${offset}&utcstart=${timestamp}", Че (Тула)
 https://rt-ct-tula-htlive.cdn.ngenix.net/hls/CH_R02_PERETZ/variant.m3u8
 #EXTINF:-1  group-title="Wink" tvg-name="Ю" tvg-id="yu" catchup-days="3" catchup="append" catchup-source="?offset=-${offset}&utcstart=${timestamp}", Ю (Тула)
 https://rt-ct-tula-htlive.cdn.ngenix.net/hls/CH_R03_U/variant.m3u8
