@@ -133,7 +133,7 @@ http://127.0.0.1:6878/ace/getstream?infohash=2a685561a8c29c02e99a31e27ecf1382ace
 http://127.0.0.1:6878/hls/manifest.m3u8?infohash=42832fbf9a1d3bdcca043e09951d6769fbbe04e7&.m3u8
 #EXTINF:-1  group-title="Pro 🇷🇺" tvg-name="Sky Sports Main Event HD" tvg-id="sky-sports-maine" tvg-logo="https://www.dropbox.com/scl/fi/a12s7dbco1xogeixy806v/sky-sports-maine.png?rlkey=i7brqocp92vzjwctq45kr9n9z&st=xw417nma&dl=1", Sky Sports Main Event HD
 http://127.0.0.1:6878/hls/manifest.m3u8?infohash=78266c15035d0ad8cbc58f821733931e1de434ab&.m3u8
-#EXTINF:-1  group-title="Pro 🇷🇺" tvg-name="Tennis Channel HD", Tennis Channel HD
+#EXTINF:-1  group-title="Pro 🇷🇺" tvg-name="Tennis Channel HD" tvg-logo="http://i116.fastpic.org/big/2022/0327/36/e84506b2cc8a03b4dc7700478ed51b36.png", Tennis Channel HD
 http://127.0.0.1:6878/ace/getstream?infohash=e4b5f07bbfce16ad3f57a4cdf3210a9fa8785ff4&.m3u8
 #EXTINF:-1  group-title="Pro 🇷🇺" tvg-name="SuperTennis HD" tvg-id="supertennis" tvg-logo="http://i122.fastpic.org/big/2023/0708/4a/4cff3350a011053dfff491a7b162bd4a.png", SuperTennis HD
 http://127.0.0.1:6878/ace/getstream?infohash=7a57543cb6061648dc44c5d4321bd100bc8a47ca&.m3u8
