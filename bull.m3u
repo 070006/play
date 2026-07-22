@@ -1,5 +1,5 @@
 #EXTM3U deinterlace=1 m3uautoload=1 url-tvg="https://iptvx.one/EPG"
-#EXTINF:-1  group-title="Информация 📌" tvg-logo="https://dl.dropbox.com/scl/fi/ov1ojkcly2djf8nzi225x/bull1.png?rlkey=do43cim9aaa23lenkd86pgz9s&st=p8tiyvxj", Обновлено: ⚽ 19.07.2026 🏀
+#EXTINF:-1  group-title="Информация 📌" tvg-logo="https://dl.dropbox.com/scl/fi/ov1ojkcly2djf8nzi225x/bull1.png?rlkey=do43cim9aaa23lenkd86pgz9s&st=p8tiyvxj", Обновлено: ⚽ 22.07.2026 🏀
 http://serv30.vintera.tv:8081/sochi/sochi_stream/chunks.m3u8
 #EXTINF:-1  group-title="Pro 🇷🇺" tvg-name="Первый HD" url-tvg="iptvx.one" tvg-id="pervy" tvg-logo="https://dl.dropbox.com/s/2qri8tu8q1wiu0h/Pervyihd.png", Первый HD
 https://edge3.1internet.tv/dash-live2/streams/1tv/1tvdash.mpd
@@ -19,13 +19,13 @@ http://rt-ct-tula-htlive.cdn.ngenix.net/hls/CH_R04_TVC/variant.m3u8
 http://rt-ct-tula-htlive.cdn.ngenix.net/hls/CH_R01_PERV_TUL/variant.m3u8
 #EXTINF:-1  group-title="Pro 🇷🇺" tvg-name="ТНТ HD" url-tvg="iptvx.one" tvg-id="tnt" tvg-logo="https://dl.dropbox.com/s/hcx359u5pny4v4r/tnt.png", ТНТ HD
 http://127.0.0.1:6878/hls/manifest.m3u8?infohash=a6169d01fb2b8a62b45857666946732773c651d1&.m3u8
-#EXTINF:-1  group-title="Pro 🇷🇺" tvg-name="ТНТ HD" url-tvg="iptvx.one" tvg-id="tnt" tvg-logo="https://www.dropbox.com/scl/fi/mlazubn37wknooz3pf44u/2468.png?rlkey=ccq06izyd7ynxz1gq2axafxn4&st=glbiv3e3&dl=1" catchup-days="3" catchup="append" catchup-source="?offset=-${offset}&utcstart=${timestamp}", ТНТ (Тула)
+#EXTINF:-1  group-title="Pro 🇷🇺" tvg-name="ТНТ HD" url-tvg="iptvx.one" tvg-id="tnt" tvg-logo="https://dl.dropbox.com/s/hcx359u5pny4v4r/tnt.png" catchup-days="3" catchup="append" catchup-source="?offset=-${offset}&utcstart=${timestamp}", ТНТ (Тула)
 http://rt-ct-tula-htlive.cdn.ngenix.net/hls/CH_R01_TNT/variant.m3u8
 #EXTINF:-1  group-title="Pro 🇷🇺" tvg-name="Россия 24" url-tvg="iptvx.one" tvg-id="rossia-24" tvg-logo="https://assets-iptv2022.cdnvideo.ru/static/channel/148/logo_256_1655391326.png", Россия 24 HD
 http://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/russia24-hd/1080p.m3u8
 #EXTINF:-1  group-title="Pro 🇷🇺" tvg-name="СТС" url-tvg="iptvx.one" tvg-id="sts" tvg-logo="https://dl.dropbox.com/s/dxerabkzs5s0wv9/sts_zheltyy.png", СТС HD
 http://127.0.0.1:6878/hls/manifest.m3u8?infohash=00ed244a3f5e36067b57b6a62b18cfa5d9dd0e22&.m3u8
-#EXTINF:-1  group-title="Pro 🇷🇺" tvg-name="СТС" url-tvg="iptvx.one" tvg-id="sts" tvg-logo="https://www.dropbox.com/scl/fi/ptnjexewg8pf5sgeih057/9716.png?rlkey=fzzmah1bh0jjwejp6wuywsejd&st=daztdnc1&dl=1" catchup-days="3" catchup="append" catchup-source="?offset=-${offset}&utcstart=${timestamp}", СТС (Тула)
+#EXTINF:-1  group-title="Pro 🇷🇺" tvg-name="СТС" url-tvg="iptvx.one" tvg-id="sts" tvg-logo="https://dl.dropbox.com/s/dxerabkzs5s0wv9/sts_zheltyy.png" catchup-days="3" catchup="append" catchup-source="?offset=-${offset}&utcstart=${timestamp}", СТС (Тула)
 http://rt-ct-tula-htlive.cdn.ngenix.net/hls/CH_R02_STS/variant.m3u8
 #EXTINF:-1  group-title="Pro 🇷🇺" tvg-name="РЕН ТВ HD" url-tvg="iptvx.one" tvg-id="rentv" tvg-logo="http://i120.fastpic.org/big/2022/0731/40/55cf12fef74a98d2776487fbb4c1d340.png" catchup-days="3" catchup="append" catchup-source="?offset=-${offset}&utcstart=${timestamp}", РЕН ТВ (Тула)
 http://rt-ct-tula-htlive.cdn.ngenix.net/hls/CH_R02_RENTV/variant.m3u8
@@ -43,7 +43,7 @@ http://127.0.0.1:6878/hls/manifest.m3u8?infohash=64d344a0acae84a96205b9b91924d57
 https://cdn.ntv.ru/unknown_russia/tracks-v1a1/playlist.m3u8
 #EXTINF:-1  group-title="Pro 🇷🇺" tvg-name="Пятница! HD" url-tvg="iptvx.one" tvg-id="piatnica" tvg-logo="https://www.dropbox.com/scl/fi/jl76jgo6pbxjdzjprt6d0/2464bc5898c3870d5d16c3a7d51f4f1d.png?rlkey=uwbw5609jeef0vtyze2vrlfrv&st=kl913j8w&dl=1", Пятница! HD
 http://127.0.0.1:6878/hls/manifest.m3u8?id=10d62d03d9fd2a9e84f639ed40a42e6a13940fce&.m3u8
-#EXTINF:-1  group-title="Pro 🇷🇺" tvg-name="Пятница! HD" url-tvg="iptvx.one" tvg-id="piatnica" tvg-logo="https://www.dropbox.com/scl/fi/80s6xcro3yceh31r0qcbl/3755.png?rlkey=flpgigi7e0dysiipf8gpu4nwx&st=qqxotmwr&dl=1" catchup-days="3" catchup="append" catchup-source="?offset=-${offset}&utcstart=${timestamp}", Пятница! (Тула)
+#EXTINF:-1  group-title="Pro 🇷🇺" tvg-name="Пятница! HD" url-tvg="iptvx.one" tvg-id="piatnica" tvg-logo="https://www.dropbox.com/scl/fi/4vkdv04nw5d7wk7i4x8zb/.png?rlkey=ng7j8ogpnm4d6c764dgscqro3&st=9l14y5nq&dl=1" catchup-days="3" catchup="append" catchup-source="?offset=-${offset}&utcstart=${timestamp}", Пятница! (Тула)
 http://rt-ct-tula-htlive.cdn.ngenix.net/hls/CH_R01_FRIDAY/variant.m3u8
 #EXTINF:-1  group-title="Pro 🇷🇺" tvg-name="Че!" url-tvg="iptvx.one" tvg-id="che" tvg-logo="http://i127.fastpic.org/big/2026/0412/85/07a2acc1688fc95842ff9dbe6d97fb85.png" catchup-days="3" catchup="append" catchup-source="?offset=-${offset}&utcstart=${timestamp}", Че (Тула)
 https://rt-ct-tula-htlive.cdn.ngenix.net/hls/CH_R02_PERETZ/variant.m3u8
@@ -61,7 +61,7 @@ http://127.0.0.1:6878/hls/manifest.m3u8?infohash=7489852d25d4dbb269c1352042c7423
 http://127.0.0.1:6878/hls/manifest.m3u8?infohash=d479f8e40ed56c3c428cafc25cdb77d952700685&.m3u8
 #EXTINF:-1  group-title="Pro 🇷🇺" tvg-name="ТНТ4 HD" url-tvg="iptvx.one" tvg-id="tnt4" tvg-logo="https://dl.dropbox.com/s/3zn51t5b81gr5wr/tnt4.png", ТНТ4 HD
 http://127.0.0.1:6878/hls/manifest.m3u8?infohash=6f169084c32e98f87f49d9880406873c3453b49d&.m3u8
-#EXTINF:-1  group-title="Pro 🇷🇺" tvg-name="ТНТ4" url-tvg="iptvx.one" tvg-id="tnt4" tvg-logo="https://www.dropbox.com/scl/fi/2otkjgjn4e6ahfgncdg9i/4848.png?rlkey=ytktqibxrl0lfqv364v76o0jr&st=n0va6pum&dl=1" catchup-days="3" catchup="append" catchup-source="?offset=-${offset}&utcstart=${timestamp}", ТНТ4
+#EXTINF:-1  group-title="Pro 🇷🇺" tvg-name="ТНТ4" url-tvg="iptvx.one" tvg-id="tnt4" tvg-logo="https://dl.dropbox.com/s/3zn51t5b81gr5wr/tnt4.png" catchup-days="3" catchup="append" catchup-source="?offset=-${offset}&utcstart=${timestamp}", ТНТ4
 http://zabava-htlive.cdn.ngenix.net/hls/CH_TNT4/variant.m3u8
 #EXTINF:-1  group-title="Pro 🇷🇺" tvg-name="ТВ 3 HD" url-tvg="iptvx.one" tvg-id="tv3-ru" tvg-logo="https://www.dropbox.com/scl/fi/vy6xkk4ox968lkzxe640l/tv3-ru.png?rlkey=1eyyzckuq21zkrtik8bwz7p2j&dl=1", ТВ 3 HD
 http://127.0.0.1:6878/hls/manifest.m3u8?infohash=3403267623697a7092a10478aad7f234f2ce4a64&.m3u8
