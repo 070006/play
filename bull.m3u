@@ -1,5 +1,5 @@
 #EXTM3U deinterlace=1 m3uautoload=1 url-tvg="https://iptvx.one/EPG"
-#EXTINF:-1  group-title="Информация 📌" tvg-logo="https://dl.dropbox.com/scl/fi/ov1ojkcly2djf8nzi225x/bull1.png?rlkey=do43cim9aaa23lenkd86pgz9s&st=p8tiyvxj", Обновлено: ⚽ 22.07.2026 🏀
+#EXTINF:-1  group-title="Информация 📌" tvg-logo="https://dl.dropbox.com/scl/fi/ov1ojkcly2djf8nzi225x/bull1.png?rlkey=do43cim9aaa23lenkd86pgz9s&st=p8tiyvxj", Обновлено: ⚽ 24.07.2026 🏀
 http://serv30.vintera.tv:8081/sochi/sochi_stream/chunks.m3u8
 #EXTINF:-1  group-title="Pro 🇷🇺" tvg-name="Первый HD" url-tvg="iptvx.one" tvg-id="pervy" tvg-logo="https://dl.dropbox.com/s/2qri8tu8q1wiu0h/Pervyihd.png", Первый HD
 https://edge3.1internet.tv/dash-live2/streams/1tv/1tvdash.mpd
@@ -1190,8 +1190,8 @@ http://127.0.0.1:6878/hls/manifest.m3u8?infohash=1b86e011adec585107f75423b7c5827
 http://127.0.0.1:6878/hls/manifest.m3u8?infohash=22b73ed881efe130b4222b0168de8a0e8a299c24&.m3u8
 #EXTINF:-1  group-title="↕️ Познавательные 🔍" tvg-id="doktor", Доктор
 http://127.0.0.1:6878/hls/manifest.m3u8?infohash=0334a6a2478cb04840b658cd9eec2181fadd73d4&.m3u8
-#EXTINF:-1  group-title="↕️ Познавательные 🔍", Star Media
-http://127.0.0.1:6878/hls/manifest.m3u8?infohash=313e3ec00e7c6e0bcce4c92f7ba1b189279c1da0&.m3u8
+
+
 #EXTINF:-1  group-title="↕️ Разное" tvg-id="dozhd", Дождь
 http://127.0.0.1:6878/hls/manifest.m3u8?infohash=ed6452bdf0452841bbfa3a060ee00e73b5968262&.m3u8
 #EXTINF:-1  group-title="↕️ Разное", Настоящее время HD
@@ -1402,10 +1402,10 @@ http://127.0.0.1:6878/hls/manifest.m3u8?infohash=3dd5cc4427c44e9235ccc4eaf3a68f2
 
 #EXTINF:-1  group-title="Беларусь 🇧🇾" tvg-name="Беларусь 24" tvg-id="belarus24", Беларусь 24 ↕️
 http://127.0.0.1:6878/hls/manifest.m3u8?infohash=c95ab47e2275753ce6ab648c6ac5b12947d71f1d&.m3u8
-#EXTINF:-1  group-title="Беларусь 🇧🇾" tvg-name="ТРО" tvg-id="tro", ТРО ↕️
-http://127.0.0.1:6878/hls/manifest.m3u8?id=f384dea49bc07dbfb4b385d8868e9caa0c7de371&.m3u8
-#EXTINF:-1  group-title="Беларусь 🇧🇾", БелРос
-http://127.0.0.1:6878/hls/manifest.m3u8?infohash=96ecd033e36f2d06a49c2cd325793b0dfa9794df&.m3u8
+
+
+
+
 #EXTINF:-1  group-title="↕️ Разное", Ералаш
 http://127.0.0.1:6878/hls/manifest.m3u8?infohash=8cec6ab291a7d545817d14e724d9c9bcba473f1e&.m3u8
 #EXTINF:-1  group-title="↕️ Разное" tvg-id="euronews", EuroNews
@@ -2002,12 +2002,10 @@ https://edge50.dc.beltelecom.by/ngtrk/smil:belarus5.smil/chunklist_b2660000_slen
 https://edge50.dc.beltelecom.by/ngtrk/smil:belarus24.smil/chunklist_b5160000_sleng.m3u8
 #EXTINF:-1  group-title="Беларусь 🇧🇾", Первый информационный
 https://edge50.dc.beltelecom.by/ngtrk/smil:informacionnyy.smil/chunklist_b5160000_sleng.m3u8
-#EXTINF:-1  group-title="Беларусь 🇧🇾", ОНТ HD
-https://edge50.dc.beltelecom.by/ont/ont/chunklist_b5160000_sleng.m3u8
+
+
 #EXTINF:-1  group-title="Беларусь 🇧🇾", СТВ Беларусь
 http://edge50.dc.beltelecom.by/ctv/ctv.stream/chunklist_b5160000_sleng.m3u8
-#EXTINF:-1  group-title="Беларусь 🇧🇾", БелРос
-http://live2.mediacdn.ru/sr1/tro/playlist_1.5M.m3u8
 
 
 #EXTINF:-1  group-title="Музыка 🎵" tvg-logo="https://filmax-tv.ru/storage/images/channels/43bd5208a980ea3b3dc85527cda23b9c.png?d=1723921217", Шансон ТВ
