@@ -17,15 +17,15 @@ https://rt-ct-tula-htlive.cdn.ngenix.net/hls/CH_R03_OTT_CT_TULA_NTV/variant.m3u8
 http://rt-ct-tula-htlive.cdn.ngenix.net/hls/CH_R04_TVC/variant.m3u8
 #EXTINF:-1  group-title="Pro 🇷🇺" tvg-name="Первый Тульский" url-tvg="iptvx.one" tvg-id="pervy-tulsky" tvg-logo="https://dl.dropbox.com/s/3mkzcy2ivznwa5m/Pervyytulskii_.png" catchup-days="3" catchup="append" catchup-source="?offset=-${offset}&utcstart=${timestamp}", Первый Тульский
 http://rt-ct-tula-htlive.cdn.ngenix.net/hls/CH_R01_PERV_TUL/variant.m3u8
-#EXTINF:-1  group-title="Pro 🇷🇺" tvg-name="ТНТ HD" url-tvg="iptvx.one" tvg-id="tnt" tvg-logo="https://only4.tv/ch/2217.png", ТНТ HD
+#EXTINF:-1  group-title="Pro 🇷🇺" tvg-name="ТНТ HD" url-tvg="iptvx.one" tvg-id="tnt" tvg-logo="https://www.dropbox.com/scl/fi/ssu224f4xi5awv5jvp3rr/2217.png?rlkey=pz8td9oimvp9q7y2q2wjcbusj&st=wm6oynrt&dl=1", ТНТ HD
 http://127.0.0.1:6878/hls/manifest.m3u8?infohash=a6169d01fb2b8a62b45857666946732773c651d1&.m3u8
 #EXTINF:-1  group-title="Pro 🇷🇺" tvg-name="ТНТ HD" url-tvg="iptvx.one" tvg-id="tnt" tvg-logo="https://dl.dropbox.com/s/hcx359u5pny4v4r/tnt.png" catchup-days="3" catchup="append" catchup-source="?offset=-${offset}&utcstart=${timestamp}", ТНТ (Тула)
 http://rt-ct-tula-htlive.cdn.ngenix.net/hls/CH_R01_TNT/variant.m3u8
 #EXTINF:-1  group-title="Pro 🇷🇺" tvg-name="Россия 24" url-tvg="iptvx.one" tvg-id="rossia-24" tvg-logo="https://assets-iptv2022.cdnvideo.ru/static/channel/148/logo_256_1655391326.png", Россия 24 HD
 http://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/russia24-hd/1080p.m3u8
-#EXTINF:-1  group-title="Pro 🇷🇺" tvg-name="СТС" url-tvg="iptvx.one" tvg-id="sts" tvg-logo="https://only4.tv/ch/5580.png", СТС HD
+#EXTINF:-1  group-title="Pro 🇷🇺" tvg-name="СТС" url-tvg="iptvx.one" tvg-id="sts" tvg-logo="https://dl.dropbox.com/s/dxerabkzs5s0wv9/sts_zheltyy.png", СТС HD
 http://127.0.0.1:6878/hls/manifest.m3u8?infohash=00ed244a3f5e36067b57b6a62b18cfa5d9dd0e22&.m3u8
-#EXTINF:-1  group-title="Pro 🇷🇺" tvg-name="СТС" url-tvg="iptvx.one" tvg-id="sts" tvg-logo="https://dl.dropbox.com/s/dxerabkzs5s0wv9/sts_zheltyy.png" catchup-days="3" catchup="append" catchup-source="?offset=-${offset}&utcstart=${timestamp}", СТС (Тула)
+#EXTINF:-1  group-title="Pro 🇷🇺" tvg-name="СТС" url-tvg="iptvx.one" tvg-id="sts" tvg-logo="https://www.dropbox.com/scl/fi/a2qvwjl90rqg1m00kphzu/sts.png?rlkey=5fb8bgap71nxk0hcrlvhwr30x&st=6hp3g3qo&dl=1" catchup-days="3" catchup="append" catchup-source="?offset=-${offset}&utcstart=${timestamp}", СТС (Тула)
 http://rt-ct-tula-htlive.cdn.ngenix.net/hls/CH_R02_STS/variant.m3u8
 #EXTINF:-1  group-title="Pro 🇷🇺" tvg-name="РЕН ТВ HD" url-tvg="iptvx.one" tvg-id="rentv" tvg-logo="http://i120.fastpic.org/big/2022/0731/40/55cf12fef74a98d2776487fbb4c1d340.png" catchup-days="3" catchup="append" catchup-source="?offset=-${offset}&utcstart=${timestamp}", РЕН ТВ (Тула)
 http://rt-ct-tula-htlive.cdn.ngenix.net/hls/CH_R02_RENTV/variant.m3u8
@@ -59,7 +59,7 @@ http://127.0.0.1:6878/hls/manifest.m3u8?infohash=4b598726baad9f7a96f8fed7f4415f8
 http://127.0.0.1:6878/hls/manifest.m3u8?infohash=7489852d25d4dbb269c1352042c7423f13220903&.m3u8
 #EXTINF:-1  group-title="Pro 🇷🇺" tvg-name="CineMan РуКино" tvg-logo="http://i122.fastpic.org/big/2023/0904/3f/27dc800c9fd18f6ce3c144a89439d93f.png", CineMan РуКино
 http://127.0.0.1:6878/hls/manifest.m3u8?infohash=d479f8e40ed56c3c428cafc25cdb77d952700685&.m3u8
-#EXTINF:-1  group-title="Pro 🇷🇺" tvg-name="ТНТ4 HD" url-tvg="iptvx.one" tvg-id="tnt4" tvg-logo="https://only4.tv/ch/6465.png", ТНТ4 HD
+#EXTINF:-1  group-title="Pro 🇷🇺" tvg-name="ТНТ4 HD" url-tvg="iptvx.one" tvg-id="tnt4" tvg-logo="https://www.dropbox.com/scl/fi/wlxics51o1w1a2whvnurw/6465.png?rlkey=05m5b13oj4mstyrx2hx47djga&st=guxkultb&dl=1", ТНТ4 HD
 http://127.0.0.1:6878/hls/manifest.m3u8?infohash=6f169084c32e98f87f49d9880406873c3453b49d&.m3u8
 #EXTINF:-1  group-title="Pro 🇷🇺" tvg-name="ТНТ4" url-tvg="iptvx.one" tvg-id="tnt4" tvg-logo="https://dl.dropbox.com/s/3zn51t5b81gr5wr/tnt4.png" catchup-days="3" catchup="append" catchup-source="?offset=-${offset}&utcstart=${timestamp}", ТНТ4
 http://zabava-htlive.cdn.ngenix.net/hls/CH_TNT4/variant.m3u8
