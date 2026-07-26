@@ -155,18 +155,12 @@ http://rt-ct-tula-htlive.cdn.ngenix.net/hls/CH_R01_OTR/variant.m3u8
 http://tvzvezda.bonus-tv.ru/cdn/zvezdaplus/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1  group-title="Pro 🇷🇺" url-tvg="iptvx.one" tvg-id="360-podmoskovie" tvg-logo="https://dl.dropbox.com/s/0y1m8f1fx9u0sg2/360-podmoskovie.png", 360° HD
 https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-04-srt.smil/playlist.m3u8
-#EXTINF:-1  group-title="Pro 🇷🇺" tvg-name="Точка.РФ" tvg-id="hd-life" tvg-logo="http://i124.fastpic.org/big/2025/0313/9a/180bb242388d3cf212bc947e0f32909a.png", ТОЧКА.РФ
-http://127.0.0.1:6878/hls/manifest.m3u8?infohash=44ffb1bd04a4aa2df86bbca0f29a714772a7abe1&.m3u8
 #EXTINF:-1  group-title="Pro 🇷🇺" tvg-name="TV1000 HD" url-tvg="iptvx.one" tvg-id="tv1000" tvg-logo="https://filmax-tv.ru/storage/images/channels/2507417acbe490236cbd6fb04755cd90.png?d=1733846416", Viju TV1000 HD
 http://127.0.0.1:6878/ace/getstream?infohash=b2937e666b87952e13f299d9ee52bd77117f5ccb&.m3u8
 #EXTINF:-1  group-title="Pro 🇷🇺" tvg-name="TV1000 Action HD" url-tvg="iptvx.one" tvg-id="tv1000-action" tvg-logo="https://filmax-tv.ru/storage/images/channels/4d30d7a1bd1c52d5744dc6afe29fc150.png?d=1733846416", Viju TV1000 Action HD
 http://127.0.0.1:6878/ace/getstream?infohash=647c31eee02705588b3d84e6f4359d4c8123585b&.m3u8
 #EXTINF:-1  group-title="Pro 🇷🇺" tvg-name="TV1000 Русское HD" url-tvg="iptvx.one" tvg-id="tv1000-russkoe-kino" tvg-logo="https://filmax-tv.ru/storage/images/channels/a855b444fdeee501e51278bde3.png?d=1733853614", Viju TV1000 Русское HD
 http://127.0.0.1:6878/ace/getstream?infohash=579f9693b8084c1b8349c4108ab7a69d2953e72f&.m3u8
-#EXTINF:-1  group-title="Pro 🇷🇺" tvg-id="tv1000-worldkino" tvg-logo="https://dl.dropbox.com/scl/fi/a51qodoebfvd86pcbeeax/tv1000-worldkino.png?rlkey=zpsqoi93mdnfznpm4pxzbbqa0&st=edn2dcer", Viasat Kino World
-http://127.0.0.1:6878/hls/manifest.m3u8?infohash=36327fc5b9ce670f5d51e0eb322b079ae2d06cd8&.m3u8
-#EXTINF:-1  group-title="Pro 🇷🇺" url-tvg="iptvx.one" tvg-id="rtd-ru" tvg-logo="https://dl.dropbox.com/s/sxf9ufcsg8j4zuw/rtd.png", RTД HD
-http://rt-doc.rttv.com/dvr/rtdru/rtdru1080.m3u8
 #EXTINF:-1  group-title="Pro 🇷🇺" tvg-name="Пятый канал" url-tvg="iptvx.one" tvg-id="5kanal-ru" tvg-logo="https://dl.dropbox.com/s/x6xankdux06rvpa/pyatyykanal.png" catchup-days="3" catchup="append" catchup-source="?offset=-${offset}&utcstart=${timestamp}", Пятый канал (Тула)
 http://rt-ct-tula-htlive.cdn.ngenix.net/hls/CH_R02_5TV/variant.m3u8
 #EXTINF:-1  group-title="Pro 🇷🇺" tvg-name="Домашний" url-tvg="iptvx.one" tvg-id="domashny" tvg-logo="https://dl.dropbox.com/s/r3ppm5x7v957ybz/domashny.png" catchup-days="3" catchup="append" catchup-source="?offset=-${offset}&utcstart=${timestamp}", Домашний (Тула)
@@ -181,6 +175,12 @@ http://127.0.0.1:6878/ace/getstream?infohash=a604243282974cc912690555f96b1c80d14
 http://127.0.0.1:6878/ace/getstream?infohash=1a6c974216f9305c02fb92962575f32ce85030a3&.m3u8
 #EXTINF:-1  group-title="Pro 🇷🇺" url-tvg="iptvx.one" tvg-id="nat-geo-wild" tvg-logo="https://dl.dropbox.com/s/s4at4ylitrvk11m/natgeowild_belyy.png", Nat Geo Wild HD 
 http://127.0.0.1:6878/ace/manifest.m3u8?infohash=c0280edf1a8bab3e8ea8fd33e12d1009c9f09e11&.m3u8
+#EXTINF:-1  group-title="Pro 🇷🇺" tvg-logo="https://api.telecolatv.link/images/channels/320.png", .black
+http://127.0.0.1:6878/hls/manifest.m3u8?infohash=18cf2d3491233fa980add6db246847a5077be047&.m3u8
+#EXTINF:-1  group-title="Pro 🇷🇺" tvg-logo="https://api.telecolatv.link/images/channels/322.png", .red HD
+http://127.0.0.1:6878/hls/manifest.m3u8?infohash=cd680104166a605ed27730dcaec73bf81221d540&.m3u8
+#EXTINF:-1  group-title="Pro 🇷🇺" tvg-logo="https://api.telecolatv.link/images/channels/321.png", .sci-fi
+http://127.0.0.1:6878/hls/manifest.m3u8?infohash=4155750f93c063a053c9d6628657616b0457eb9f&.m3u8
 #EXTINF:-1  group-title="Pro 🇷🇺" url-tvg="iptvx.one" tvg-id="super" tvg-logo="https://dl.dropbox.com/s/o2oshn7ef6wjrzw/subbota.png", Суббота! HD
 http://127.0.0.1:6878/hls/manifest.m3u8?infohash=ebeec408c96acce8cfea1dcb0a53397fbee77acf&.m3u8
 #EXTINF:-1  group-title="Pro 🇷🇺" url-tvg="iptvx.one" tvg-id="super" tvg-logo="https://dl.dropbox.com/scl/fi/pmtf6u8iwka59uzwkhut9/logo_256-25.webp?rlkey=iy32lzwzi6wud67xtdtzktb7x&st=8sbzvxan" catchup-days="3" catchup="append" catchup-source="?offset=-${offset}&utcstart=${timestamp}", Суббота!
@@ -990,6 +990,8 @@ http://127.0.0.1:6878/hls/manifest.m3u8?infohash=bc301f9bb46cb45a6ba0a6ae1dc4a0b
 http://127.0.0.1:6878/hls/manifest.m3u8?infohash=5c12404dc3f67ce3421cee2e47871912d313dad7&.m3u8
 #EXTINF:-1  group-title="↕️ Кино 🎦" tvg-id="ntv-serial", НТВ Сериал
 http://127.0.0.1:6878/hls/manifest.m3u8?infohash=fb85e578240f4aceb1d1e67e52a9cc6895c67ef8&.m3u8
+#EXTINF:-1  group-title="↕️ Кино 🎦" tvg-id="tv1000-worldkino" tvg-logo="https://dl.dropbox.com/scl/fi/a51qodoebfvd86pcbeeax/tv1000-worldkino.png?rlkey=zpsqoi93mdnfznpm4pxzbbqa0&st=edn2dcer", Viasat Kino World
+http://127.0.0.1:6878/hls/manifest.m3u8?infohash=36327fc5b9ce670f5d51e0eb322b079ae2d06cd8&.m3u8
 #EXTINF:-1  group-title="↕️ Кино 🎦" tvg-id="star-cinema", Star Cinema HD
 http://127.0.0.1:6878/hls/manifest.m3u8?id=7f51ca063fa5a5566de8468f8d34c04f5c123000&.m3u8
 #EXTINF:-1  group-title="↕️ Кино 🎦" tvg-id="star-family", Star Family HD
@@ -1000,8 +1002,8 @@ http://127.0.0.1:6878/hls/manifest.m3u8?infohash=6c7984193ea8238a730c0000ea47e93
 http://127.0.0.1:6878/hls/manifest.m3u8?infohash=75e4236c61c6398ceda6b97e6dcff04f8f035ce2&.m3u8
 
 
-#EXTINF:-1  group-title="↕️ Познавательные 🔍" tvg-id="hd-life", Точка.РФ
-http://127.0.0.1:6878/hls/manifest.m3u8?id=74a1634a8fe44e5058c865d4de63cde90b14f107&.m3u8
+#EXTINF:-1  group-title="↕️ Познавательные 🔍" tvg-name="Точка.РФ" tvg-id="hd-life" tvg-logo="http://i124.fastpic.org/big/2025/0313/9a/180bb242388d3cf212bc947e0f32909a.png", ТОЧКА.РФ
+http://127.0.0.1:6878/hls/manifest.m3u8?infohash=44ffb1bd04a4aa2df86bbca0f29a714772a7abe1&.m3u8
 #EXTINF:-1  group-title="↕️ Познавательные 🔍" url-tvg="iptvx.one" tvg-id="viasat-nature-history-hd" tvg-logo="https://filmax-tv.ru/storage/images/channels/0e6a1a4c21a8aceb56199eba0d1.png?d=1728027012", viju+ Planet HD
 http://127.0.0.1:6878/ace/getstream?infohash=14c74e9552c440606b9f628cc4f50dc14e2dfc2b&.m3u8
 #EXTINF:-1  group-title="↕️ Познавательные 🔍" url-tvg="iptvx.one" tvg-id="viasat-nature-cee" tvg-logo="https://filmax-tv.ru/storage/images/channels/c99775a46fb1972ea97f26a2dd0f848b.png?d=1733256915", viju Nature HD
