@@ -1,5 +1,5 @@
 #EXTM3U deinterlace=1 m3uautoload=1 url-tvg="https://iptvx.one/EPG"
-#EXTINF:-1  group-title="Информация 📌" tvg-logo="https://dl.dropbox.com/scl/fi/ov1ojkcly2djf8nzi225x/bull1.png?rlkey=do43cim9aaa23lenkd86pgz9s&st=p8tiyvxj", Обновлено: ⚽ 25.07.2026 🏀
+#EXTINF:-1  group-title="Информация 📌" tvg-logo="https://dl.dropbox.com/scl/fi/ov1ojkcly2djf8nzi225x/bull1.png?rlkey=do43cim9aaa23lenkd86pgz9s&st=p8tiyvxj", Обновлено: ⚽ 26.07.2026 🏀
 http://serv30.vintera.tv:8081/sochi/sochi_stream/chunks.m3u8
 #EXTINF:-1  group-title="Pro 🇷🇺" tvg-name="Первый HD" url-tvg="iptvx.one" tvg-id="pervy" tvg-logo="https://dl.dropbox.com/s/2qri8tu8q1wiu0h/Pervyihd.png", Первый HD
 https://edge3.1internet.tv/dash-live2/streams/1tv/1tvdash.mpd
@@ -57,7 +57,7 @@ http://127.0.0.1:6878/hls/manifest.m3u8?infohash=c9714c4ce79127f4cf36a925f1e1ad5
 http://127.0.0.1:6878/hls/manifest.m3u8?infohash=4b598726baad9f7a96f8fed7f4415f8379d6d5f9&.m3u8
 #EXTINF:-1  group-title="Pro 🇷🇺" tvg-name="Мосфильм. Золотая коллекция (+4)" url-tvg="iptvx.one" tvg-id="mosfilm-pl4" tvg-logo="https://dl.dropbox.com/s/ijxd1t6opg96xz5/mosfilm1.png", Мосфильм HD
 http://127.0.0.1:6878/hls/manifest.m3u8?infohash=7489852d25d4dbb269c1352042c7423f13220903&.m3u8
-#EXTINF:-1  group-title="Pro 🇷🇺" tvg-name="CineMan РуКино" tvg-logo="http://i122.fastpic.org/big/2023/0904/3f/27dc800c9fd18f6ce3c144a89439d93f.png", CineMan РуКино
+#EXTINF:-1  group-title="Pro 🇷🇺" tvg-name="CineMan РуКино" tvg-logo="https://www.dropbox.com/scl/fi/groan3x5n9o4mlj37j715/890.png?rlkey=92tq9znwp9qqqcobvghk9xgjv&st=1jvi78xz&dl=1", CineMan РуКино
 http://127.0.0.1:6878/hls/manifest.m3u8?infohash=d479f8e40ed56c3c428cafc25cdb77d952700685&.m3u8
 #EXTINF:-1  group-title="Pro 🇷🇺" tvg-name="ТНТ4 HD" url-tvg="iptvx.one" tvg-id="tnt4" tvg-logo="https://www.dropbox.com/scl/fi/wlxics51o1w1a2whvnurw/6465.png?rlkey=05m5b13oj4mstyrx2hx47djga&st=guxkultb&dl=1", ТНТ4 HD
 http://127.0.0.1:6878/hls/manifest.m3u8?infohash=6f169084c32e98f87f49d9880406873c3453b49d&.m3u8
