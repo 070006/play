@@ -121,6 +121,10 @@ http://127.0.0.1:6878/hls/manifest.m3u8?infohash=38c98858c0fc5e670820d2e1d308c71
 http://127.0.0.1:6878/hls/manifest.m3u8?infohash=f6b7553df66ac4bffd4b3ead443b647322d1a7e0&.m3u8
 #EXTINF:-1  group-title="Pro 🇷🇺" tvg-name="Футбол HD" url-tvg="iptvx.one" tvg-id="football-ru" tvg-logo="https://dl.dropbox.com/s/z85hmx9t0o1t2eb/futbol.png", Футбол HD
 http://127.0.0.1:6878/hls/manifest.m3u8?infohash=9d4b38b7218803e1d877b01b3a6c6db1a494bb6a&.m3u8
+#EXTINF:-1  group-title="Pro 🇷🇺" tvg-id="sportivny" tvg-logo="https://dl.dropbox.com/scl/fi/wl2pl1lhwokd4vfq0imdw/sportivny.png?rlkey=bb6e2ocovpzngb7hgjje8fned&st=erul197b", ТВ Спорт
+http://127.0.0.1:6878/hls/manifest.m3u8?infohash=30cf0f8140006a03d60a4639c623f024b4e167ed&.m3u8
+#EXTINF:-1  group-title="Pro 🇷🇺" tvg-id="footbolny" tvg-logo="https://dl.dropbox.com/scl/fi/n3a52u0joniy5cdzy4ajx/footbolny.png?rlkey=y0yn6padwu34y44jtzr3y8kvx&st=5v3xbj3g", Мяч
+http://127.0.0.1:6878/hls/manifest.m3u8?infohash=65ae3e0427ef14d9ef88f0183c011e6ff42ca062&.m3u8
 
 
 #EXTINF:-1  group-title="Pro 🇷🇺" tvg-name="Setanta Sports 1 HD" tvg-id="setanta-sports" tvg-logo="https://dl.dropbox.com/scl/fi/6shvhcfjixmvwqvwbjd9l/Setanta1_.png?rlkey=41chnhodvmpn0mp10qr1gf5ne&st=d9xtult7", Setanta Sports 1 HD
