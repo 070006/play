@@ -55,7 +55,7 @@ http://127.0.0.1:6878/hls/manifest.m3u8?infohash=d092686779efec6d9ccea4409d567b9
 http://127.0.0.1:6878/hls/manifest.m3u8?infohash=c9714c4ce79127f4cf36a925f1e1ad5a7bd7cadd&.m3u8
 #EXTINF:-1  group-title="Pro 🇷🇺" tvg-name="BCU Premiere Ultra 4K" tvg-id="bcu-premiere-4k" tvg-logo="https://dl.dropbox.com/scl/fi/k9myydmwuas7acl3a2yps/bcu-premiere-4k.png?rlkey=5tn9zn8a8hbum1llsxx71fs5h&st=m1fplbwg", BCU Premiere Ultra 4K
 http://127.0.0.1:6878/hls/manifest.m3u8?infohash=4b598726baad9f7a96f8fed7f4415f8379d6d5f9&.m3u8
-#EXTINF:-1  group-title="Pro 🇷🇺" tvg-name="Мосфильм. Золотая коллекция (+4)" url-tvg="iptvx.one" tvg-id="mosfilm-pl4" tvg-logo="http://i120.fastpic.org/big/2022/1028/4b/3dc242a409044578b5c710ba90804c4b.png", Мосфильм HD
+#EXTINF:-1  group-title="Pro 🇷🇺" tvg-name="Мосфильм. Золотая коллекция (+4)" url-tvg="iptvx.one" tvg-id="mosfilm-pl4" tvg-logo="https://filmax-tv.ru/storage/images/channels/jvj55d43j.png?d=1772032518", Мосфильм HD
 http://127.0.0.1:6878/hls/manifest.m3u8?infohash=7489852d25d4dbb269c1352042c7423f13220903&.m3u8
 #EXTINF:-1  group-title="Pro 🇷🇺" tvg-name="CineMan РуКино" tvg-logo="https://dl.dropbox.com/scl/fi/groan3x5n9o4mlj37j715/890.png?rlkey=92tq9znwp9qqqcobvghk9xgjv&st=1jvi78xz", CineMan РуКино
 http://127.0.0.1:6878/hls/manifest.m3u8?infohash=d479f8e40ed56c3c428cafc25cdb77d952700685&.m3u8
