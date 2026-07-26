@@ -121,7 +121,7 @@ http://127.0.0.1:6878/hls/manifest.m3u8?infohash=38c98858c0fc5e670820d2e1d308c71
 http://127.0.0.1:6878/hls/manifest.m3u8?infohash=f6b7553df66ac4bffd4b3ead443b647322d1a7e0&.m3u8
 #EXTINF:-1  group-title="Pro 🇷🇺" tvg-name="Футбол HD" url-tvg="iptvx.one" tvg-id="football-ru" tvg-logo="https://dl.dropbox.com/s/z85hmx9t0o1t2eb/futbol.png", Футбол HD
 http://127.0.0.1:6878/hls/manifest.m3u8?infohash=9d4b38b7218803e1d877b01b3a6c6db1a494bb6a&.m3u8
-#EXTINF:-1  group-title="Pro 🇷🇺" tvg-id="sportivny" tvg-logo="https://dl.dropbox.com/scl/fi/8q63b0690danj9rcjdni9/.png?rlkey=zfaxcn10jx4pemuopjjpxlv6v&st=svdvl45l", ТВ Спорт
+#EXTINF:-1  group-title="Pro 🇷🇺" tvg-id="sportivny" tvg-logo="https://dl.dropbox.com/scl/fi/gil1x0cztrubk5bx0lc8c/.png?rlkey=hggiauvclx8q57juemj7qsdgo&st=j1n6gtlz", ТВ Спорт
 http://127.0.0.1:6878/hls/manifest.m3u8?infohash=30cf0f8140006a03d60a4639c623f024b4e167ed&.m3u8
 #EXTINF:-1  group-title="Pro 🇷🇺" tvg-id="footbolny" tvg-logo="https://dl.dropbox.com/scl/fi/8q63b0690danj9rcjdni9/.png?rlkey=zfaxcn10jx4pemuopjjpxlv6v&st=kcg853xm", Мяч
 http://127.0.0.1:6878/hls/manifest.m3u8?infohash=65ae3e0427ef14d9ef88f0183c011e6ff42ca062&.m3u8
@@ -137,7 +137,7 @@ http://127.0.0.1:6878/ace/getstream?infohash=2a685561a8c29c02e99a31e27ecf1382ace
 http://127.0.0.1:6878/hls/manifest.m3u8?infohash=42832fbf9a1d3bdcca043e09951d6769fbbe04e7&.m3u8
 #EXTINF:-1  group-title="Pro 🇷🇺" tvg-name="Sky Sports Main Event HD" tvg-id="sky-sports-maine" tvg-logo="https://dl.dropbox.com/scl/fi/a12s7dbco1xogeixy806v/sky-sports-maine.png?rlkey=i7brqocp92vzjwctq45kr9n9z&st=xw417nma", Sky Sports Main Event HD
 http://127.0.0.1:6878/hls/manifest.m3u8?infohash=78266c15035d0ad8cbc58f821733931e1de434ab&.m3u8
-#EXTINF:-1  group-title="Pro 🇷🇺" tvg-name="Tennis Channel HD" tvg-logo="https://only4.tv/ch/6301.png", Tennis Channel HD
+#EXTINF:-1  group-title="Pro 🇷🇺" tvg-name="Tennis Channel HD" tvg-logo="https://dl.dropbox.com/scl/fi/7xq4indkhipp6qdzlwm40/6301.png?rlkey=bof1fvaze5hqbhrv1xbqn09l4&st=dpnu17bl", Tennis Channel HD
 http://127.0.0.1:6878/ace/getstream?infohash=e4b5f07bbfce16ad3f57a4cdf3210a9fa8785ff4&.m3u8
 #EXTINF:-1  group-title="Pro 🇷🇺" tvg-name="SuperTennis HD" tvg-id="supertennis" tvg-logo="http://i122.fastpic.org/big/2023/0708/4a/4cff3350a011053dfff491a7b162bd4a.png", SuperTennis HD
 http://127.0.0.1:6878/ace/getstream?infohash=7a57543cb6061648dc44c5d4321bd100bc8a47ca&.m3u8
