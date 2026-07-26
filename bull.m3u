@@ -19,7 +19,7 @@ http://rt-ct-tula-htlive.cdn.ngenix.net/hls/CH_R04_TVC/variant.m3u8
 http://rt-ct-tula-htlive.cdn.ngenix.net/hls/CH_R01_PERV_TUL/variant.m3u8
 #EXTINF:-1  group-title="Pro 🇷🇺" tvg-name="ТНТ HD" url-tvg="iptvx.one" tvg-id="tnt" tvg-logo="https://dl.dropbox.com/s/hcx359u5pny4v4r/tnt.png", ТНТ HD
 http://127.0.0.1:6878/hls/manifest.m3u8?infohash=a6169d01fb2b8a62b45857666946732773c651d1&.m3u8
-#EXTINF:-1  group-title="Pro 🇷🇺" tvg-name="ТНТ HD" url-tvg="iptvx.one" tvg-id="tnt" tvg-logo="https://static.kion.ru/tv/channels/images/formats/CHANNEL_PICTURE_17f326fd1a0a0e279cce34982e0d2bde.png" catchup-days="3" catchup="append" catchup-source="?offset=-${offset}&utcstart=${timestamp}", ТНТ (Тула)
+#EXTINF:-1  group-title="Pro 🇷🇺" tvg-name="ТНТ HD" url-tvg="iptvx.one" tvg-id="tnt" tvg-logo="https://dl.dropbox.com/scl/fi/o3zfbda2msj7gjfj6mx4i/tnt.png?rlkey=7krkcqg70c8arahi9cmv4qql2&st=j2vfwzdi" catchup-days="3" catchup="append" catchup-source="?offset=-${offset}&utcstart=${timestamp}", ТНТ (Тула)
 http://rt-ct-tula-htlive.cdn.ngenix.net/hls/CH_R01_TNT/variant.m3u8
 #EXTINF:-1  group-title="Pro 🇷🇺" tvg-name="Россия 24" url-tvg="iptvx.one" tvg-id="rossia-24" tvg-logo="https://assets-iptv2022.cdnvideo.ru/static/channel/148/logo_256_1655391326.png", Россия 24 HD
 http://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/russia24-hd/1080p.m3u8
@@ -55,7 +55,7 @@ http://127.0.0.1:6878/hls/manifest.m3u8?infohash=d092686779efec6d9ccea4409d567b9
 http://127.0.0.1:6878/hls/manifest.m3u8?infohash=c9714c4ce79127f4cf36a925f1e1ad5a7bd7cadd&.m3u8
 #EXTINF:-1  group-title="Pro 🇷🇺" tvg-name="BCU Premiere Ultra 4K" tvg-id="bcu-premiere-4k" tvg-logo="https://dl.dropbox.com/scl/fi/k9myydmwuas7acl3a2yps/bcu-premiere-4k.png?rlkey=5tn9zn8a8hbum1llsxx71fs5h&st=m1fplbwg", BCU Premiere Ultra 4K
 http://127.0.0.1:6878/hls/manifest.m3u8?infohash=4b598726baad9f7a96f8fed7f4415f8379d6d5f9&.m3u8
-#EXTINF:-1  group-title="Pro 🇷🇺" tvg-name="Мосфильм. Золотая коллекция (+4)" url-tvg="iptvx.one" tvg-id="mosfilm-pl4" tvg-logo="https://dl.dropbox.com/scl/fi/8hz6u6k65mdmg3wonqf1m/11125.png?rlkey=pj6s9d5lby0xkssgrtsvnrize&st=no9i7c4b", Мосфильм HD
+#EXTINF:-1  group-title="Pro 🇷🇺" tvg-name="Мосфильм. Золотая коллекция (+4)" url-tvg="iptvx.one" tvg-id="mosfilm-pl4" tvg-logo="http://i120.fastpic.org/big/2022/1028/4b/3dc242a409044578b5c710ba90804c4b.png", Мосфильм HD
 http://127.0.0.1:6878/hls/manifest.m3u8?infohash=7489852d25d4dbb269c1352042c7423f13220903&.m3u8
 #EXTINF:-1  group-title="Pro 🇷🇺" tvg-name="CineMan РуКино" tvg-logo="https://dl.dropbox.com/scl/fi/groan3x5n9o4mlj37j715/890.png?rlkey=92tq9znwp9qqqcobvghk9xgjv&st=1jvi78xz", CineMan РуКино
 http://127.0.0.1:6878/hls/manifest.m3u8?infohash=d479f8e40ed56c3c428cafc25cdb77d952700685&.m3u8
@@ -75,7 +75,7 @@ http://127.0.0.1:6878/ace/getstream?infohash=7278cacf226493d4086ca8717a4b7314b08
 https://stream.smotrim.ru/hls/solovievlive/playlist_6.m3u8
 #EXTINF:-1  group-title="Pro 🇷🇺" tvg-name="Известия" url-tvg="iptvx.one" tvg-id="izvestia" tvg-logo="https://dl.dropbox.com/scl/fi/4kmsuigiv0ly0ejf2w3z6/tsn24_.png?rlkey=deebpuum7o6p7kmnh884fe5ay" catchup-days="3" catchup="append" catchup-source="?offset=-${offset}&utcstart=${timestamp}", ТСН24
 https://rt-ct-tula-htlive.cdn.ngenix.net/hls/CH_R01_OTT_CT_TULA_TULA24/variant.m3u8
-#EXTINF:-1  group-title="Pro 🇷🇺" tvg-name="1HD" url-tvg="iptvx.one" tvg-id="1hd" tvg-logo="https://filmax-tv.ru/storage/images/channels/908fe186718583fd7fcbed97ef9e179c.png?d=1764852318", 1HD
+#EXTINF:-1  group-title="Pro 🇷🇺" tvg-name="1HD" tvg-id="1hd" tvg-logo="https://filmax-tv.ru/storage/images/channels/908fe186718583fd7fcbed97ef9e179c.png?d=1764852318", 1HD
 http://127.0.0.1:6878/hls/manifest.m3u8?infohash=5b12f2cf29ad1c793998cf82fbd07ca50c9f1b59&.m3u8
 #EXTINF:-1  group-title="Pro 🇷🇺" tvg-name="Матч!" url-tvg="iptvx.one" tvg-id="match-tv" tvg-logo="https://dl.dropbox.com/s/cjm4aeod7v7pefq/match3.png", Матч! HD
 http://127.0.0.1:6878/hls/manifest.m3u8?infohash=f69b2859510dce33b992dd1940f95254c6e6f51c&.m3u8
@@ -191,7 +191,7 @@ https://zabava-htlive.cdn.ngenix.net/hls/CH_DISNEY/variant.m3u8
 http://online.video.rbc.ru/online/rbctv_1080p/index.m3u8
 #EXTINF:-1  group-title="Pro 🇷🇺" url-tvg="iptvx.one" tvg-id="belarus24" tvg-logo="https://dl.dropbox.com/s/af5b995736razl9/belarus%2724.png", Беларусь 24 HD
 https://edge50.dc.beltelecom.by/ngtrk/_definst_/smil:belarus24.smil/chunklist_w1008231497_b5160000_sleng.m3u8
-#EXTINF:-1  group-title="Pro 🇷🇺" url-tvg="iptvx.one" tvg-id="moskva-24" tvg-logo="https://dl.dropbox.com/scl/fi/jdlurde0xqjj2anm14zj4/logo_256-19.webp?rlkey=te01gh5r1ov77kjtr75sf62xg&st=4tkzdk02" catchup-days="3" catchup="append" catchup-source="?offset=-${offset}&utcstart=${timestamp}", Москва 24
+#EXTINF:-1  group-title="Pro 🇷🇺" url-tvg="iptvx.one" tvg-id="moskva-24" tvg-logo="https://dl.dropbox.com/scl/fi/76ht01fkg1jblmd3alszy/0295.png?rlkey=v682evjihj1o3561xr0y1yc48&st=ot49s9fl" catchup-days="3" catchup="append" catchup-source="?offset=-${offset}&utcstart=${timestamp}", Москва 24
 http://rt-mos-htlive.cdn.ngenix.net/hls/CH_R04_MOSKOV24/variant.m3u8
 #EXTINF:-1  group-title="Pro 🇷🇺" tvg-name="Санкт-Петербург" tvg-id="sankt-peterburg" catchup-days="3" catchup="append" catchup-source="?offset=-${offset}&utcstart=${timestamp}", Санкт-Петербург HD
 http://rt-nw-spb-htlive.cdn.ngenix.net/hls/CH_R02_SPBREGIONALHD/variant.m3u8
