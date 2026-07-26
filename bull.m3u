@@ -203,17 +203,17 @@ http://rt-nw-spb-htlive.cdn.ngenix.net/hls/CH_R02_SPBREGIONALHD/variant.m3u8
 http://rt-nw-spb-htlive.cdn.ngenix.net/hls/CH_R02_KANAL78/variant.m3u8
 #EXTINF:-1  group-title="Pro 🇷🇺" url-tvg="iptvx.one" tvg-id="pervy-pl4" tvg-logo="https://dl.dropbox.com/s/ly3hv2v2lp3zsyo/perviy_4.png" catchup-days="3" catchup="append" catchup-source="?offset=-${offset}&utcstart=${timestamp}", Первый канал (+4)
 http://zabava-htlive.cdn.ngenix.net/hls/CH_1TVSD_4/variant.m3u8
-#EXTINF:-1  group-title="Трансляции 🏆" tvg-name="NO EPG Sport (заглушка)" url-tvg="iptvx.one" tvg-id="no_epg_sport" tvg-logo="https://dl.dropbox.com/s/rom4k32apjreo71/pimpletv.jpg", PimpleTv 016
+#EXTINF:-1  group-title="Трансляции 🏆" tvg-name="NO EPG Sport (заглушка)" url-tvg="iptvx.one" tvg-id="no_epg_sport" tvg-logo="https://dl.dropbox.com/scl/fi/vxtmm8o3xsbpoayo27381/PimpleTV.png?rlkey=msucr0zbr1zyrfvylqsyr7lze&st=kreckce1", PimpleTv 016
 http://127.0.0.1:6878/hls/manifest.m3u8?id=016d48fb89bb9505ab3f883db1bfb3a7c0a3eccc&.m3u8
-#EXTINF:-1  group-title="Трансляции 🏆" tvg-name="NO EPG Sport (заглушка)" url-tvg="iptvx.one" tvg-id="no_epg_sport" tvg-logo="https://dl.dropbox.com/s/rom4k32apjreo71/pimpletv.jpg", PimpleTv e38
+#EXTINF:-1  group-title="Трансляции 🏆" tvg-name="NO EPG Sport (заглушка)" url-tvg="iptvx.one" tvg-id="no_epg_sport" tvg-logo="https://dl.dropbox.com/scl/fi/vxtmm8o3xsbpoayo27381/PimpleTV.png?rlkey=msucr0zbr1zyrfvylqsyr7lze&st=kreckce1", PimpleTv e38
 http://127.0.0.1:6878/hls/manifest.m3u8?id=e38b33c56332de27ff25df223cdf488b1ec6051f&.m3u8
-#EXTINF:-1  group-title="Трансляции 🏆" tvg-name="NO EPG Sport (заглушка)" url-tvg="iptvx.one" tvg-id="no_epg_sport" tvg-logo="https://dl.dropbox.com/s/rom4k32apjreo71/pimpletv.jpg", PimpleTv 844
+#EXTINF:-1  group-title="Трансляции 🏆" tvg-name="NO EPG Sport (заглушка)" url-tvg="iptvx.one" tvg-id="no_epg_sport" tvg-logo="https://dl.dropbox.com/scl/fi/vxtmm8o3xsbpoayo27381/PimpleTV.png?rlkey=msucr0zbr1zyrfvylqsyr7lze&st=kreckce1", PimpleTv 844
 http://127.0.0.1:6878/hls/manifest.m3u8?id=8442b5c7c99e5af57c2c40c1e28153072968988a&.m3u8
-#EXTINF:-1  group-title="Трансляции 🏆" tvg-name="NO EPG Sport (заглушка)" url-tvg="iptvx.one" tvg-id="no_epg_sport" tvg-logo="https://dl.dropbox.com/s/rom4k32apjreo71/pimpletv.jpg", PimpleTv aca
+#EXTINF:-1  group-title="Трансляции 🏆" tvg-name="NO EPG Sport (заглушка)" url-tvg="iptvx.one" tvg-id="no_epg_sport" tvg-logo="https://dl.dropbox.com/scl/fi/vxtmm8o3xsbpoayo27381/PimpleTV.png?rlkey=msucr0zbr1zyrfvylqsyr7lze&st=kreckce1", PimpleTv aca
 http://127.0.0.1:6878/hls/manifest.m3u8?id=aca05dc506242324c1727525d0535ceda24f8dea&.m3u8
-#EXTINF:-1  group-title="Трансляции 🏆" tvg-name="NO EPG Sport (заглушка)" url-tvg="iptvx.one" tvg-id="no_epg_sport" tvg-logo="https://dl.dropbox.com/s/rom4k32apjreo71/pimpletv.jpg", PimpleTv 350
+#EXTINF:-1  group-title="Трансляции 🏆" tvg-name="NO EPG Sport (заглушка)" url-tvg="iptvx.one" tvg-id="no_epg_sport" tvg-logo="https://dl.dropbox.com/scl/fi/vxtmm8o3xsbpoayo27381/PimpleTV.png?rlkey=msucr0zbr1zyrfvylqsyr7lze&st=kreckce1", PimpleTv 350
 http://127.0.0.1:6878/hls/manifest.m3u8?id=350b2044f1c9e87e18d8fbda1bcc456c22cf9296&.m3u8
-#EXTINF:-1  group-title="Трансляции 🏆" tvg-name="NO EPG Sport (заглушка)" url-tvg="iptvx.one" tvg-id="no_epg_sport" tvg-logo="https://dl.dropbox.com/s/rom4k32apjreo71/pimpletv.jpg", PimpleTv bc9
+#EXTINF:-1  group-title="Трансляции 🏆" tvg-name="NO EPG Sport (заглушка)" url-tvg="iptvx.one" tvg-id="no_epg_sport" tvg-logo="https://dl.dropbox.com/scl/fi/vxtmm8o3xsbpoayo27381/PimpleTV.png?rlkey=msucr0zbr1zyrfvylqsyr7lze&st=kreckce1", PimpleTv bc9
 http://127.0.0.1:6878/hls/manifest.m3u8?id=bc99becb2a74f8f455d6dbaa3bd85c6c7e938a6c&.m3u8
 #EXTINF:-1  group-title="Трансляции 🏆" tvg-name="NO EPG Sport (заглушка)" url-tvg="iptvx.one" tvg-id="no_epg_sport" tvg-logo="https://dl.dropbox.com/s/ky1zjxy22qte6f1/Acetop.jpg", Acetop1
 http://127.0.0.1:6878/hls/manifest.m3u8?id=65d49691687add6a93692a757817bac4f204ed1f&.m3u8
