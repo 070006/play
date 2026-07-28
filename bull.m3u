@@ -1,5 +1,5 @@
 #EXTM3U deinterlace=1 m3uautoload=1 url-tvg="https://iptvx.one/EPG"
-#EXTINF:-1  group-title="Информация 📌" tvg-logo="https://dl.dropbox.com/scl/fi/ov1ojkcly2djf8nzi225x/bull1.png?rlkey=do43cim9aaa23lenkd86pgz9s&st=p8tiyvxj", Обновлено: ⚽ 26.07.2026 🏀
+#EXTINF:-1  group-title="Информация 📌" tvg-logo="https://dl.dropbox.com/scl/fi/ov1ojkcly2djf8nzi225x/bull1.png?rlkey=do43cim9aaa23lenkd86pgz9s&st=p8tiyvxj", Обновлено: ⚽ 28.07.2026 🏀
 http://serv30.vintera.tv:8081/sochi/sochi_stream/chunks.m3u8
 #EXTINF:-1  group-title="Pro 🇷🇺" tvg-name="Первый HD" url-tvg="iptvx.one" tvg-id="pervy" tvg-logo="https://dl.dropbox.com/s/2qri8tu8q1wiu0h/Pervyihd.png", Первый HD
 https://edge3.1internet.tv/dash-live2/streams/1tv/1tvdash.mpd
@@ -662,10 +662,10 @@ http://127.0.0.1:6878/ace/getstream?infohash=47e35c1dc2f572229e37a4ec819df6c6ec4
 http://127.0.0.1:6878/ace/getstream?infohash=57e60120aa9d80cab1a34f19299a9cd17fdfadc2&.m3u8
 #EXTINF:-1  group-title="↕️ Спортивные ⚽", RTVS Sport
 http://127.0.0.1:6878/ace/getstream?infohash=dbcf79087afa50debf234985346b01e6027aba87&.m3u8
-#EXTINF:-1  group-title="↕️ Спортивные ⚽", Oneplay Sport 1 HD
-http://127.0.0.1:6878/ace/getstream?infohash=3bfd53fa98797e32a00a7edb1e60b905c18d3a86&.m3u8
-#EXTINF:-1  group-title="↕️ Спортивные ⚽", Oneplay Sport 2 HD
-http://127.0.0.1:6878/ace/getstream?infohash=637b70b40b1edcbae767482788f6dbcb0a21b63d&.m3u8
+
+
+
+
 #EXTINF:-1  group-title="↕️ Спортивные ⚽", Nova Sport 1 HD
 http://127.0.0.1:6878/ace/getstream?infohash=ac3750502c29a81159ac76871355349d917802cc&.m3u8
 #EXTINF:-1  group-title="↕️ Спортивные ⚽", Nova Sport 2 HD
@@ -834,10 +834,10 @@ http://127.0.0.1:6878/hls/manifest.m3u8?infohash=cc3d749cfd30877b418f1d59a80d929
 http://127.0.0.1:6878/hls/manifest.m3u8?infohash=8cc8e3c092fa238bc0cbc65382ae436131fc3eab&.m3u8
 #EXTINF:-1  group-title="↕️ Спортивные ⚽" tvg-name="M Liga de Campeones 4", M Liga de Campeones 4 🇪🇸
 http://127.0.0.1:6878/hls/manifest.m3u8?infohash=2550ea6d32d3384dcc8ac149c711bceb70d4b005&.m3u8
-#EXTINF:-1  group-title="↕️ Спортивные ⚽" tvg-name="M LaLiga", M LaLiga 🇪🇸
-http://127.0.0.1:6878/hls/manifest.m3u8?infohash=c1959a27edb0b94c5005a2dea93b7a70d4312f1c&.m3u8
 #EXTINF:-1  group-title="↕️ Спортивные ⚽" tvg-name="M+ LaLiga", M+ LaLiga FHD 🇪🇸
 http://127.0.0.1:6878/hls/manifest.m3u8?infohash=0bd70b57127c5e466f8f997617ba0389b7446e4a&.m3u8
+#EXTINF:-1  group-title="↕️ Спортивные ⚽" tvg-name="M LaLiga", M LaLiga 🇪🇸
+http://127.0.0.1:6878/hls/manifest.m3u8?infohash=c1959a27edb0b94c5005a2dea93b7a70d4312f1c&.m3u8
 #EXTINF:-1  group-title="↕️ Спортивные ⚽" tvg-name="M LaLiga 2", M LaLiga 2 🇪🇸
 http://127.0.0.1:6878/hls/manifest.m3u8?infohash=ece9d873508195d3cbb61d4edd428b59f47a1541&.m3u8
 #EXTINF:-1  group-title="↕️ Спортивные ⚽" tvg-name="M LaLiga 3", M LaLiga 3 🇪🇸
@@ -1002,8 +1002,8 @@ http://127.0.0.1:6878/hls/manifest.m3u8?id=7f51ca063fa5a5566de8468f8d34c04f5c123
 http://127.0.0.1:6878/hls/manifest.m3u8?id=8f3ca230cca3048bc21a9c7de44a378de3ca4b3a&.m3u8
 #EXTINF:-1  group-title="↕️ Познавательные 🔍" tvg-name="Неизвестная Россия" tvg-id="neizvestnaya-rosia" tvg-logo="https://dl.dropbox.com/scl/fi/cxak38v77ecc20k1fnfqr/Neizvestn-Russia.png?rlkey=61odx22as1cj65speaq46qx9m&st=2l6islxe", Неизвестная Россия
 http://127.0.0.1:6878/hls/manifest.m3u8?infohash=6c7984193ea8238a730c0000ea47e93cd3aff609&.m3u8
-#EXTINF:-1  group-title="↕️ Познавательные 🔍", Лекторий Dостоевский
-http://127.0.0.1:6878/hls/manifest.m3u8?infohash=75e4236c61c6398ceda6b97e6dcff04f8f035ce2&.m3u8
+
+
 
 
 #EXTINF:-1  group-title="↕️ Познавательные 🔍" tvg-name="Точка.РФ" tvg-id="hd-life" tvg-logo="http://i124.fastpic.org/big/2025/0313/9a/180bb242388d3cf212bc947e0f32909a.png", ТОЧКА.РФ
@@ -1291,7 +1291,7 @@ http://127.0.0.1:6878/hls/manifest.m3u8?infohash=d092686779efec6d9ccea4409d567b9
 #EXTINF:-1  group-title="↕️ Кино 🎦" tvg-name="ULTRA CINEMA 4K" url-tvg="iptvx.one" tvg-id="ultra-hd-cinema" tvg-logo="https://filmax-tv.ru/storage/images/channels/e5c96da473a22b117e03c7bdbbbc325.png?d=1726577118", Cinema UHD
 http://127.0.0.1:6878/hls/manifest.m3u8?infohash=4447d0a31556f25b0ebce1bac9c8f60c669bc68d&.m3u8
 #EXTINF:-1  group-title="↕️ Познавательные 🔍" tvg-name="Love Nature 4K" tvg-id="love-nature-4k", Love Nature 4K
-http://127.0.0.1:6878/hls/manifest.m3u8?id=cd8c7fcc7fb8c597d64b41429e0596887e097e54&.m3u8
+http://127.0.0.1:6878/ace/getstream?infohash=cd8c7fcc7fb8c597d64b41429e0596887e097e54&.m3u8
 #EXTINF:-1  group-title="↕️ Познавательные 🔍" tvg-name="Insight UHD 4K", Insight UHD 4K
 http://127.0.0.1:6878/hls/manifest.m3u8?infohash=6eccf3104e984a7f2705ac6215c74e76fd7782ad&.m3u8
 #EXTINF:-1  group-title="↕️ Познавательные 🔍", Большая Азия HD
@@ -1412,8 +1412,8 @@ http://127.0.0.1:6878/hls/manifest.m3u8?infohash=c95ab47e2275753ce6ab648c6ac5b12
 
 
 
-#EXTINF:-1  group-title="↕️ Разное", Ералаш
-http://127.0.0.1:6878/hls/manifest.m3u8?infohash=8cec6ab291a7d545817d14e724d9c9bcba473f1e&.m3u8
+
+
 #EXTINF:-1  group-title="↕️ Разное" tvg-id="euronews", EuroNews
 http://127.0.0.1:6878/hls/manifest.m3u8?infohash=f8757bfa9b59fb272c9fd40bdc0fcb4e296d69bf&.m3u8
 #EXTINF:-1  group-title="↕️ Разное" tvg-id="tv-brics", TV BRICS HD
