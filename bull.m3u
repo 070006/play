@@ -1,5 +1,5 @@
 #EXTM3U deinterlace=1 m3uautoload=1 url-tvg="https://iptvx.one/EPG"
-#EXTINF:-1  group-title="Информация 📌" tvg-logo="https://dl.dropbox.com/scl/fi/ov1ojkcly2djf8nzi225x/bull1.png?rlkey=do43cim9aaa23lenkd86pgz9s&st=p8tiyvxj", Обновлено: ⚽ 28.07.2026 🏀
+#EXTINF:-1  group-title="Информация 📌" tvg-logo="https://dl.dropbox.com/scl/fi/ov1ojkcly2djf8nzi225x/bull1.png?rlkey=do43cim9aaa23lenkd86pgz9s&st=p8tiyvxj", Обновлено: ⚽ 29.07.2026 🏀
 http://serv30.vintera.tv:8081/sochi/sochi_stream/chunks.m3u8
 #EXTINF:-1  group-title="Pro 🇷🇺" tvg-name="Первый HD" url-tvg="iptvx.one" tvg-id="pervy" tvg-logo="https://dl.dropbox.com/s/2qri8tu8q1wiu0h/Pervyihd.png", Первый HD
 https://edge3.1internet.tv/dash-live2/streams/1tv/1tvdash.mpd
@@ -11,7 +11,7 @@ http://vgtrkregion-reg.cdnvideo.ru/vgtrk/tula/russia1-hd/index.m3u8
 https://rt-ct-tula-htlive.cdn.ngenix.net/hls/CH_R04_OTT_CT_TULA_ROSSIA1/variant.m3u8
 #EXTINF:-1  group-title="Pro 🇷🇺" tvg-name="НТВ HD" url-tvg="iptvx.one" tvg-id="ntv" tvg-logo="http://i122.fastpic.org/big/2023/0704/83/14cab18a1482547103de177bd2471583.png", НТВ HD
 https://cdn.ntv.ru/ntv-msk_hd/tracks-v1a1/playlist.m3u8
-#EXTINF:-1  group-title="Pro 🇷🇺" tvg-name="НТВ HD" url-tvg="iptvx.one" tvg-id="ntv" tvg-logo="https://krasnovosti.ru/online_tv/img/logo_channels/ntv.jpg" catchup-days="3" catchup="append" catchup-source="?offset=-${offset}&utcstart=${timestamp}", НТВ (Тула)
+#EXTINF:-1  group-title="Pro 🇷🇺" tvg-name="НТВ HD" url-tvg="iptvx.one" tvg-id="ntv" tvg-logo="https://dl.dropbox.com/scl/fi/yc6fdj29r91wz0p9kc87g/ntv.png?rlkey=m7etmtv0nyaf34aoc0mbyhhl1&st=1un1oqzs" catchup-days="3" catchup="append" catchup-source="?offset=-${offset}&utcstart=${timestamp}", НТВ (Тула)
 https://rt-ct-tula-htlive.cdn.ngenix.net/hls/CH_R03_OTT_CT_TULA_NTV/variant.m3u8
 #EXTINF:-1  group-title="Pro 🇷🇺" tvg-name="ТВЦ" url-tvg="iptvx.one" tvg-id="tvcentr" tvg-logo="https://dl.dropbox.com/s/ynrajzxolyvpsnd/tvtsentr.png" catchup-days="3" catchup="append" catchup-source="?offset=-${offset}&utcstart=${timestamp}", ТВЦ (Тула)
 http://rt-ct-tula-htlive.cdn.ngenix.net/hls/CH_R04_TVC/variant.m3u8
