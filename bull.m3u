@@ -77,7 +77,7 @@ https://stream.smotrim.ru/hls/solovievlive/playlist_6.m3u8
 https://rt-ct-tula-htlive.cdn.ngenix.net/hls/CH_R01_OTT_CT_TULA_TULA24/variant.m3u8
 #EXTINF:-1  group-title="Pro 🇷🇺" tvg-name="1HD" tvg-id="1hd" tvg-logo="https://filmax-tv.ru/storage/images/channels/908fe186718583fd7fcbed97ef9e179c.png?d=1764852318", 1HD
 http://127.0.0.1:6878/hls/manifest.m3u8?infohash=5b12f2cf29ad1c793998cf82fbd07ca50c9f1b59&.m3u8
-#EXTINF:-1  group-title="Pro 🇷🇺" tvg-name="Матч!" url-tvg="iptvx.one" tvg-id="match-tv" tvg-logo="https://dl.dropbox.com/scl/fi/oj7ta6twm91mszbo0ttgn/86.png?rlkey=l4ovc4bone1257sgo2cnqbdc7&st=ieueb0h1", Матч! HD
+#EXTINF:-1  group-title="Pro 🇷🇺" tvg-name="Матч!" url-tvg="iptvx.one" tvg-id="match-tv" tvg-logo="https://filmax-tv.ru/storage/images/channels/e13e088ee752718e45b5370fe9a28c50.png?d=1748892616", Матч! HD
 http://127.0.0.1:6878/hls/manifest.m3u8?infohash=f69b2859510dce33b992dd1940f95254c6e6f51c&.m3u8
 #EXTINF:-1  group-title="Pro 🇷🇺" tvg-name="Матч! Игра HD" url-tvg="iptvx.one" tvg-id="match-igra" tvg-logo="https://dl.dropbox.com/s/ptuwzkgaaq1be22/match%21igra__.png", Матч! Игра HD
 http://127.0.0.1:6878/hls/manifest.m3u8?infohash=20be180e057ac43660627ca9fe66eaa6bd6c1aee&.m3u8
@@ -2132,8 +2132,8 @@ https://dwamdstream110.akamaized.net/hls/live/2017971/dwstream110/index.m3u8
 https://brics.bonus-tv.ru/cdn/brics/russian/tracks-v1a1/mono.m3u8
 #EXTINF:-1  group-title="С сайтов", Китай ТВ
 https://cdn.nexttvnet.ru/hlsl/provide/61394/ChinaTV2/china-tv_1920x1080/index.m3u8
-
-
+#EXTINF:-1  group-title="С сайтов", Плюс Минус 16
+http://media.16pm.ru/live/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1  group-title="С сайтов" tvg-id="krik-tv", Крик-ТВ
 http://hls-rictv.cdnvideo.ru/rictv/rictv-srt-stream/playlist.m3u8
 #EXTINF:-1  group-title="С сайтов", НТВ Хит
@@ -2176,8 +2176,8 @@ http://hls.tva.cdnvideo.ru/tva/tvahd.sdp/playlist.m3u8
 https://stream.smotrim.ru/hls/moscow_24/playlist_3.m3u8
 #EXTINF:-1  group-title="С сайтов", Лен ТВ 24
 https://stream.smotrim.ru/hls/lentv24/playlist_5.m3u8
-
-
+#EXTINF:-1  group-title="С сайтов", Крым 24
+http://iptv.crimea.net:8787
 
 
 #EXTINF:-1  group-title="С сайтов", ТСВ
