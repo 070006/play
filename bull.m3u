@@ -1,5 +1,5 @@
 #EXTM3U deinterlace=1 m3uautoload=1 url-tvg="https://iptvx.one/EPG"
-#EXTINF:-1  group-title="Информация 📌" tvg-logo="https://dl.dropbox.com/scl/fi/ov1ojkcly2djf8nzi225x/bull1.png?rlkey=do43cim9aaa23lenkd86pgz9s&st=p8tiyvxj", Обновлено: ⚽ 01.08.2026 🏀
+#EXTINF:-1  group-title="Информация 📌" tvg-logo="https://dl.dropbox.com/scl/fi/ov1ojkcly2djf8nzi225x/bull1.png?rlkey=do43cim9aaa23lenkd86pgz9s&st=p8tiyvxj", Обновлено: ⚽ 02.08.2026 🏀
 http://serv30.vintera.tv:8081/sochi/sochi_stream/chunks.m3u8
 #EXTINF:-1  group-title="Pro 🇷🇺" tvg-name="Первый HD" url-tvg="iptvx.one" tvg-id="pervy" tvg-logo="https://dl.dropbox.com/s/2qri8tu8q1wiu0h/Pervyihd.png", Первый HD
 https://edge3.1internet.tv/dash-live2/streams/1tv/1tvdash.mpd
@@ -123,8 +123,8 @@ http://127.0.0.1:6878/hls/manifest.m3u8?infohash=f6b7553df66ac4bffd4b3ead443b647
 http://127.0.0.1:6878/hls/manifest.m3u8?infohash=9d4b38b7218803e1d877b01b3a6c6db1a494bb6a&.m3u8
 #EXTINF:-1  group-title="Pro 🇷🇺" tvg-id="sportivny" tvg-logo="https://dl.dropbox.com/scl/fi/gil1x0cztrubk5bx0lc8c/.png?rlkey=hggiauvclx8q57juemj7qsdgo&st=j1n6gtlz", ТВ Спорт
 http://127.0.0.1:6878/hls/manifest.m3u8?infohash=30cf0f8140006a03d60a4639c623f024b4e167ed&.m3u8
-#EXTINF:-1  group-title="Pro 🇷🇺" tvg-id="footbolny" tvg-logo="https://dl.dropbox.com/scl/fi/8q63b0690danj9rcjdni9/.png?rlkey=zfaxcn10jx4pemuopjjpxlv6v&st=kcg853xm", Мяч
-http://127.0.0.1:6878/hls/manifest.m3u8?infohash=65ae3e0427ef14d9ef88f0183c011e6ff42ca062&.m3u8
+
+
 
 
 #EXTINF:-1  group-title="Pro 🇷🇺" tvg-name="Setanta Sports 1 HD" tvg-id="setanta-sports" tvg-logo="https://dl.dropbox.com/scl/fi/6shvhcfjixmvwqvwbjd9l/Setanta1_.png?rlkey=41chnhodvmpn0mp10qr1gf5ne&st=d9xtult7", Setanta Sports 1 HD
@@ -630,6 +630,8 @@ http://127.0.0.1:6878/hls/manifest.m3u8?id=ed63659df12baa6febbe70f4125b6527aa1ae
 http://127.0.0.1:6878/ace/getstream?infohash=e4b5f07bbfce16ad3f57a4cdf3210a9fa8785ff4&.m3u8
 #EXTINF:-1  group-title="↕️ Спортивные ⚽" tvg-name="Tennis Channel HD", Tennis Channel HD
 http://127.0.0.1:6878/ace/getstream?infohash=1b348443efc7f0cf4cdf349ac35bbe5d41be6220&.m3u8
+#EXTINF:-1  group-title="↕️ Спортивные ⚽" tvg-name="Tennis Channel HD" tvg-logo="https://filmax-tv.ru/storage/images/channels/1b36c0b0abed855ea6bdc96d3d80beaf.png?d=1711977980", Tennis Channel HD
+http://127.0.0.1:6878/hls/manifest.m3u8?id=ba2e4ad8dedc40bf1d866ea434a45b47979a842d&.m3u8
 
 
 #EXTINF:-1  group-title="↕️ Спортивные ⚽" tvg-name="ORF SPORT+ HD [DE]" tvg-logo="https://filmax-tv.ru/storage/images/channels/4517d7f61d91661e93538398ae3f6671.png?d=1747992616", ORF SPORT+ HD 🇩🇪
@@ -666,14 +668,14 @@ http://127.0.0.1:6878/ace/getstream?infohash=dbcf79087afa50debf234985346b01e6027
 
 
 
-#EXTINF:-1  group-title="↕️ Спортивные ⚽", Nova Sport 1 HD
-http://127.0.0.1:6878/ace/getstream?infohash=ac3750502c29a81159ac76871355349d917802cc&.m3u8
-#EXTINF:-1  group-title="↕️ Спортивные ⚽", Nova Sport 2 HD
-http://127.0.0.1:6878/ace/getstream?infohash=f04808dd7cc7d134b5a1216bcb4c756ef30a5f00&.m3u8
-#EXTINF:-1  group-title="↕️ Спортивные ⚽", Nova Sport 3 HD
-http://127.0.0.1:6878/ace/getstream?infohash=9b3cfe4678c096b2fedbe5f67fd7953d2ad1041d&.m3u8
-#EXTINF:-1  group-title="↕️ Спортивные ⚽", Nova Sport 4 HD
-http://127.0.0.1:6878/ace/getstream?infohash=76b278a7198fe2caaa529bb7b81d6bf2b6341ca3&.m3u8
+
+
+
+
+
+
+
+
 #EXTINF:-1  group-title="↕️ Спортивные ⚽", Nova Sport 5 HD
 http://127.0.0.1:6878/ace/getstream?infohash=fb7ac31e1fab88d81deeb94dd089366038adc51c&.m3u8
 #EXTINF:-1  group-title="↕️ Спортивные ⚽", Nova Sport 6 HD
@@ -682,12 +684,12 @@ http://127.0.0.1:6878/ace/getstream?infohash=ce1ae7b1f1210bcbf7ba8a8296b93cf1998
 http://127.0.0.1:6878/ace/getstream?infohash=6a057f701568fc4aae9a140008ab5186ebdb1456&.m3u8
 #EXTINF:-1  group-title="↕️ Спортивные ⚽", JOJ Sport 2 HD
 http://127.0.0.1:6878/ace/getstream?infohash=0b807438704bc8d5cd2615c5657c5e019de57f3b&.m3u8
-#EXTINF:-1  group-title="↕️ Спортивные ⚽", Premier Sport 1
-http://127.0.0.1:6878/hls/manifest.m3u8?infohash=d99f552305e32f8202b572822989e1556655359a&.m3u8
-#EXTINF:-1  group-title="↕️ Спортивные ⚽", Premier Sport 2
-http://127.0.0.1:6878/hls/manifest.m3u8?infohash=b3c6791ad44f3cd5347189dc7c67dccdb6804827&.m3u8
-#EXTINF:-1  group-title="↕️ Спортивные ⚽", Premier Sport 3
-http://127.0.0.1:6878/hls/manifest.m3u8?infohash=133abc46ae02f04ffbcb37d370cf3905a97c3965&.m3u8
+
+
+
+
+
+
 #EXTINF:-1  group-title="↕️ Спортивные ⚽" tvg-name="ESPN USA" tvg-id="ESPN", ESPN 🇺🇸
 http://127.0.0.1:6878/hls/manifest.m3u8?infohash=0dca83a7cc9184893ff96ee2355874342fc8fd45&.m3u8
 #EXTINF:-1  group-title="↕️ Спортивные ⚽" tvg-name="ESPN 2 USA" tvg-id="ESPN2 US", ESPN 2 🇺🇸
@@ -700,16 +702,16 @@ http://127.0.0.1:6878/hls/manifest.m3u8?infohash=1114c803ee0f7dd7b5af5be42e49b5c
 http://127.0.0.1:6878/hls/manifest.m3u8?id=a97cafedefe189d63e52eadc5c9bbc351b01540a&.m3u8
 #EXTINF:-1  group-title="↕️ Спортивные ⚽" tvg-name="ESPN 4 Holland HD" tvg-id="ESPN4 NL", ESPN 4 🇳🇱
 http://127.0.0.1:6878/hls/manifest.m3u8?infohash=d18e752ade97d8be74a99887fec550472335b99f&.m3u8
+#EXTINF:-1  group-title="↕️ Спортивные ⚽" tvg-name="Premier Sports 1 [UK]" tvg-id="Premier Sports 1 [UK]" tvg-logo="https://lk.filmax-tv.ru/images/logo/827.png", Premier Sports 1 🇬🇧
+http://127.0.0.1:6878/hls/manifest.m3u8?infohash=13ddaf59c0f2d760fd3775acc254e13825206eac&.m3u8
+#EXTINF:-1  group-title="↕️ Спортивные ⚽" tvg-name="Premier Sports 2 [UK]" tvg-id="Premier Sports 2 [UK]" tvg-logo="https://lk.filmax-tv.ru/images/logo/828.png", Premier Sports 2 🇬🇧
+http://127.0.0.1:6878/hls/manifest.m3u8?infohash=086e4c7ccc0b80e2960a553d04dac1024c7787b9&.m3u8
 #EXTINF:-1  group-title="↕️ Спортивные ⚽" tvg-name="Sky Sports Football" url-tvg="iptvx.one" tvg-id="sky-sports-football" tvg-logo="https://dl.dropbox.com/scl/fi/gokko1f8vv5e0bhsaklmy/sky-sports-football.png?rlkey=kiwl1jyt4rl27k5byv9j0e451&st=kxqilq9p", Sky Sports Football 🇬🇧
 http://127.0.0.1:6878/hls/manifest.m3u8?infohash=54de746f7823812312b4000422618465f7d58f87&.m3u8
 #EXTINF:-1  group-title="↕️ Спортивные ⚽" tvg-name="Sky Sports Main Event [UK]" tvg-id="sky-sports-maine", Sky Sports Main Event 🇬🇧
 http://127.0.0.1:6878/hls/manifest.m3u8?infohash=78266c15035d0ad8cbc58f821733931e1de434ab&.m3u8
 #EXTINF:-1  group-title="↕️ Спортивные ⚽" tvg-name="Sky Sports Premier League [UK]", Sky Sports Premier League 🇬🇧
 http://127.0.0.1:6878/hls/manifest.m3u8?infohash=e33fb63ba12cf45bcee7757c8520f561ad27a39f&.m3u8
-#EXTINF:-1  group-title="↕️ Спортивные ⚽" tvg-name="Premier Sports 1 [UK]" tvg-id="Premier Sports 1 [UK]" tvg-logo="https://lk.filmax-tv.ru/images/logo/827.png", Premier Sports 1 🇬🇧
-http://127.0.0.1:6878/hls/manifest.m3u8?infohash=13ddaf59c0f2d760fd3775acc254e13825206eac&.m3u8
-#EXTINF:-1  group-title="↕️ Спортивные ⚽" tvg-name="Premier Sports 2 [UK]" tvg-id="Premier Sports 2 [UK]" tvg-logo="https://lk.filmax-tv.ru/images/logo/828.png", Premier Sports 2 🇬🇧
-http://127.0.0.1:6878/hls/manifest.m3u8?infohash=086e4c7ccc0b80e2960a553d04dac1024c7787b9&.m3u8
 #EXTINF:-1  group-title="↕️ Спортивные ⚽" tvg-name="Sky Sports Arena [UK]" tvg-id="Sky Sports Arena [UK]", Sky Sports Arena 🇬🇧
 http://127.0.0.1:6878/hls/manifest.m3u8?infohash=37796ca47026bc190c7dc26827c0dfb6b61d137b&.m3u8
 #EXTINF:-1  group-title="↕️ Спортивные ⚽" tvg-name="Sky Sports Cricket [UK]" tvg-id="sky-sports-cricket", Sky Sports Cricket 🇬🇧
@@ -718,8 +720,6 @@ http://127.0.0.1:6878/hls/manifest.m3u8?infohash=610eefafd6602c094e8e89c249a11d6
 http://127.0.0.1:6878/hls/manifest.m3u8?infohash=df23d9ca9275b354e23156d59b8bc1122441fa47&.m3u8
 #EXTINF:-1  group-title="↕️ Спортивные ⚽" tvg-name="FOX SPORTS 2 US" tvg-id="FS2 (Fox Sports 2 US)", Fox Sports 2 HD 🇺🇸
 http://127.0.0.1:6878/hls/manifest.m3u8?infohash=e765303108614af0f9a42da7b45a147195982796&.m3u8
-#EXTINF:-1  group-title="↕️ Спортивные ⚽" tvg-name="Tennis Channel HD" tvg-logo="https://filmax-tv.ru/storage/images/channels/1b36c0b0abed855ea6bdc96d3d80beaf.png?d=1711977980", Tennis Channel HD
-http://127.0.0.1:6878/hls/manifest.m3u8?id=ba2e4ad8dedc40bf1d866ea434a45b47979a842d&.m3u8
 #EXTINF:-1  group-title="↕️ Спортивные ⚽" tvg-name="Eleven Sports 1 4k [PL]" tvg-id="eleven-sports-1" tvg-logo="https://dl.dropbox.com/s/nazwnw8cjd3za9w/elevensports1_4k.png", Eleven Sports 1 4k 🇵🇱
 http://127.0.0.1:6878/hls/manifest.m3u8?infohash=f25b57322b5337df43bfde801e03f70363737581&.m3u8
 #EXTINF:-1  group-title="↕️ Спортивные ⚽" tvg-name="Eleven Sports 1 HD [PL]" tvg-id="eleven-sports-1", Eleven Sports 1 HD 🇵🇱
@@ -734,19 +734,19 @@ http://127.0.0.1:6878/hls/manifest.m3u8?infohash=a2a02182ab8fec713cbaf5a45d92c5c
 http://127.0.0.1:6878/hls/manifest.m3u8?infohash=d0a5eb107ed5d70f542e7483e2d0f9068b15f6c4&.m3u8
 #EXTINF:-1  group-title="↕️ Спортивные ⚽" tvg-name="DAZN Bar 2" tvg-id="daznbar2", DAZN 2 Bar HD 🇩🇪
 http://127.0.0.1:6878/hls/manifest.m3u8?infohash=7d64b566d7f3a8e892a1a8cafc9521b9cddd5df6&.m3u8
-#EXTINF:-1  group-title="↕️ Спортивные ⚽" tvg-name="DAZN 1 PT", DAZN 1 🇧🇪
-http://127.0.0.1:6878/ace/getstream?infohash=969e14989a98c62518a7640741dbf15d90212d1a&.m3u8
-#EXTINF:-1  group-title="↕️ Спортивные ⚽" tvg-name="DAZN 2 PT", DAZN 2 🇧🇪
+#EXTINF:-1  group-title="↕️ Спортивные ⚽" tvg-name="DAZN 1 PT", DAZN 1 🇵🇹
+http://127.0.0.1:6878/hls/manifest.m3u8?infohash=969e14989a98c62518a7640741dbf15d90212d1a&.m3u8
+#EXTINF:-1  group-title="↕️ Спортивные ⚽" tvg-name="DAZN 2 PT", DAZN 2 🇵🇹
 http://127.0.0.1:6878/ace/getstream?infohash=27573fb01690fd55b25c07ae2180ee44b1ad8a7c&.m3u8
-#EXTINF:-1  group-title="↕️ Спортивные ⚽" tvg-name="DAZN 3 PT", DAZN 3 🇧🇪
+#EXTINF:-1  group-title="↕️ Спортивные ⚽" tvg-name="DAZN 3 PT", DAZN 3 🇵🇹
 http://127.0.0.1:6878/ace/getstream?infohash=33246d7ad41db9ad7654f0d553b5e7500363d1b8&.m3u8
-#EXTINF:-1  group-title="↕️ Спортивные ⚽" tvg-name="DAZN 4 PT", DAZN 4 🇧🇪
-http://127.0.0.1:6878/ace/getstream?infohash=3c0cfbeb4075be58baa32e41dabee3c75b8a80e6&.m3u8
-#EXTINF:-1  group-title="↕️ Спортивные ⚽" tvg-name="DAZN 5 PT", DAZN 5 🇧🇪
-http://127.0.0.1:6878/ace/getstream?infohash=2c9a996c060d157ff63109c5b999d55bbc2ffd95&.m3u8
-#EXTINF:-1  group-title="↕️ Спортивные ⚽" tvg-name="DAZN 6 PT", DAZN 6 🇧🇪
-http://127.0.0.1:6878/ace/getstream?infohash=471f21a1eb3453e9b70e90228f016ad1142d581d&.m3u8
-#EXTINF:-1  group-title="↕️ Спортивные ⚽" tvg-name="Ziggo Sport 1 HD", Ziggo Sport 🇧🇪
+#EXTINF:-1  group-title="↕️ Спортивные ⚽" tvg-name="DAZN 4 PT", DAZN 4 🇵🇹
+http://127.0.0.1:6878/hls/manifest.m3u8?infohash=3c0cfbeb4075be58baa32e41dabee3c75b8a80e6&.m3u8
+#EXTINF:-1  group-title="↕️ Спортивные ⚽" tvg-name="DAZN 5 PT", DAZN 5 🇵🇹
+http://127.0.0.1:6878/hls/manifest.m3u8?infohash=2c9a996c060d157ff63109c5b999d55bbc2ffd95&.m3u8
+#EXTINF:-1  group-title="↕️ Спортивные ⚽" tvg-name="DAZN 6 PT", DAZN 6 🇵🇹
+http://127.0.0.1:6878/hls/manifest.m3u8?infohash=471f21a1eb3453e9b70e90228f016ad1142d581d&.m3u8
+#EXTINF:-1  group-title="↕️ Спортивные ⚽" tvg-name="Ziggo Sport 1 HD", Ziggo Sport 1 🇧🇪
 http://127.0.0.1:6878/hls/manifest.m3u8?infohash=8e475c8b9f12270c524f88f5659cc6811fc1399c&.m3u8
 #EXTINF:-1  group-title="↕️ Спортивные ⚽" tvg-name="Ziggo Sport 2 HD", Ziggo Sport 2 🇧🇪
 http://127.0.0.1:6878/hls/manifest.m3u8?infohash=fca28f51d5500d131770230b033c5da2b36ebf9c&.m3u8
@@ -776,6 +776,8 @@ http://127.0.0.1:6878/hls/manifest.m3u8?infohash=9bd91396b4418ae7c8eed7b8a6964eb
 http://127.0.0.1:6878/hls/manifest.m3u8?infohash=1b0b33da21fc4ac7a3a28dfd7d6a2e8dadddf6f5&.m3u8
 #EXTINF:-1  group-title="↕️ Спортивные ⚽" tvg-name="CANAL+ Sport 4 [PL]" tvg-id="canal-pl-sport-4", CANAL+ Sport 4 🇵🇱
 http://127.0.0.1:6878/hls/manifest.m3u8?infohash=9010f93e90063729f875a05db7b899fd892deadc&.m3u8
+#EXTINF:-1  group-title="↕️ Спортивные ⚽" tvg-name="CANAL+ Sport 5 [PL]" tvg-id="canal-pl-sport-5", CANAL+ Sport 5 🇵🇱
+http://127.0.0.1:6878/hls/manifest.m3u8?infohash=646e93c2389795d569f68a52230b2518f4020e4c&.m3u8
 #EXTINF:-1  group-title="↕️ Спортивные ⚽" tvg-name="TVP Sport HD [PL]" tvg-id="tvp-sport", TVP Sport HD 🇵🇱
 http://127.0.0.1:6878/hls/manifest.m3u8?infohash=8356abd054c23015cfc1b1f187f8a7e30940b3f5&.m3u8
 #EXTINF:-1  group-title="↕️ Спортивные ⚽" tvg-name="Polsat Sport [PL]" tvg-id="polsat-sport", Polsat Sport 🇵🇱
@@ -790,8 +792,6 @@ http://127.0.0.1:6878/hls/manifest.m3u8?infohash=70ba32a661dc71ac3008f2bcb8aa202
 http://127.0.0.1:6878/hls/manifest.m3u8?infohash=7438702963ad27eab81ee25634eac24f541083a4&.m3u8
 #EXTINF:-1  group-title="↕️ Спортивные ⚽" tvg-name="Sport Klub [PL]", Sport Klub 🇵🇱
 http://127.0.0.1:6878/hls/manifest.m3u8?infohash=14594b3c9520715e48756cb7258e102c5e48c29c&.m3u8
-#EXTINF:-1  group-title="↕️ Спортивные ⚽" tvg-name="nSport+ [PL]", nSport+ 🇵🇱
-http://127.0.0.1:6878/hls/manifest.m3u8?infohash=646e93c2389795d569f68a52230b2518f4020e4c&.m3u8
 #EXTINF:-1  group-title="↕️ Спортивные ⚽" tvg-name="Extreme Sports [PL]", Extreme Sports 🇵🇱
 http://127.0.0.1:6878/hls/manifest.m3u8?infohash=dab6702ce4c71a26db6f0bda262a3d4f34bb54e5&.m3u8
 #EXTINF:-1  group-title="↕️ Спортивные ⚽" tvg-name="SPORT1 [DE]", SPORT1 🇩🇪
