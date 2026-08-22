@@ -1,5 +1,5 @@
 #EXTM3U deinterlace=1 m3uautoload=1 url-tvg="https://iptvx.one/EPG"
-#EXTINF:-1  group-title="Информация 📌" tvg-logo="https://dl.dropbox.com/scl/fi/ov1ojkcly2djf8nzi225x/bull1.png?rlkey=do43cim9aaa23lenkd86pgz9s&st=p8tiyvxj", Обновлено: ⚽ 12.08.2026 🏀
+#EXTINF:-1  group-title="Информация 📌" tvg-logo="https://dl.dropbox.com/scl/fi/ov1ojkcly2djf8nzi225x/bull1.png?rlkey=do43cim9aaa23lenkd86pgz9s&st=p8tiyvxj", Обновлено: ⚽ 22.08.2026 🏀
 http://serv30.vintera.tv:8081/sochi/sochi_stream/chunks.m3u8
 #EXTINF:-1  group-title="Pro 🇷🇺" tvg-name="Первый HD" url-tvg="iptvx.one" tvg-id="pervy" tvg-logo="https://dl.dropbox.com/s/2qri8tu8q1wiu0h/Pervyihd.png", Первый HD
 https://edge3.1internet.tv/dash-live2/streams/1tv/1tvdash.mpd
@@ -123,8 +123,8 @@ http://127.0.0.1:6878/hls/manifest.m3u8?infohash=f6b7553df66ac4bffd4b3ead443b647
 http://127.0.0.1:6878/hls/manifest.m3u8?infohash=9d4b38b7218803e1d877b01b3a6c6db1a494bb6a&.m3u8
 #EXTINF:-1  group-title="Pro 🇷🇺" tvg-id="sportivny" tvg-logo="https://dl.dropbox.com/scl/fi/gil1x0cztrubk5bx0lc8c/.png?rlkey=hggiauvclx8q57juemj7qsdgo&st=j1n6gtlz", ТВ Спорт
 http://127.0.0.1:6878/hls/manifest.m3u8?infohash=30cf0f8140006a03d60a4639c623f024b4e167ed&.m3u8
-
-
+#EXTINF:-1  group-title="Pro 🇷🇺" tvg-id="footbolny" tvg-logo="https://dl.dropbox.com/scl/fi/8q63b0690danj9rcjdni9/.png?rlkey=zfaxcn10jx4pemuopjjpxlv6v&st=kcg853xm", Мяч
+http://127.0.0.1:6878/hls/manifest.m3u8?infohash=65ae3e0427ef14d9ef88f0183c011e6ff42ca062&.m3u8
 
 
 #EXTINF:-1  group-title="Pro 🇷🇺" tvg-name="Setanta Sports 1 HD" tvg-id="setanta-sports" tvg-logo="https://dl.dropbox.com/scl/fi/6shvhcfjixmvwqvwbjd9l/Setanta1_.png?rlkey=41chnhodvmpn0mp10qr1gf5ne&st=d9xtult7", Setanta Sports 1 HD
