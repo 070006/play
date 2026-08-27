@@ -456,12 +456,12 @@ http://zabava-htlive.cdn.ngenix.net/hls/CH_TV3_7/variant.m3u8
 http://127.0.0.1:6878/hls/manifest.m3u8?id=ce11719d16f89bf0f545abad9eac5d5cc34e1e3c&.m3u8
 #EXTINF:-1  group-title="↕️ Основные" tvg-id="pervy" tvg-logo="https://dl.dropboxusercontent.com/s/i1n4pja1cfx843e/pervyj.png", Первый канал
 http://127.0.0.1:6878/hls/manifest.m3u8?id=640bc50ec97a6eeeba386563420a791be66586f7&.m3u8
-#EXTINF:-1  group-title="↕️ Основные" tvg-id="rossia1" tvg-logo="https://dl.dropbox.com/s/zymt7jjcsemmfd6/russia1.png", Россия 1 HD
-http://127.0.0.1:6878/hls/manifest.m3u8?infohash=e8f879061af9baeed16ac4e1e4207d9aa4cf348a&.m3u8
-#EXTINF:-1  group-title="↕️ Основные" tvg-id="rossia1" tvg-logo="https://dl.dropbox.com/s/zymt7jjcsemmfd6/russia1.png", Россия 1 HD
-http://127.0.0.1:6878/hls/manifest.m3u8?id=de7cdf9e4f3e1eae5c61d98f679a7a457a80acb3&.m3u8
-#EXTINF:-1  group-title="↕️ Основные" tvg-id="rossia1" tvg-logo="https://dl.dropbox.com/s/zymt7jjcsemmfd6/russia1.png", Россия 1 HD
-http://127.0.0.1:6878/hls/manifest.m3u8?infohash=ca267c9a4acfebe6310a9e84ac852fbc67fe45d2&.m3u8
+
+
+
+
+
+
 #EXTINF:-1  group-title="↕️ Основные" tvg-id="rossia1" tvg-logo="https://dl.dropbox.com/s/zymt7jjcsemmfd6/russia1.png", Россия 1
 http://127.0.0.1:6878/hls/manifest.m3u8?id=10877338d9b3d26f56378815ab40237ce9936035&.m3u8
 #EXTINF:-1  group-title="↕️ Основные" tvg-id="ntv" tvg-logo="https://dl.dropbox.com/s/ao3o2kko3zlul99/ntvhd_belyy.png", НТВ HD
