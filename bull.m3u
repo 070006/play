@@ -1,12 +1,12 @@
 #EXTM3U deinterlace=1 m3uautoload=1 url-tvg="https://iptvx.one/EPG"
-#EXTINF:-1  group-title="Информация 📌" tvg-logo="https://dl.dropbox.com/scl/fi/ov1ojkcly2djf8nzi225x/bull1.png?rlkey=do43cim9aaa23lenkd86pgz9s&st=p8tiyvxj", Обновлено: ⚽ 22.08.2026 🏀
+#EXTINF:-1  group-title="Информация 📌" tvg-logo="https://dl.dropbox.com/scl/fi/ov1ojkcly2djf8nzi225x/bull1.png?rlkey=do43cim9aaa23lenkd86pgz9s&st=p8tiyvxj", Обновлено: ⚽ 27.08.2026 🏀
 http://serv30.vintera.tv:8081/sochi/sochi_stream/chunks.m3u8
 #EXTINF:-1  group-title="Pro 🇷🇺" tvg-name="Первый HD" url-tvg="iptvx.one" tvg-id="pervy" tvg-logo="https://dl.dropbox.com/s/2qri8tu8q1wiu0h/Pervyihd.png", Первый HD
 https://edge3.1internet.tv/dash-live2/streams/1tv/1tvdash.mpd
 #EXTINF:-1  group-title="Pro 🇷🇺" tvg-name="Первый HD" url-tvg="iptvx.one" tvg-id="pervy" tvg-logo="https://dl.dropbox.com/s/i1n4pja1cfx843e/pervyj.png" catchup-days="3" catchup="append" catchup-source="?offset=-${offset}&utcstart=${timestamp}", Первый канал (Тула)
 https://rt-ct-tula-htlive.cdn.ngenix.net/hls/CH_R03_1TV/variant.m3u8
 #EXTINF:-1  group-title="Pro 🇷🇺" tvg-name="Россия 1 HD" url-tvg="iptvx.one" tvg-id="rossia1" tvg-logo="https://dl.dropbox.com/scl/fi/sqp4yrkddpt8qr7nzfr1l/Russia1.png?rlkey=osr3jjbxtshr9uaotqxa9dlge&st=xkrwu85o", Россия 1 HD
-http://vgtrkregion-reg.cdnvideo.ru/vgtrk/tula/russia1-hd/index.m3u8
+http://127.0.0.1:6878/hls/manifest.m3u8?infohash=e8f879061af9baeed16ac4e1e4207d9aa4cf348a&.m3u8
 #EXTINF:-1  group-title="Pro 🇷🇺" tvg-name="Россия 1 HD" url-tvg="iptvx.one" tvg-id="rossia1" tvg-logo="https://assets-iptv2022.cdnvideo.ru/static/channel/115/logo_256_1655391177.png" catchup-days="3" catchup="append" catchup-source="?offset=-${offset}&utcstart=${timestamp}", Россия 1 (Тула)
 https://rt-ct-tula-htlive.cdn.ngenix.net/hls/CH_R04_OTT_CT_TULA_ROSSIA1/variant.m3u8
 #EXTINF:-1  group-title="Pro 🇷🇺" tvg-name="НТВ HD" url-tvg="iptvx.one" tvg-id="ntv" tvg-logo="https://dl.dropbox.com/scl/fi/yc6fdj29r91wz0p9kc87g/ntv.png?rlkey=m7etmtv0nyaf34aoc0mbyhhl1&st=e5safrtx", НТВ HD
@@ -21,8 +21,8 @@ http://rt-ct-tula-htlive.cdn.ngenix.net/hls/CH_R01_PERV_TUL/variant.m3u8
 http://127.0.0.1:6878/hls/manifest.m3u8?infohash=a6169d01fb2b8a62b45857666946732773c651d1&.m3u8
 #EXTINF:-1  group-title="Pro 🇷🇺" tvg-name="ТНТ HD" url-tvg="iptvx.one" tvg-id="tnt" tvg-logo="https://dl.dropbox.com/scl/fi/o3zfbda2msj7gjfj6mx4i/tnt.png?rlkey=7krkcqg70c8arahi9cmv4qql2&st=j2vfwzdi" catchup-days="3" catchup="append" catchup-source="?offset=-${offset}&utcstart=${timestamp}", ТНТ (Тула)
 http://rt-ct-tula-htlive.cdn.ngenix.net/hls/CH_R01_TNT/variant.m3u8
-#EXTINF:-1  group-title="Pro 🇷🇺" tvg-name="Россия 24" url-tvg="iptvx.one" tvg-id="rossia-24" tvg-logo="https://assets-iptv2022.cdnvideo.ru/static/channel/148/logo_256_1655391326.png", Россия 24 HD
-http://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/russia24-hd/1080p.m3u8
+#EXTINF:-1  group-title="Pro 🇷🇺" tvg-name="Россия 24" url-tvg="iptvx.one" tvg-id="rossia-24" tvg-logo="https://dl.dropbox.com/scl/fi/ve24nsiksgiv8o1bgu4xm/logo_256-6.webp?rlkey=6udy532dfdsmi1lfrcyjqytxk&st=1ys8pwln" catchup-days="3" catchup="append" catchup-source="?offset=-${offset}&utcstart=${timestamp}", Россия 24 (Тула)
+https://rt-ct-tula-htlive.cdn.ngenix.net/hls/CH_R01_OTT_CT_TULA_ROSSIA24/variant.m3u8
 #EXTINF:-1  group-title="Pro 🇷🇺" tvg-name="СТС" url-tvg="iptvx.one" tvg-id="sts" tvg-logo="https://dl.dropbox.com/s/dxerabkzs5s0wv9/sts_zheltyy.png", СТС HD
 http://127.0.0.1:6878/hls/manifest.m3u8?infohash=00ed244a3f5e36067b57b6a62b18cfa5d9dd0e22&.m3u8
 #EXTINF:-1  group-title="Pro 🇷🇺" tvg-name="СТС" url-tvg="iptvx.one" tvg-id="sts" tvg-logo="https://dl.dropbox.com/scl/fi/a2qvwjl90rqg1m00kphzu/sts.png?rlkey=5fb8bgap71nxk0hcrlvhwr30x&st=6hp3g3qo" catchup-days="3" catchup="append" catchup-source="?offset=-${offset}&utcstart=${timestamp}", СТС (Тула)
@@ -2070,10 +2070,10 @@ https://abr.de1se01.v2beat.live/live/live6/chunks.m3u8
 https://edge3.1internet.tv/dash-live2/streams/1tv/1tvdash.mpd
 #EXTINF:-1  group-title="С сайтов" tvg-name="Первый HD" url-tvg="iptvx.one" tvg-id="pervy" tvg-logo="https://dl.dropbox.com/s/i1n4pja1cfx843e/pervyj.png", Первый HD
 https://edge4.1internet.tv/dash-live2/streams/1tv-dvr/1tvdash.mpd
-#EXTINF:-1  group-title="С сайтов" tvg-name="Россия 1 HD" url-tvg="iptvx.one" tvg-id="rossia1" tvg-logo="https://dl.dropbox.com/s/zymt7jjcsemmfd6/russia1.png", Россия 1 HD
-https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/russia1-hd/1080p.m3u8
-#EXTINF:-1  group-title="С сайтов" tvg-name="Россия 1" url-tvg="iptvx.one" tvg-id="rossia1" tvg-logo="https://dl.dropbox.com/s/zymt7jjcsemmfd6/russia1.png", Россия 1 (Тула)
-http://vgtrkregion-reg.cdnvideo.ru/vgtrk/tula/russia1-hd/index.m3u8
+
+
+
+
 #EXTINF:-1  group-title="С сайтов" tvg-name="НТВ HD" url-tvg="iptvx.one" tvg-id="ntv" tvg-logo="https://dl.dropbox.com/s/ao3o2kko3zlul99/ntvhd_belyy.png", НТВ HD
 https://cdn.ntv.ru/ntv0_hd/tracks-v1a1/playlist.m3u8
 #EXTINF:-1  group-title="С сайтов" tvg-name="НТВ HD" url-tvg="iptvx.one" tvg-id="ntv" tvg-logo="https://dl.dropbox.com/s/ao3o2kko3zlul99/ntvhd_belyy.png", НТВ HD
@@ -2084,10 +2084,10 @@ https://cdn.ntv.ru/ntv4/tracks-v1a1/playlist.m3u8
 https://cdn.ntv.ru/ntv7/tracks-v1a1/playlist.m3u8
 #EXTINF:-1  group-title="С сайтов" tvg-name="ТВЦ HD" url-tvg="iptvx.one" tvg-id="tvcentr" tvg-logo="https://dl.dropbox.com/s/ynrajzxolyvpsnd/tvtsentr.png", ТВЦ
 https://tvc-hls.cdnvideo.ru/tvc-res/smil:vd9221_2.smil/playlist.m3u8
-#EXTINF:-1  group-title="С сайтов" tvg-name="Россия К" url-tvg="iptvx.one" tvg-id="kultura" tvg-logo="https://dl.dropbox.com/scl/fi/svucxh0v7kumt12d456tm/rossiya_kultura.png?rlkey=wvkso8jj612z9q3fvy4z1h6tn&st=5vxwv1cp", Россия К
-https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/kultura-hd/index.m3u8
-#EXTINF:-1  group-title="С сайтов" tvg-name="Россия 24" url-tvg="iptvx.one" tvg-id="rossia-24" tvg-logo="https://dl.dropbox.com/s/df8e521qutg48ce/russia-24.png", Россия 24 (Тула)
-https://vgtrkregion-reg.cdnvideo.ru/vgtrk/tula/russia24-sd/index.m3u8
+
+
+
+
 #EXTINF:-1  group-title="С сайтов" tvg-name="Мир HD" url-tvg="iptvx.one" tvg-id="mir" tvg-logo="https://dl.dropbox.com/s/jmxs11017gqj0y0/mirtv.png", Мир HD
 http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/playlist.m3u8
 #EXTINF:-1  group-title="С сайтов" tvg-name="МИР 24" url-tvg="iptvx.one" tvg-id="mir-24" tvg-logo="https://filmax-tv.ru/storage/images/channels/f5411a8935905ce18c4ee9da8c349dbc.png?d=1713260715", МИР 24 HD
