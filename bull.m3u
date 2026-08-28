@@ -1,14 +1,14 @@
 #EXTM3U deinterlace=1 m3uautoload=1 url-tvg="https://iptvx.one/EPG"
-#EXTINF:-1  group-title="Информация 📌" tvg-logo="https://dl.dropbox.com/scl/fi/ov1ojkcly2djf8nzi225x/bull1.png?rlkey=do43cim9aaa23lenkd86pgz9s&st=p8tiyvxj", Обновлено: ⚽ 27.08.2026 🏀
+#EXTINF:-1  group-title="Информация 📌" tvg-logo="https://dl.dropbox.com/scl/fi/ov1ojkcly2djf8nzi225x/bull1.png?rlkey=do43cim9aaa23lenkd86pgz9s&st=p8tiyvxj", Обновлено: ⚽ 28.08.2026 🏀
 http://serv30.vintera.tv:8081/sochi/sochi_stream/chunks.m3u8
 #EXTINF:-1  group-title="Pro 🇷🇺" tvg-name="Первый HD" url-tvg="iptvx.one" tvg-id="pervy" tvg-logo="https://dl.dropbox.com/s/2qri8tu8q1wiu0h/Pervyihd.png", Первый HD
 https://edge3.1internet.tv/dash-live2/streams/1tv/1tvdash.mpd
 #EXTINF:-1  group-title="Pro 🇷🇺" tvg-name="Первый HD" url-tvg="iptvx.one" tvg-id="pervy" tvg-logo="https://dl.dropbox.com/s/i1n4pja1cfx843e/pervyj.png" catchup-days="3" catchup="append" catchup-source="?offset=-${offset}&utcstart=${timestamp}", Первый канал (Тула)
 https://rt-ct-tula-htlive.cdn.ngenix.net/hls/CH_R03_1TV/variant.m3u8
-#EXTINF:-1  group-title="Pro 🇷🇺" tvg-name="Россия 1 HD" url-tvg="iptvx.one" tvg-id="rossia1" tvg-logo="https://dl.dropbox.com/scl/fi/sqp4yrkddpt8qr7nzfr1l/Russia1.png?rlkey=osr3jjbxtshr9uaotqxa9dlge&st=xkrwu85o", Россия 1 HD
-http://127.0.0.1:6878/hls/manifest.m3u8?infohash=e8f879061af9baeed16ac4e1e4207d9aa4cf348a&.m3u8
-#EXTINF:-1  group-title="Pro 🇷🇺" tvg-name="Россия 1 HD" url-tvg="iptvx.one" tvg-id="rossia1" tvg-logo="https://assets-iptv2022.cdnvideo.ru/static/channel/115/logo_256_1655391177.png" catchup-days="3" catchup="append" catchup-source="?offset=-${offset}&utcstart=${timestamp}", Россия 1 (Тула)
-https://rt-ct-tula-htlive.cdn.ngenix.net/hls/CH_R04_OTT_CT_TULA_ROSSIA1/variant.m3u8
+
+
+#EXTINF:-1  group-title="Pro 🇷🇺" tvg-name="Россия 1 HD" url-tvg="iptvx.one" tvg-id="rossia1" tvg-logo="https://assets-iptv2022.cdnvideo.ru/static/channel/115/logo_256_1655391177.png" catchup-days="3" catchup="append" catchup-source="?offset=-${offset}&utcstart=${timestamp}", Россия 1
+https://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIA1/variant.m3u8
 #EXTINF:-1  group-title="Pro 🇷🇺" tvg-name="НТВ HD" url-tvg="iptvx.one" tvg-id="ntv" tvg-logo="https://dl.dropbox.com/scl/fi/yc6fdj29r91wz0p9kc87g/ntv.png?rlkey=m7etmtv0nyaf34aoc0mbyhhl1&st=e5safrtx", НТВ HD
 https://cdn.ntv.ru/ntv-msk_hd/tracks-v1a1/playlist.m3u8
 #EXTINF:-1  group-title="Pro 🇷🇺" tvg-name="НТВ HD" url-tvg="iptvx.one" tvg-id="ntv" tvg-logo="https://dl.dropbox.com/scl/fi/yc6fdj29r91wz0p9kc87g/ntv.png?rlkey=m7etmtv0nyaf34aoc0mbyhhl1&st=1un1oqzs" catchup-days="3" catchup="append" catchup-source="?offset=-${offset}&utcstart=${timestamp}", НТВ (Тула)
