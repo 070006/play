@@ -1,5 +1,5 @@
 #EXTM3U deinterlace=1 m3uautoload=1 url-tvg="https://iptvx.one/EPG"
-#EXTINF:-1  group-title="Информация 📌" tvg-logo="https://dl.dropbox.com/scl/fi/ov1ojkcly2djf8nzi225x/bull1.png?rlkey=do43cim9aaa23lenkd86pgz9s&st=p8tiyvxj", Обновлено: ⚽ 28.08.2026 🏀
+#EXTINF:-1  group-title="Информация 📌" tvg-logo="https://dl.dropbox.com/scl/fi/ov1ojkcly2djf8nzi225x/bull1.png?rlkey=do43cim9aaa23lenkd86pgz9s&st=p8tiyvxj", Обновлено: ⚽ 29.08.2026 🏀
 http://serv30.vintera.tv:8081/sochi/sochi_stream/chunks.m3u8
 #EXTINF:-1  group-title="Pro 🇷🇺" tvg-name="Первый HD" url-tvg="iptvx.one" tvg-id="pervy" tvg-logo="https://dl.dropbox.com/s/2qri8tu8q1wiu0h/Pervyihd.png", Первый HD
 https://edge3.1internet.tv/dash-live2/streams/1tv/1tvdash.mpd
@@ -2108,8 +2108,8 @@ https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-03-srt.smil/play
 https://rt-glb.rttv.com/live/rtnews/playlist.m3u8
 #EXTINF:-1  group-title="С сайтов" tvg-id="rtd-ru" tvg-logo="https://dl.dropbox.com/s/sxf9ufcsg8j4zuw/rtd.png", RTД HD
 http://rt-doc.rttv.com/dvr/rtdru/rtdru1080.m3u8
-#EXTINF:-1  group-title="С сайтов" tvg-id="360-news", 360 Новости
-http://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-03-srt.smil/tracks-v5a1/mono.m3u8
+
+
 #EXTINF:-1  group-title="С сайтов", РБК-ТВ HD
 http://online.video.rbc.ru/online/rbctv_1080p/index.m3u8
 #EXTINF:-1  group-title="С сайтов" tvg-name="NO EPG News (заглушка)" url-tvg="iptvx.one" tvg-id="no_epg_news" tvg-logo="https://dl.dropbox.com/scl/fi/rzhrgj6f5brl6i4955dd9/tass.png?rlkey=n4sj1q0sozxb77a3jb57nkxna&st=r5d573w1", ТАСС
@@ -2130,10 +2130,6 @@ https://dwamdstream110.akamaized.net/hls/live/2017971/dwstream110/index.m3u8
 
 #EXTINF:-1  group-title="С сайтов" tvg-id="tv-brics", TV BRICS
 https://brics.bonus-tv.ru/cdn/brics/russian/tracks-v1a1/mono.m3u8
-#EXTINF:-1  group-title="С сайтов", Китай ТВ
-https://cdn.nexttvnet.ru/hlsl/provide/61394/ChinaTV2/china-tv_1920x1080/index.m3u8
-#EXTINF:-1  group-title="С сайтов", Плюс Минус 16
-http://media.16pm.ru/live/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1  group-title="С сайтов" tvg-id="krik-tv", Крик-ТВ
 http://hls-rictv.cdnvideo.ru/rictv/rictv-srt-stream/playlist.m3u8
 #EXTINF:-1  group-title="С сайтов", НТВ Хит
@@ -2146,20 +2142,20 @@ https://cdn.ntv.ru/th_pravo/tracks-v1a1/playlist.m3u8
 https://cdn.ntv.ru/th_style/tracks-v1a1/playlist.m3u8
 #EXTINF:-1  group-title="С сайтов", Смотрим Кино и сериалы
 https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-01.smil/tracks-v5a1/mono.m3u8
-#EXTINF:-1  group-title="С сайтов", Смотрим 100% Любовь
-https://stream.smotrim.ru/hls/fasttv01/playlist_2.m3u8
-#EXTINF:-1  group-title="С сайтов", Смотрим 100% Мужское
-https://stream.smotrim.ru/hls/fasttv02/playlist_3.m3u8
-#EXTINF:-1  group-title="С сайтов", Смотрим 100% Классика
-https://stream.smotrim.ru/hls/fasttv03/playlist_3.m3u8
-#EXTINF:-1  group-title="С сайтов", Смотрим 100% Праздник
-https://stream.smotrim.ru/hls/fasttv04/playlist_3.m3u8
-#EXTINF:-1  group-title="С сайтов", Смотрим 100% Детское
-https://stream.smotrim.ru/hls/fasttv05/playlist_3.m3u8
-#EXTINF:-1  group-title="С сайтов", Смотрим 100% Факты
-https://stream.smotrim.ru/hls/fasttv06/playlist_3.m3u8
-#EXTINF:-1  group-title="С сайтов" tvg-name="Честный детектив", Смотрим Честный детектив 
-https://stream.smotrim.ru/hls/fasttv06/playlist_3.m3u8
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 #EXTINF:-1  group-title="С сайтов", Большая Азия
 https://live-bigasia.cdnvideo.ru/bigasia/bigasia.smil/tracks-v1a1/mono.m3u8
 #EXTINF:-1  group-title="С сайтов", Просвещение
@@ -2176,16 +2172,14 @@ http://hls.tva.cdnvideo.ru/tva/tvahd.sdp/playlist.m3u8
 https://stream.smotrim.ru/hls/moscow_24/playlist_3.m3u8
 #EXTINF:-1  group-title="С сайтов", Лен ТВ 24
 https://stream.smotrim.ru/hls/lentv24/playlist_5.m3u8
-#EXTINF:-1  group-title="С сайтов", Крым 24
-http://iptv.crimea.net:8787
+
+
 
 
 #EXTINF:-1  group-title="С сайтов", ТСВ
 https://tsv.md/stream/hls/tsv-online/index.m3u8
 #EXTINF:-1  group-title="С сайтов", Краснодар
 https://live-tvkrasnodar.cdnvideo.ru/tvkrasnodar/tvkrasnodar.sdp/playlist.m3u8
-#EXTINF:-1  group-title="С сайтов", Нижний Новгород 24
-https://vgtrkregion-reg.cdnvideo.ru/vgtrk/nigniynovgorod/nigniynovgorod24-hd/index.m3u8
 #EXTINF:-1  group-title="С сайтов", Ника ТВ
 https://live-nikatv.cdnvideo.ru/nikatv/nikatv.sdp/playlist.m3u8
 #EXTINF:-1  group-title="С сайтов", Своё ТВ Ставрополь
@@ -2198,14 +2192,12 @@ http://cdn.universmotri.ru/live/univer.sdp_1080p/playlist.m3u8
 http://serv30.vintera.tv:8081/sochi/sochi_stream/chunks.m3u8
 #EXTINF:-1  group-title="С сайтов", Аква ТВ HD
 http://stitch.teletarget.ru/vintera/aquatv/index.m3u8
-#EXTINF:-1  group-title="С сайтов", КВН ТВ
-http://radio.tvs.by:8080/KVN-TV/index.m3u8
+
+
 #EXTINF:-1  group-title="С сайтов", TVM Channel
 http://cdn-01.bonus-tv.ru/tvm_edge/tracks-v1a1/index.m3u8
 #EXTINF:-1  group-title="С сайтов", Калейдоскоп ТВ
 http://cdn-01.bonus-tv.ru/Kaleidoskop_edge/index.m3u8
-
-
 
 
 
@@ -2230,24 +2222,22 @@ http://127.0.0.1:6878/hls/manifest.m3u8?infohash=26af17aba41cd451d04c4855605e4b4
 http://127.0.0.1:6878/hls/manifest.m3u8?infohash=7b35a9bea4e81679e63909373b67aa429e63a5ec&.m3u8
 #EXTINF:-1  group-title="↕️ Разное", Reality Kings TV
 http://127.0.0.1:6878/hls/manifest.m3u8?infohash=9a93c0f28472925bd7d12ff202d9f2f523522925&.m3u8
-#EXTINF:-1  group-title="↕️ Разное" tvg-name="NO EPG (заглушка)" url-tvg="iptvx.one" tvg-id="no_epg" tvg-logo="https://filmax-tv.ru/storage/images/channels/4ee80d587ae69736cfcc68de62f47713.png?d=1727964915", Мода 1
-http://127.0.0.1:6878/hls/manifest.m3u8?infohash=7b0b8a677121d707449075b537d584d6ad01ff2a&.m3u8
-#EXTINF:-1  group-title="↕️ Разное" tvg-name="NO EPG (заглушка)" url-tvg="iptvx.one" tvg-id="no_epg" tvg-logo="https://filmax-tv.ru/storage/images/channels/4ee80d587ae69736cfcc68de62f47713.png?d=1727964915", Мода 2
-http://127.0.0.1:6878/hls/manifest.m3u8?infohash=f1db805e74d4c7fcd606688717696fdd64c7b986&.m3u8
-#EXTINF:-1  group-title="↕️ Разное" tvg-name="NO EPG (заглушка)" url-tvg="iptvx.one" tvg-id="no_epg" tvg-logo="https://filmax-tv.ru/storage/images/channels/4ee80d587ae69736cfcc68de62f47713.png?d=1727964915", Мода 3
-http://127.0.0.1:6878/hls/manifest.m3u8?infohash=b85f5f1e086a00e8fad6eb4155d6d046413bf19d&.m3u8
-
-
-#EXTINF:-1  group-title="↕️ Разное" tvg-name="NO EPG (заглушка)" url-tvg="iptvx.one" tvg-id="no_epg" tvg-logo="https://filmax-tv.ru/storage/images/channels/4ee80d587ae69736cfcc68de62f47713.png?d=1727964915", Мода 5
-http://127.0.0.1:6878/hls/manifest.m3u8?infohash=eb034ecd71344756df7ec13da706eb459cda17e8&.m3u8
 
 
 
 
-#EXTINF:-1  group-title="↕️ Спортивные ⚽", Spoops HD
-http://127.0.0.1:6878/hls/manifest.m3u8?id=8ef1127693aa63af02b20dcecc2cea68f43d2a0f&.m3u8
-#EXTINF:-1  group-title="С сайтов", Spoops HD
-http://fl1001.bozztv.com/ushba46/tracks-v1a1/mono.m3u8
+
+
+
+
+
+
+
+
+
+
+
+
 #EXTINF:-1  group-title="С сайтов", Советское Кино
 http://stitch.teletarget.ru/vintera/sovietmovie/index.m3u8
 #EXTINF:-1  group-title="С сайтов" tvg-name="NO EPG (заглушка)" url-tvg="iptvx.one" tvg-id="no_epg" tvg-logo="https://i.postimg.cc/RCgvJhdQ/image.png", СоюзМультфильм
@@ -2262,7 +2252,7 @@ https://rmtv.akamaized.net/hls/live/2043154/rmtv-en-web/master.m3u8
 
 
 
-#EXTINF:-1  group-title="↕️ Спортивные ⚽", Unbeaten
+#EXTINF:-1  group-title="↕️ Спортивные ⚽" tvg-logo="https://yt3.googleusercontent.com/ytc/AOPolaSY-gKU2sbMotqwkqOBkR0vfo540_8yH7YhbdKh=s900-c-k-c0x00ffffff-no-rj", Unbeaten
 http://127.0.0.1:6878/ace/getstream?infohash=6c9a0d19c0c10f8bc655fc75339e7e05c02d8ed1&.m3u8
 #EXTINF:-1  group-title="С сайтов" tvg-name="OKKO Прайм Спорт HD" url-tvg="iptvx.one" tvg-id="okko-sport-2" tvg-logo="http://194.26.229.4/live/pda.png", OnlineTV
 http://185.221.213.254:8080/Okko/tracks-v1a1/index.m3u8
