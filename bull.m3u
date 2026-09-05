@@ -215,32 +215,12 @@ http://127.0.0.1:6878/hls/manifest.m3u8?id=aca05dc506242324c1727525d0535ceda24f8
 http://127.0.0.1:6878/hls/manifest.m3u8?id=350b2044f1c9e87e18d8fbda1bcc456c22cf9296&.m3u8
 #EXTINF:-1  group-title="Трансляции 🏆" tvg-name="PIMPLE TV 6" url-tvg="italofull" tvg-id="Pimple 6" tvg-logo="https://dl.dropbox.com/s/rom4k32apjreo71/pimpletv.jpg", PimpleTv bc9
 http://127.0.0.1:6878/hls/manifest.m3u8?id=bc99becb2a74f8f455d6dbaa3bd85c6c7e938a6c&.m3u8
-#EXTINF:-1  group-title="Трансляции 🏆" tvg-name="PIMPLE TV 1" url-tvg="italofull" tvg-id="Pimple 1" tvg-logo="https://dl.dropbox.com/s/ky1zjxy22qte6f1/Acetop.jpg", Acetop1
+#EXTINF:-1  group-title="Трансляции 🏆" tvg-name="NO EPG Sport (заглушка)" url-tvg="iptvx.one" tvg-id="no_epg_sport" tvg-logo="https://dl.dropbox.com/s/ky1zjxy22qte6f1/Acetop.jpg", Acetop1
 http://127.0.0.1:6878/hls/manifest.m3u8?id=65d49691687add6a93692a757817bac4f204ed1f&.m3u8
-#EXTINF:-1  group-title="Трансляции 🏆" tvg-name="PIMPLE TV 2" url-tvg="italofull" tvg-id="Pimple 2" tvg-logo="https://dl.dropbox.com/s/ky1zjxy22qte6f1/Acetop.jpg", Acetop2
+#EXTINF:-1  group-title="Трансляции 🏆" tvg-name="NO EPG Sport (заглушка)" url-tvg="iptvx.one" tvg-id="no_epg_sport" tvg-logo="https://dl.dropbox.com/s/ky1zjxy22qte6f1/Acetop.jpg", Acetop2
 http://127.0.0.1:6878/hls/manifest.m3u8?id=78637dab85e7948057165ad0c80b3db475dd9c3d&.m3u8
-#EXTINF:-1  group-title="Трансляции 🏆" tvg-name="PIMPLE TV 3" url-tvg="italofull" tvg-id="Pimple 3" tvg-logo="https://dl.dropbox.com/s/ky1zjxy22qte6f1/Acetop.jpg", Acetop3
+#EXTINF:-1  group-title="Трансляции 🏆" tvg-name="NO EPG Sport (заглушка)" url-tvg="iptvx.one" tvg-id="no_epg_sport" tvg-logo="https://dl.dropbox.com/s/ky1zjxy22qte6f1/Acetop.jpg", Acetop3
 http://127.0.0.1:6878/hls/manifest.m3u8?id=99da47072cf6d0d9323479791026c48961889557&.m3u8
-#EXTINF:-1  group-title="Трансляции 🏆" tvg-name="BOX SportCast Live 1 HD" url-tvg="bcu" tvg-logo="https://filmax-tv.ru/storage/images/channels/6b39ebe96919d64047129774bce16a04.png?d=1726468218", BOX SportCast Live 1 HD
-https://tinyurl.com/28bcytuo
-#EXTINF:-1  group-title="Трансляции 🏆" tvg-name="BOX SportCast Live 2 HD" url-tvg="bcu" tvg-logo="https://filmax-tv.ru/storage/images/channels/cb4d2584c815902ab88ae88bbf9797ee.png?d=1726468218", BOX SportCast Live 2 HD
-https://tinyurl.com/27ulbmh7
-#EXTINF:-1  group-title="Трансляции 🏆" tvg-name="BOX SportCast Live 3 HD" url-tvg="bcu" tvg-logo="https://filmax-tv.ru/storage/images/channels/4022b49e8e04c3e42df8775a64db3b53.png?d=1726468218", BOX SportCast Live 3 HD
-https://tinyurl.com/25syrzfl
-#EXTINF:-1  group-title="Трансляции 🏆" tvg-name="BOX SportCast Live 4 HD" url-tvg="bcu" tvg-logo="https://filmax-tv.ru/storage/images/channels/2e5f977c8cd14d9079b2a0b45363ed6e.png?d=1726468218", BOX SportCast Live 4 HD
-https://tinyurl.com/2xketpde
-#EXTINF:-1  group-title="Трансляции 🏆" tvg-name="BOX SportCast Live 5 HD" url-tvg="bcu" tvg-logo="https://filmax-tv.ru/storage/images/channels/681fe63f7a8ec6761e476725e8c31239.png?d=1726468218", BOX SportCast Live 5 HD
-https://tinyurl.com/2cgz35xt
-#EXTINF:-1  group-title="Трансляции 🏆" tvg-name="BOX SportCast Live 6 HD" url-tvg="bcu" tvg-logo="https://filmax-tv.ru/storage/images/channels/b1595f2b0097aa10d7191ab6a1c57c60.png?d=1726468218", BOX SportCast Live 6 HD
-https://tinyurl.com/29jh5j59
-#EXTINF:-1  group-title="Трансляции 🏆" tvg-name="BOX SportCast HD" url-tvg="bcu" tvg-logo="https://filmax-tv.ru/storage/images/channels/3589ca723e16e494540b9e85eccf7095.png?d=1711967194", BOX SportCast HD
-https://tinyurl.com/22ha6p6h
-#EXTINF:-1  group-title="Трансляции 🏆" tvg-name="BOX Be On Edge Live 1 HD" url-tvg="bcu" tvg-logo="https://filmax-tv.ru/storage/images/channels/a067d02da035b7a41419fc658d4d28ea.png?d=1711967170", BOX Be On Edge Live 1 HD
-https://tinyurl.com/2dbl2o48
-#EXTINF:-1  group-title="Трансляции 🏆" tvg-name="BOX Be On Edge Live 2 HD" url-tvg="bcu" tvg-logo="https://filmax-tv.ru/storage/images/channels/b12a979b73ba9a1c558ac2624d115afe.png?d=1711967170", BOX Be On Edge Live 2 HD
-https://tinyurl.com/24qzbuj7
-#EXTINF:-1  group-title="Трансляции 🏆" tvg-name="BOX Be On Edge HD" url-tvg="bcu" tvg-logo="https://filmax-tv.ru/storage/images/channels/41cd00e23fa3930b84c4d977eb832ebb.png?d=1711967170", BOX Be On Edge HD
-https://tinyurl.com/2a4akofx
 
 
 
