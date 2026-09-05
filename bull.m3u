@@ -1,5 +1,5 @@
 #EXTM3U deinterlace=1 m3uautoload=1 url-tvg="https://iptvx.one/EPG"
-#EXTINF:-1  group-title="Информация 📌" tvg-logo="https://dl.dropbox.com/scl/fi/ov1ojkcly2djf8nzi225x/bull1.png?rlkey=do43cim9aaa23lenkd86pgz9s&st=p8tiyvxj", Обновлено: ⚽ 29.08.2026 🏀
+#EXTINF:-1  group-title="Информация 📌" tvg-logo="https://dl.dropbox.com/scl/fi/ov1ojkcly2djf8nzi225x/bull1.png?rlkey=do43cim9aaa23lenkd86pgz9s&st=p8tiyvxj", Обновлено: ⚽ 05.09.2026 🏀
 http://serv30.vintera.tv:8081/sochi/sochi_stream/chunks.m3u8
 #EXTINF:-1  group-title="Pro 🇷🇺" tvg-name="Первый HD" url-tvg="iptvx.one" tvg-id="pervy" tvg-logo="https://dl.dropbox.com/s/2qri8tu8q1wiu0h/Pervyihd.png", Первый HD
 https://edge3.1internet.tv/dash-live2/streams/1tv/1tvdash.mpd
@@ -2246,8 +2246,10 @@ http://194.26.229.213/souzmultfilm/index.m3u8
 http://194.26.229.213/chip-n-dale-rescue-rangers/index.m3u8
 #EXTINF:-1  group-title="С сайтов" tvg-name="Матч!" url-tvg="iptvx.one" tvg-id="match-tv" tvg-logo="https://dl.dropbox.com/s/cjm4aeod7v7pefq/match3.png", Матч!
 https://bl.video.matchtv.ru/media/playlist/free_d46d0cf1712c0542ec7fd4f0808f600a_hd/17_89756005/1080/e6bef86de8a133cd7b27deb040758a00/4796141934.m3u8
-#EXTINF:-1  group-title="С сайтов" tvg-name="NO EPG Sport (заглушка)" tvg-id="no_epg_sport" tvg-logo="https://dl.dropbox.com/scl/fi/lxdpekjbmsflsn2o7mrdg/real.png?rlkey=6bvw3t13cryzmrbj811b57zbt&st=lq5nv5u2", RealMadrid TV
-https://rmtv.akamaized.net/hls/live/2043154/rmtv-en-web/master.m3u8
+#EXTINF:-1  group-title="↕️ Спортивные ⚽" tvg-name="NO EPG Sport (заглушка)" tvg-id="no_epg_sport" tvg-logo="https://dl.dropbox.com/scl/fi/lxdpekjbmsflsn2o7mrdg/real.png?rlkey=6bvw3t13cryzmrbj811b57zbt&st=lq5nv5u2", RealMadrid TV
+http://127.0.0.1:6878/hls/manifest.m3u8?infohash=f4d9aaf77846d694a3e19a29e10e0f709039c803&.m3u8
+
+
 
 
 
