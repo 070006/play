@@ -1,5 +1,5 @@
 #EXTM3U deinterlace=1 m3uautoload=1 url-tvg="https://iptvx.one/EPG"
-#EXTINF:-1  group-title="Информация 📌" tvg-logo="https://dl.dropbox.com/scl/fi/ov1ojkcly2djf8nzi225x/bull1.png?rlkey=do43cim9aaa23lenkd86pgz9s&st=p8tiyvxj", Обновлено: ⚽ 12.09.2026 🏀
+#EXTINF:-1  group-title="Информация 📌" tvg-logo="https://dl.dropbox.com/scl/fi/ov1ojkcly2djf8nzi225x/bull1.png?rlkey=do43cim9aaa23lenkd86pgz9s&st=p8tiyvxj", Обновлено: 🍁 12.09.2026 🏀
 http://serv30.vintera.tv:8081/sochi/sochi_stream/chunks.m3u8
 #EXTINF:-1  group-title="Pro 🇷🇺" tvg-name="Первый HD" url-tvg="iptvx.one" tvg-id="pervy" tvg-logo="https://dl.dropbox.com/s/2qri8tu8q1wiu0h/Pervyihd.png", Первый HD
 https://edge3.1internet.tv/dash-live2/streams/1tv/1tvdash.mpd
@@ -2186,21 +2186,21 @@ http://cdn-01.bonus-tv.ru/Kaleidoskop_edge/index.m3u8
 
 #EXTINF:-1  group-title="С сайтов" tvg-logo="http://www.zarya-kaspiya.ru/wp-content/uploads/2019/09/LOGO-ASTRAKHAN-RU-SPORT-ver.jpg", Астрахань Спорт
 http://streaming.astrakhan.ru/astrakhanrusporthd/playlist.m3u8
-#EXTINF:-1  group-title="С сайтов" tvg-name="Porn Classic", Porn Classic (18+)
+#EXTINF:-1  group-title="18+" tvg-name="Porn Classic", Porn Classic
 http://127.0.0.1:6878/ace/getstream?infohash=4d5cdd73ca2e18d49dbb92fbe75611adde142d1b&.m3u8
-#EXTINF:-1  group-title="С сайтов" tvg-name="Extasy HD (18+)" tvg-logo="https://filmax-tv.ru/storage/images/channels/91e186bf0a3fc5ae9f9ce349b7f9850c.png?d=1752573615", Extasy HD (18+)
+#EXTINF:-1  group-title="18+" tvg-name="Extasy HD (18+)" tvg-logo="https://filmax-tv.ru/storage/images/channels/91e186bf0a3fc5ae9f9ce349b7f9850c.png?d=1752573615", Extasy HD
 http://127.0.0.1:6878/hls/manifest.m3u8?infohash=39abd966d9ff255d1a1e48436dfabd887eb48f96&.m3u8
-#EXTINF:-1  group-title="С сайтов" tvg-name="Babes TV HD (18+)" tvg-logo="https://filmax-tv.ru/storage/images/channels/120d24a960c3d5abc72f2fe5167fd3b5.png?d=1727964013", Babes TV (18+)
+#EXTINF:-1  group-title="18+" tvg-name="Babes TV HD (18+)" tvg-logo="https://filmax-tv.ru/storage/images/channels/120d24a960c3d5abc72f2fe5167fd3b5.png?d=1727964013", Babes TV
 http://127.0.0.1:6878/hls/manifest.m3u8?infohash=6293239a836d1d8db88100679bb5ed04966122a9&.m3u8
-#EXTINF:-1  group-title="С сайтов" tvg-name="Playboy HD (18+)" tvg-logo="https://filmax-tv.ru/storage/images/channels/95f97b16b5100047486a30290f4cdb79.png?d=1750874415", Playboy UK (18+)
+#EXTINF:-1  group-title="18+" tvg-name="Playboy HD (18+)" tvg-logo="https://filmax-tv.ru/storage/images/channels/95f97b16b5100047486a30290f4cdb79.png?d=1750874415", Playboy UK
 http://127.0.0.1:6878/hls/manifest.m3u8?infohash=3538699d0f82ab315ae4eb73170fad6f9c24cacb&.m3u8
-#EXTINF:-1  group-title="С сайтов" tvg-name="Brazzers HD (18+)" tvg-logo="https://filmax-tv.ru/storage/images/channels/af5697d46a6d13892bd5d7cfc17b559d.png?d=1753785014", Brazzers TV Europe (18+)
+#EXTINF:-1  group-title="18+" tvg-name="Brazzers HD (18+)" tvg-logo="https://filmax-tv.ru/storage/images/channels/af5697d46a6d13892bd5d7cfc17b559d.png?d=1753785014", Brazzers TV Europe
 http://127.0.0.1:6878/hls/manifest.m3u8?infohash=2835be1d45f51067386a031dbf6d586700515d5f&.m3u8
-#EXTINF:-1  group-title="С сайтов" tvg-name="EroX HD (18+)" tvg-logo="https://filmax-tv.ru/storage/images/channels/e292797a1a554074b9c9bfcb8a3c26cc.png?d=1752573615", Erox (18+)
+#EXTINF:-1  group-title="18+" tvg-name="EroX HD (18+)" tvg-logo="https://filmax-tv.ru/storage/images/channels/e292797a1a554074b9c9bfcb8a3c26cc.png?d=1752573615", Erox
 http://127.0.0.1:6878/hls/manifest.m3u8?infohash=26af17aba41cd451d04c4855605e4b44d8af1dce&.m3u8
-#EXTINF:-1  group-title="С сайтов" tvg-name="Dorcel TV HD (18+)" tvg-logo="https://filmax-tv.ru/storage/images/channels/0afedb79cc11d631645950826664e576.png?d=1752569115", Dorcel TV HD (18+)
+#EXTINF:-1  group-title="18+" tvg-name="Dorcel TV HD (18+)" tvg-logo="https://filmax-tv.ru/storage/images/channels/0afedb79cc11d631645950826664e576.png?d=1752569115", Dorcel TV HD
 http://127.0.0.1:6878/hls/manifest.m3u8?infohash=7b35a9bea4e81679e63909373b67aa429e63a5ec&.m3u8
-#EXTINF:-1  group-title="С сайтов" tvg-name="Reality Kings TV", Reality Kings TV (18+)
+#EXTINF:-1  group-title="18+" tvg-name="Reality Kings TV", Reality Kings TV
 http://127.0.0.1:6878/hls/manifest.m3u8?infohash=9a93c0f28472925bd7d12ff202d9f2f523522925&.m3u8
 
 
