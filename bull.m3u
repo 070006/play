@@ -215,14 +215,6 @@ http://127.0.0.1:6878/hls/manifest.m3u8?id=aca05dc506242324c1727525d0535ceda24f8
 http://127.0.0.1:6878/hls/manifest.m3u8?id=350b2044f1c9e87e18d8fbda1bcc456c22cf9296&.m3u8
 #EXTINF:-1  group-title="Трансляции 🏆" tvg-name="PIMPLE TV 6" url-tvg="italofull" tvg-id="Pimple 6" tvg-logo="https://dl.dropbox.com/s/rom4k32apjreo71/pimpletv.jpg", PimpleTv bc9
 http://127.0.0.1:6878/hls/manifest.m3u8?id=bc99becb2a74f8f455d6dbaa3bd85c6c7e938a6c&.m3u8
-#EXTINF:-1  group-title="Трансляции 🏆" tvg-name="NO EPG Sport (заглушка)" url-tvg="iptvx.one" tvg-id="no_epg_sport" tvg-logo="https://dl.dropbox.com/s/ky1zjxy22qte6f1/Acetop.jpg", Acetop1
-http://127.0.0.1:6878/hls/manifest.m3u8?id=65d49691687add6a93692a757817bac4f204ed1f&.m3u8
-#EXTINF:-1  group-title="Трансляции 🏆" tvg-name="NO EPG Sport (заглушка)" url-tvg="iptvx.one" tvg-id="no_epg_sport" tvg-logo="https://dl.dropbox.com/s/ky1zjxy22qte6f1/Acetop.jpg", Acetop2
-http://127.0.0.1:6878/hls/manifest.m3u8?id=78637dab85e7948057165ad0c80b3db475dd9c3d&.m3u8
-#EXTINF:-1  group-title="Трансляции 🏆" tvg-name="NO EPG Sport (заглушка)" url-tvg="iptvx.one" tvg-id="no_epg_sport" tvg-logo="https://dl.dropbox.com/s/ky1zjxy22qte6f1/Acetop.jpg", Acetop3
-http://127.0.0.1:6878/hls/manifest.m3u8?id=99da47072cf6d0d9323479791026c48961889557&.m3u8
-
-
 
 
 
