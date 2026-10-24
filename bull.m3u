@@ -1,8 +1,8 @@
 #EXTM3U deinterlace=1 m3uautoload=1 url-tvg="https://iptvx.one/EPG"
-#EXTINF:-1  group-title="Информация 📌" tvg-logo="https://dl.dropbox.com/scl/fi/ov1ojkcly2djf8nzi225x/bull1.png?rlkey=do43cim9aaa23lenkd86pgz9s&st=p8tiyvxj", Обновлено: 🍁 12.09.2026 🏀
+#EXTINF:-1  group-title="Информация 📌" tvg-logo="https://dl.dropbox.com/scl/fi/ov1ojkcly2djf8nzi225x/bull1.png?rlkey=do43cim9aaa23lenkd86pgz9s&st=p8tiyvxj", Обновлено: 🍁 24.10.2026 🏀
 http://serv30.vintera.tv:8081/sochi/sochi_stream/chunks.m3u8
 #EXTINF:-1  group-title="Pro 🇷🇺" tvg-name="Первый HD" url-tvg="iptvx.one" tvg-id="pervy" tvg-logo="https://dl.dropbox.com/s/2qri8tu8q1wiu0h/Pervyihd.png", Первый HD
-https://edge3.1internet.tv/dash-live2/streams/1tv/1tvdash.mpd
+https://edge04.1internet.tv/dash-live3/streams/1tv-dvr/1tvdash.mpd
 #EXTINF:-1  group-title="Pro 🇷🇺" tvg-name="Первый HD" url-tvg="iptvx.one" tvg-id="pervy" tvg-logo="https://dl.dropbox.com/s/i1n4pja1cfx843e/pervyj.png" catchup-days="3" catchup="append" catchup-source="?offset=-${offset}&utcstart=${timestamp}", Первый канал (Тула)
 https://rt-ct-tula-htlive.cdn.ngenix.net/hls/CH_R03_1TV/variant.m3u8
 #EXTINF:-1  group-title="Pro 🇷🇺" tvg-name="Россия 1 HD" url-tvg="iptvx.one" tvg-id="rossia1" tvg-logo="https://dl.dropbox.com/scl/fi/sqp4yrkddpt8qr7nzfr1l/Russia1.png?rlkey=osr3jjbxtshr9uaotqxa9dlge&st=xkrwu85o", Россия 1 HD
@@ -22,7 +22,7 @@ http://127.0.0.1:6878/hls/manifest.m3u8?infohash=a6169d01fb2b8a62b45857666946732
 #EXTINF:-1  group-title="Pro 🇷🇺" tvg-name="ТНТ HD" url-tvg="iptvx.one" tvg-id="tnt" tvg-logo="https://dl.dropbox.com/scl/fi/o3zfbda2msj7gjfj6mx4i/tnt.png?rlkey=7krkcqg70c8arahi9cmv4qql2&st=j2vfwzdi" catchup-days="3" catchup="append" catchup-source="?offset=-${offset}&utcstart=${timestamp}", ТНТ (Тула)
 http://rt-ct-tula-htlive.cdn.ngenix.net/hls/CH_R01_TNT/variant.m3u8
 #EXTINF:-1  group-title="Pro 🇷🇺" tvg-name="Россия 24" url-tvg="iptvx.one" tvg-id="rossia-24" tvg-logo="https://dl.dropbox.com/scl/fi/ve24nsiksgiv8o1bgu4xm/logo_256-6.webp?rlkey=6udy532dfdsmi1lfrcyjqytxk&st=1ys8pwln" catchup-days="3" catchup="append" catchup-source="?offset=-${offset}&utcstart=${timestamp}", Россия 24 (Тула)
-https://rt-ct-tula-htlive.cdn.ngenix.net/hls/CH_R01_OTT_CT_TULA_ROSSIA24/variant.m3u8
+https://live.smotrim.ru/vgtrk/0/russia24-hd/1080p.m3u8
 #EXTINF:-1  group-title="Pro 🇷🇺" tvg-name="СТС" url-tvg="iptvx.one" tvg-id="sts" tvg-logo="https://dl.dropbox.com/s/dxerabkzs5s0wv9/sts_zheltyy.png", СТС HD
 http://127.0.0.1:6878/hls/manifest.m3u8?infohash=00ed244a3f5e36067b57b6a62b18cfa5d9dd0e22&.m3u8
 #EXTINF:-1  group-title="Pro 🇷🇺" tvg-name="СТС" url-tvg="iptvx.one" tvg-id="sts" tvg-logo="https://dl.dropbox.com/scl/fi/a2qvwjl90rqg1m00kphzu/sts.png?rlkey=5fb8bgap71nxk0hcrlvhwr30x&st=6hp3g3qo" catchup-days="3" catchup="append" catchup-source="?offset=-${offset}&utcstart=${timestamp}", СТС (Тула)
@@ -2038,10 +2038,10 @@ http://chanson-video.hostingradio.ru:8080/hls/chansonabr/live.m3u8
 
 #EXTINF:-1  group-title="Музыка 🎵" tvg-logo="https://cdn-profiles.tunein.com/s301079/images/logog.png?t=155672", V2BEAT TV
 https://abr.de1se01.v2beat.live/live/live6/chunks.m3u8
-#EXTINF:-1  group-title="С сайтов" tvg-name="Первый HD" url-tvg="iptvx.one" tvg-id="pervy" tvg-logo="https://dl.dropbox.com/s/2qri8tu8q1wiu0h/Pervyihd.png", Первый HD
-https://edge3.1internet.tv/dash-live2/streams/1tv/1tvdash.mpd
-#EXTINF:-1  group-title="С сайтов" tvg-name="Первый HD" url-tvg="iptvx.one" tvg-id="pervy" tvg-logo="https://dl.dropbox.com/s/i1n4pja1cfx843e/pervyj.png", Первый HD
-https://edge4.1internet.tv/dash-live2/streams/1tv-dvr/1tvdash.mpd
+
+
+
+
 
 
 
@@ -2056,8 +2056,8 @@ https://cdn.ntv.ru/ntv4/tracks-v1a1/playlist.m3u8
 https://cdn.ntv.ru/ntv7/tracks-v1a1/playlist.m3u8
 #EXTINF:-1  group-title="С сайтов" tvg-name="ТВЦ HD" url-tvg="iptvx.one" tvg-id="tvcentr" tvg-logo="https://dl.dropbox.com/s/ynrajzxolyvpsnd/tvtsentr.png", ТВЦ
 https://tvc-hls.cdnvideo.ru/tvc-res/smil:vd9221_2.smil/playlist.m3u8
-
-
+#EXTINF:-1  group-title="С сайтов" tvg-name="Россия К" url-tvg="iptvx.one" tvg-id="kultura" tvg-logo="https://dl.dropbox.com/scl/fi/svucxh0v7kumt12d456tm/rossiya_kultura.png?rlkey=wvkso8jj612z9q3fvy4z1h6tn&st=5vxwv1cp", Россия К
+https://live.smotrim.ru/vgtrk/0/kultura-hd/track_105_319a299f/chunklist.m3u8
 
 
 #EXTINF:-1  group-title="С сайтов" tvg-name="Мир HD" url-tvg="iptvx.one" tvg-id="mir" tvg-logo="https://dl.dropbox.com/s/jmxs11017gqj0y0/mirtv.png", Мир HD
@@ -2094,6 +2094,14 @@ https://stream.smotrim.ru/hls2/vesti_fm/playlist_6.m3u8
 https://stream.smotrim.ru/hls2/radio_rus/playlist_4.m3u8
 #EXTINF:-1  group-title="С сайтов", Вместе РФ
 https://qcpdqumitwf.a.trbcdn.net/livemastersrt/pr4mw_lvie-vmesterf-srt.smil/playlist.m3u8
+#EXTINF:-1  group-title="С сайтов", Запад 24
+https://live-gtrk.smotrim.ru/vgtrk/kaliningrad/zapad24-hd/track_105_6ee52196/chunklist.m3u8
+#EXTINF:-1  group-title="С сайтов", Восток 24
+https://live-gtrk.smotrim.ru/vgtrk/vladivostok/vostok24-hd/track_105_7cd61590/chunklist.m3u8
+#EXTINF:-1  group-title="С сайтов", Сибирь 24
+https://live-gtrk.smotrim.ru/vgtrk/novosibirsk/sibir24-hd/track_105_2da7a401/chunklist.m3u8
+#EXTINF:-1  group-title="С сайтов", Кавказ 24
+https://live-gtrk.smotrim.ru/vgtrk/stavropol/kavkaz24-hd/track_102_93b61749/chunklist.m3u8
 
 
 #EXTINF:-1  group-title="С сайтов" tvg-id="deutsche-welle-ru", DW Russia
@@ -2114,20 +2122,20 @@ https://cdn.ntv.ru/th_pravo/tracks-v1a1/playlist.m3u8
 https://cdn.ntv.ru/th_style/tracks-v1a1/playlist.m3u8
 #EXTINF:-1  group-title="С сайтов", Смотрим Кино и сериалы
 https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-01.smil/tracks-v5a1/mono.m3u8
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+#EXTINF:-1  group-title="С сайтов", Смотрим 100% Любовь
+https://stream.smotrim.ru/hls3/fasttv01/playlist_3.m3u8
+#EXTINF:-1  group-title="С сайтов", Смотрим 100% Мужское
+https://stream.smotrim.ru/hls3/fasttv02/playlist_3.m3u8
+#EXTINF:-1  group-title="С сайтов", Смотрим 100% Классика
+https://stream.smotrim.ru/hls3/fasttv03/playlist_3.m3u8
+#EXTINF:-1  group-title="С сайтов", Смотрим 100% Праздник
+https://stream.smotrim.ru/hls3/fasttv04/playlist_3.m3u8
+#EXTINF:-1  group-title="С сайтов", Смотрим 100% Детское
+https://stream.smotrim.ru/hls3/fasttv05/playlist_3.m3u8
+#EXTINF:-1  group-title="С сайтов", Смотрим 100% Факты
+https://stream.smotrim.ru/hls3/fasttv06/playlist_3.m3u8
+#EXTINF:-1  group-title="С сайтов" tvg-name="Честный детектив", Смотрим Честный детектив 
+https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-01.smil/tracks-v5a1/mono.m3u8
 #EXTINF:-1  group-title="С сайтов", Большая Азия
 https://live-bigasia.cdnvideo.ru/bigasia/bigasia.smil/tracks-v1a1/mono.m3u8
 #EXTINF:-1  group-title="С сайтов", Просвещение
@@ -2144,8 +2152,8 @@ http://hls.tva.cdnvideo.ru/tva/tvahd.sdp/playlist.m3u8
 https://stream.smotrim.ru/hls/moscow_24/playlist_3.m3u8
 #EXTINF:-1  group-title="С сайтов", Лен ТВ 24
 https://stream.smotrim.ru/hls/lentv24/playlist_5.m3u8
-
-
+#EXTINF:-1  group-title="С сайтов", Крым 24
+https://cdn.1tvcrimea.ru/24tvcrimea.m3u8
 
 
 #EXTINF:-1  group-title="С сайтов", ТСВ
