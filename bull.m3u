@@ -1,5 +1,5 @@
 #EXTM3U deinterlace=1 m3uautoload=1 url-tvg="https://iptvx.one/EPG"
-#EXTINF:-1  group-title="Информация 📌" tvg-logo="https://dl.dropbox.com/scl/fi/ov1ojkcly2djf8nzi225x/bull1.png?rlkey=do43cim9aaa23lenkd86pgz9s&st=p8tiyvxj", Обновлено: 🍁 24.10.2026 🏀
+#EXTINF:-1  group-title="Информация 📌" tvg-logo="https://dl.dropbox.com/scl/fi/ov1ojkcly2djf8nzi225x/bull1.png?rlkey=do43cim9aaa23lenkd86pgz9s&st=p8tiyvxj", Обновлено: 🍁 25.10.2026 🏀
 http://serv30.vintera.tv:8081/sochi/sochi_stream/chunks.m3u8
 #EXTINF:-1  group-title="Pro 🇷🇺" tvg-name="Первый HD" url-tvg="iptvx.one" tvg-id="pervy" tvg-logo="https://dl.dropbox.com/s/2qri8tu8q1wiu0h/Pervyihd.png", Первый HD
 https://edge04.1internet.tv/dash-live3/streams/1tv-dvr/1tvdash.mpd
@@ -72,7 +72,7 @@ http://127.0.0.1:6878/ace/getstream?infohash=7278cacf226493d4086ca8717a4b7314b08
 
 
 #EXTINF:-1  group-title="Pro 🇷🇺" tvg-id="solovjinypomiot" tvg-logo="https://dl.dropbox.com/scl/fi/g2hpvdo9tndftazo367la/solovjinypomiot.png?rlkey=oz9hextaa8qvxtd8d0n7o2adj&st=t26ntjh9", Соловьев Live
-https://stream.smotrim.ru/hls/solovievlive/playlist_6.m3u8
+https://stream.smotrim.ru/hls2/solovievlive/playlist_3.m3u8
 #EXTINF:-1  group-title="Pro 🇷🇺" tvg-name="Известия" url-tvg="iptvx.one" tvg-id="izvestia" tvg-logo="https://dl.dropbox.com/scl/fi/4kmsuigiv0ly0ejf2w3z6/tsn24_.png?rlkey=deebpuum7o6p7kmnh884fe5ay" catchup-days="3" catchup="append" catchup-source="?offset=-${offset}&utcstart=${timestamp}", ТСН24
 https://rt-ct-tula-htlive.cdn.ngenix.net/hls/CH_R01_OTT_CT_TULA_TULA24/variant.m3u8
 #EXTINF:-1  group-title="Pro 🇷🇺" tvg-name="1HD" tvg-id="1hd" tvg-logo="https://filmax-tv.ru/storage/images/channels/908fe186718583fd7fcbed97ef9e179c.png?d=1764852318", 1HD
